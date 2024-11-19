@@ -1,80 +1,81 @@
-import 'package:english_words/english_words.dart';
 import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
+
+const List<String> list = <String>[
+  'Option 1',
+  'Option 2',
+  'Option 3',
+  'Option 4'
+];
 
 void main() {
   runApp(MyApp());
 }
 
 class MyApp extends StatelessWidget {
-  const MyApp({super.key});
-
   @override
   Widget build(BuildContext context) {
-    return ChangeNotifierProvider(
-      create: (context) => MyAppState(),
-      child: MaterialApp(
-        title: 'mix_list_app',
-        theme: ThemeData(
-          useMaterial3: true,
-          colorScheme: ColorScheme.fromSeed(seedColor: Colors.blueAccent),
+    return MaterialApp(
+      home: Scaffold(
+        appBar: AppBar(
+          title: Text('Flutter Dropdown Example'),
         ),
-        home: MyHomePage(),
-      ),
-    );
-  }
-}
-
-class MyAppState extends ChangeNotifier {
-  var current = WordPair.random();
-}
-
-class MyHomePage extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    var appState = context.watch<MyAppState>();
-    var pair = appState.current;
-
-    return Scaffold(
-      body: Center(
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.start,
-          children: [
-            Padding(
-              padding: const EdgeInsets.all(10),
-              child: BigCard(pair: pair),
-            ),
-          ],
+        body: Center(
+          child: DropdownExample(),
         ),
       ),
     );
   }
 }
 
-class BigCard extends StatelessWidget {
-  const BigCard({
-    super.key,
-    required this.pair,
-  });
+class DropdownExample extends StatefulWidget {
+  const DropdownExample({super.key});
 
-  final WordPair pair;
+  @override
+  State<DropdownExample> createState() => _DropdownExampleState();
+}
+
+class _DropdownExampleState extends State<DropdownExample> {
+  String selectedValue = list.first;
+
+  void dropDownCallBack(String? newValue) {
+    if (newValue is String) {
+      setState(() {
+        selectedValue = newValue;
+      });
+    }
+  }
 
   @override
   Widget build(BuildContext context) {
-    final theme = Theme.of(context);
-    final style = theme.textTheme.displayMedium!.copyWith(
-      color: theme.colorScheme.onPrimary,
-    );
-
-    return Card(
-      color: theme.colorScheme.primary,
-      child: Padding(
-        padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 5),
-        child: Text(
-          pair.asLowerCase,
-          style: style,
+    return Row(
+      children: [
+        DropdownMenu<String>(
+          initialSelection: list.first,
+          onSelected: dropDownCallBack,
+          dropdownMenuEntries:
+              list.map<DropdownMenuEntry<String>>((String value) {
+            return DropdownMenuEntry<String>(value: value, label: value);
+          }).toList(),
         ),
-      ),
+        SizedBox(width: 24),
+        DropdownMenu<String>(
+          initialSelection: list.first,
+          onSelected: dropDownCallBack,
+          dropdownMenuEntries:
+              list.map<DropdownMenuEntry<String>>((String value) {
+            return DropdownMenuEntry<String>(value: value, label: value);
+          }).toList(),
+        ),
+        SizedBox(width: 24),
+        DropdownMenu<String>(
+          initialSelection: list.first,
+          onSelected: dropDownCallBack,
+          dropdownMenuEntries:
+              list.map<DropdownMenuEntry<String>>((String value) {
+            return DropdownMenuEntry<String>(value: value, label: value);
+          }).toList(),
+        )
+      ],
     );
   }
 }
