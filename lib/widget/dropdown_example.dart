@@ -1,5 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:mix_list_app/main.dart';
+
+const List<String> list = <String>[
+  'Option 1',
+  'Option 2',
+  'Option 3',
+  'Option 4'
+];
 
 class DropdownExample extends StatefulWidget {
   const DropdownExample({super.key});

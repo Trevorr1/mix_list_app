@@ -15,6 +15,11 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     context.read<FileController>().readText();
     return MaterialApp(
+      title: 'Rikku\'s Mix List',
+      theme: ThemeData(
+        useMaterial3: true,
+        colorScheme: ColorScheme.fromSeed(seedColor: Colors.lightBlue),
+      ),
       home: Home(),
     );
   }

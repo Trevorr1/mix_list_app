@@ -29,12 +29,12 @@ class FileManager {
 
     File file = await _file;
 
-    if(await file.exists()){
+    if (await file.exists()) {
       try {
         fileContent = await file.readAsString();
-        } catch (e) {
-          print(e);
-        }
+      } catch (e) {
+        print(e);
+      }
     }
 
     return fileContent;
