@@ -1,0 +1,562 @@
+[
+    {
+        "name": "potion",
+        "description": "restores 200 hp of one character.",
+        "type": "restorative items"
+    },
+    {
+        "name": "hi-potion",
+        "description": "restores 1000 hp of one character.",
+        "type": "restorative items"
+    },
+    {
+        "name": "x-potion",
+        "description": "fully restores hp of one character.",
+        "type": "restorative items"
+    },
+    {
+        "name": "mega-potion",
+        "description": "restores 2000 hp to each party member.",
+        "type": "restorative items"
+    },
+    {
+        "name": "ether",
+        "description": "restores 100 mp of one character.",
+        "type": "restorative items"
+    },
+    {
+        "name": "turbo ether",
+        "description": "restores 500 mp of one character.",
+        "type": "restorative items"
+    },
+    {
+        "name": "phoenix down",
+        "description": "revives one character from ko.",
+        "type": "restorative items"
+    },
+    {
+        "name": "mega phoenix",
+        "description": "revives party from ko.",
+        "type": "restorative items"
+    },
+    {
+        "name": "elixir",
+        "description": "fully restores one character's hp & mp.",
+        "type": "restorative items"
+    },
+    {
+        "name": "megalixir",
+        "description": "fully restores hp & mp of party.",
+        "type": "restorative items"
+    },
+    {
+        "name": "antidote",
+        "description": "cures poison.",
+        "type": "restorative items"
+    },
+    {
+        "name": "soft",
+        "description": "cures petrification.",
+        "type": "restorative items"
+    },
+    {
+        "name": "eye drops",
+        "description": "cures darkness.",
+        "type": "restorative items"
+    },
+    {
+        "name": "echo screen",
+        "description": "cures silence.",
+        "type": "restorative items"
+    },
+    {
+        "name": "holy water",
+        "description": "cures zombie and curse.",
+        "type": "restorative items"
+    },
+    {
+        "name": "remedy",
+        "description": "cures all status abnormalities except ko and curse.",
+        "type": "restorative items"
+    },
+    {
+        "name": "power distiller",
+        "description": "makes one enemy drop power spheres.",
+        "type": "distillers"
+    },
+    {
+        "name": "mana distiller",
+        "description": "makes one enemy drop mana spheres.",
+        "type": "distillers"
+    },
+    {
+        "name": "speed distiller",
+        "description": "makes one enemy drop speed spheres.",
+        "type": "distillers"
+    },
+    {
+        "name": "ability distiller",
+        "description": "makes one enemy drop ability spheres.",
+        "type": "distillers"
+    },
+    {
+        "name": "al bhed potion",
+        "description": "cures poison, silence, petrification. restores 1000 hp of each party member.",
+        "type": "use items"
+    },
+    {
+        "name": "healing water",
+        "description": "fully restores hp of party.",
+        "type": "use items"
+    },
+    {
+        "name": "tetra elemental",
+        "description": "fully restores hp and casts nulall on a character.",
+        "type": "use items"
+    },
+    {
+        "name": "antarctic wind",
+        "description": "deals ice damage to an enemy.",
+        "type": "use items"
+    },
+    {
+        "name": "arctic wind",
+        "description": "deals ice damage to an enemy.",
+        "type": "use items"
+    },
+    {
+        "name": "ice gem",
+        "description": "deals ice damage to all enemies.",
+        "type": "use items"
+    },
+    {
+        "name": "bomb fragment",
+        "description": "deals fire damage to an enemy.",
+        "type": "use items"
+    },
+    {
+        "name": "bomb core",
+        "description": "deals fire damage to an enemy.",
+        "type": "use items"
+    },
+    {
+        "name": "fire gem",
+        "description": "deals fire damage to all enemies.",
+        "type": "use items"
+    },
+    {
+        "name": "electro marble",
+        "description": "deals lightning damage to an enemy.",
+        "type": "use items"
+    },
+    {
+        "name": "lightning marble",
+        "description": "deals lightning damage to an enemy.",
+        "type": "use items"
+    },
+    {
+        "name": "lightning gem",
+        "description": "deals lightning damage to all enemies.",
+        "type": "use items"
+    },
+    {
+        "name": "fish scale",
+        "description": "deals water damage to an enemy.",
+        "type": "use items"
+    },
+    {
+        "name": "dragon scale",
+        "description": "deals water damage to an enemy.",
+        "type": "use items"
+    },
+    {
+        "name": "water gem",
+        "description": "deals water damage to all enemies.",
+        "type": "use items"
+    },
+    {
+        "name": "grenade",
+        "description": "damages all enemies.",
+        "type": "use items"
+    },
+    {
+        "name": "frag grenade",
+        "description": "inflicts damage and armor break on all enemies.",
+        "type": "use items"
+    },
+    {
+        "name": "sleeping powder",
+        "description": "inflicts damage and sleep on all enemies.",
+        "type": "use items"
+    },
+    {
+        "name": "dream powder",
+        "description": "inflicts damage and sleep on all enemies.",
+        "type": "use items"
+    },
+    {
+        "name": "silence grenade",
+        "description": "inflicts damage and silence on all enemies.",
+        "type": "use items"
+    },
+    {
+        "name": "smoke bomb",
+        "description": "inflicts damage and darkness on all enemies.",
+        "type": "use items"
+    },
+    {
+        "name": "shadow gem",
+        "description": "reduces hp of all enemies by half.",
+        "type": "use items"
+    },
+    {
+        "name": "shining gem",
+        "description": "damages an enemy.",
+        "type": "use items"
+    },
+    {
+        "name": "blessed gem",
+        "description": "damages an enemy.",
+        "type": "use items"
+    },
+    {
+        "name": "supreme gem",
+        "description": "damages all enemies.",
+        "type": "use items"
+    },
+    {
+        "name": "poison fang",
+        "description": "inflicts damage and poison on an enemy.",
+        "type": "use items"
+    },
+    {
+        "name": "silver hourglass",
+        "description": "delays next turn of all enemies. inflicts slow on all enemies.",
+        "type": "use items"
+    },
+    {
+        "name": "gold hourglass",
+        "description": "damages all enemies and delays their next turn. deals damage and inflicts slow and delay on all enemies.",
+        "type": "use items"
+    },
+    {
+        "name": "candle of life",
+        "description": "casts doom on an enemy.",
+        "type": "use items"
+    },
+    {
+        "name": "petrify grenade",
+        "description": "petrifies all enemies.",
+        "type": "use items"
+    },
+    {
+        "name": "farplane shadow",
+        "description": "inflicts death on an enemy.",
+        "type": "use items"
+    },
+    {
+        "name": "farplane wind",
+        "description": "inflicts death on all enemies.",
+        "type": "use items"
+    },
+    {
+        "name": "dark matter",
+        "description": "deals major damage to all enemies.",
+        "type": "use items"
+    },
+    {
+        "name": "chocobo feather",
+        "description": "casts haste on one character.",
+        "type": "use items"
+    },
+    {
+        "name": "chocobo wing",
+        "description": "casts haste on party.",
+        "type": "use items"
+    },
+    {
+        "name": "lunar curtain",
+        "description": "casts shell on one character.",
+        "type": "use items"
+    },
+    {
+        "name": "light curtain",
+        "description": "casts protect on one character.",
+        "type": "use items"
+    },
+    {
+        "name": "star curtain",
+        "description": "casts reflect on one character.",
+        "type": "use items"
+    },
+    {
+        "name": "healing spring",
+        "description": "casts regen on one character.",
+        "type": "use items"
+    },
+    {
+        "name": "mana spring",
+        "description": "absorbs mp from an enemy.",
+        "type": "use items"
+    },
+    {
+        "name": "stamina spring",
+        "description": "absorbs hp from an enemy.",
+        "type": "use items"
+    },
+    {
+        "name": "soul spring",
+        "description": "absorbs hp & mp from an enemy.",
+        "type": "use items"
+    },
+    {
+        "name": "purifying salt",
+        "description": "damages an enemy and dispels its magic effects.",
+        "type": "use items"
+    },
+    {
+        "name": "stamina tablet",
+        "description": "doubles max hp of one character.",
+        "type": "use items"
+    },
+    {
+        "name": "mana tablet",
+        "description": "doubles max mp of one character.",
+        "type": "use items"
+    },
+    {
+        "name": "stamina tonic",
+        "description": "doubles max hp of party.",
+        "type": "use items"
+    },
+    {
+        "name": "mana tonic",
+        "description": "doubles max mp of party.",
+        "type": "use items"
+    },
+    {
+        "name": "twin stars",
+        "description": "reduces mp cost of one character to 0.",
+        "type": "use items"
+    },
+    {
+        "name": "three stars",
+        "description": "reduces party's mp cost to 0.",
+        "type": "use items"
+    },
+    {
+        "name": "power sphere",
+        "description": "activates strength, defense, or hp nodes on sphere grid.",
+        "type": "spheres"
+    },
+    {
+        "name": "mana sphere",
+        "description": "activates magic, magic defense, or mp nodes on sphere grid.",
+        "type": "spheres"
+    },
+    {
+        "name": "speed sphere",
+        "description": "activates agility, accuracy, or evasion nodes on sphere grid.",
+        "type": "spheres"
+    },
+    {
+        "name": "ability sphere",
+        "description": "activates ability nodes on sphere grid.",
+        "type": "spheres"
+    },
+    {
+        "name": "fortune sphere",
+        "description": "activates luck nodes on sphere grid.",
+        "type": "spheres"
+    },
+    {
+        "name": "attribute sphere",
+        "description": "activates attribute nodes used by allies on sphere grid.",
+        "type": "spheres"
+    },
+    {
+        "name": "special sphere",
+        "description": "activates special nodes used by allies on sphere grid.",
+        "type": "spheres"
+    },
+    {
+        "name": "skill sphere",
+        "description": "activates skill nodes used by allies on sphere grid.",
+        "type": "spheres"
+    },
+    {
+        "name": "wht magic sphere",
+        "description": "activates white magic nodes used by allies on sphere grid.",
+        "type": "spheres"
+    },
+    {
+        "name": "blk magic sphere",
+        "description": "activates black magic nodes used by allies on sphere grid.",
+        "type": "spheres"
+    },
+    {
+        "name": "master sphere",
+        "description": "activates any ability or attribute nodes on sphere grid.",
+        "type": "spheres"
+    },
+    {
+        "name": "lv. 1 key sphere",
+        "description": "opens lv. 1 locks on sphere grid.",
+        "type": "spheres"
+    },
+    {
+        "name": "lv. 2 key sphere",
+        "description": "opens lv. 2 locks on sphere grid.",
+        "type": "spheres"
+    },
+    {
+        "name": "lv. 3 key sphere",
+        "description": "opens lv. 3 locks on sphere grid.",
+        "type": "spheres"
+    },
+    {
+        "name": "lv. 4 key sphere",
+        "description": "opens lv. 4 locks on sphere grid.",
+        "type": "spheres"
+    },
+    {
+        "name": "hp sphere",
+        "description": "changes empty node to hp node on sphere grid.",
+        "type": "spheres"
+    },
+    {
+        "name": "mp sphere",
+        "description": "changes empty node to mp node on sphere grid.",
+        "type": "spheres"
+    },
+    {
+        "name": "strength sphere",
+        "description": "changes empty node to strength node on sphere grid.",
+        "type": "spheres"
+    },
+    {
+        "name": "defense sphere",
+        "description": "changes empty node to defense node on sphere grid.",
+        "type": "spheres"
+    },
+    {
+        "name": "magic sphere",
+        "description": "changes empty node to magic node on sphere grid.",
+        "type": "spheres"
+    },
+    {
+        "name": "magic def sphere",
+        "description": "changes empty node to magic def node on sphere grid.",
+        "type": "spheres"
+    },
+    {
+        "name": "agility sphere",
+        "description": "changes empty node to agility node on sphere grid.",
+        "type": "spheres"
+    },
+    {
+        "name": "evasion sphere",
+        "description": "changes empty node to evasion node on sphere grid.",
+        "type": "spheres"
+    },
+    {
+        "name": "accuracy sphere",
+        "description": "changes empty node to accuracy node on sphere grid.",
+        "type": "spheres"
+    },
+    {
+        "name": "luck sphere",
+        "description": "fills empty luck nodes on sphere grid.",
+        "type": "spheres"
+    },
+    {
+        "name": "clear sphere",
+        "description": "clears nodes from sphere grid.",
+        "type": "spheres"
+    },
+    {
+        "name": "return sphere",
+        "description": "return to any previously activated node on sphere grid.",
+        "type": "spheres"
+    },
+    {
+        "name": "friend sphere",
+        "description": "move to an ally's location on sphere grid.",
+        "type": "spheres"
+    },
+    {
+        "name": "teleport sphere",
+        "description": "move to any node activated by an ally on sphere grid.",
+        "type": "spheres"
+    },
+    {
+        "name": "warp sphere",
+        "description": "move to any node on sphere grid.",
+        "type": "spheres"
+    },
+    {
+        "name": "map",
+        "description": "displays world map.",
+        "type": "miscellaneous items"
+    },
+    {
+        "name": "rename card",
+        "description": "renames aeon.",
+        "type": "miscellaneous items"
+    },
+    {
+        "name": "musk",
+        "description": "there seems to be some use for this...",
+        "type": "miscellaneous items"
+    },
+    {
+        "name": "hypello potion",
+        "description": "there seems to be some use for this...",
+        "type": "miscellaneous items"
+    },
+    {
+        "name": "shining thorn",
+        "description": "there seems to be some use for this...",
+        "type": "miscellaneous items"
+    },
+    {
+        "name": "pendulum",
+        "description": "there seems to be some use for this...",
+        "type": "miscellaneous items"
+    },
+    {
+        "name": "amulet",
+        "description": "there seems to be some use for this...",
+        "type": "miscellaneous items"
+    },
+    {
+        "name": "designer wallet",
+        "description": "there seems to be some use for this...",
+        "type": "miscellaneous items"
+    },
+    {
+        "name": "door to tomorrow",
+        "description": "there seems to be some use for this...",
+        "type": "miscellaneous items"
+    },
+    {
+        "name": "wings to discovery",
+        "description": "there seems to be some use for this...",
+        "type": "miscellaneous items"
+    },
+    {
+        "name": "gambler's spirit",
+        "description": "there seems to be some use for this...",
+        "type": "miscellaneous items"
+    },
+    {
+        "name": "underdog's secret",
+        "description": "there seems to be some use for this...",
+        "type": "miscellaneous items"
+    },
+    {
+        "name": "winning formula",
+        "description": "there seems to be some use for this...",
+        "type": "miscellaneous items"
+    }
+]

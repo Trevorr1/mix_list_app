@@ -1,0 +1,246 @@
+{
+    "name": "Ultra Potion",
+    "type": "curative",
+    "mixes": [
+        {
+            "item_1": "Potion",
+            "item_2": "Potion"
+        },
+        {
+            "item_1": "Potion",
+            "item_2": "High Potion"
+        },
+        {
+            "item_1": "Potion",
+            "item_2": "X-Potion"
+        },
+        {
+            "item_1": "Potion",
+            "item_2": "Mega Potion"
+        },
+        {
+            "item_1": "Potion",
+            "item_2": "Power Distiller"
+        },
+        {
+            "item_1": "Potion",
+            "item_2": "Mana Distiller"
+        },
+        {
+            "item_1": "Potion",
+            "item_2": "Agility Distiller"
+        },
+        {
+            "item_1": "Potion",
+            "item_2": "Ability Distiller"
+        },
+        {
+            "item_1": "Potion",
+            "item_2": "Al Bhed Potion"
+        },
+        {
+            "item_1": "Potion",
+            "item_2": "Grenade"
+        },
+        {
+            "item_1": "Potion",
+            "item_2": "Frag Grenade"
+        },
+        {
+            "item_1": "Potion",
+            "item_2": "Map"
+        },
+        {
+            "item_1": "Potion",
+            "item_2": "Rename Card"
+        },
+        {
+            "item_1": "High Potion",
+            "item_2": "High Potion"
+        },
+        {
+            "item_1": "High Potion",
+            "item_2": "Mega Potion"
+        },
+        {
+            "item_1": "High Potion",
+            "item_2": "Power Distiller"
+        },
+        {
+            "item_1": "High Potion",
+            "item_2": "Mana Distiller"
+        },
+        {
+            "item_1": "High Potion",
+            "item_2": "Agility Distiller"
+        },
+        {
+            "item_1": "High Potion",
+            "item_2": "Ability Distiller"
+        },
+        {
+            "item_1": "High Potion",
+            "item_2": "Al Bhed Potion"
+        },
+        {
+            "item_1": "High Potion",
+            "item_2": "Grenade"
+        },
+        {
+            "item_1": "High Potion",
+            "item_2": "Frag Grenade"
+        },
+        {
+            "item_1": "High Potion",
+            "item_2": "Map"
+        },
+        {
+            "item_1": "High Potion",
+            "item_2": "Rename Card"
+        },
+        {
+            "item_1": "X-Potion",
+            "item_2": "X-Potion"
+        },
+        {
+            "item_1": "X-Potion",
+            "item_2": "Mega Potion"
+        },
+        {
+            "item_1": "X-Potion",
+            "item_2": "Power Distiller"
+        },
+        {
+            "item_1": "X-Potion",
+            "item_2": "Mana Distiller"
+        },
+        {
+            "item_1": "X-Potion",
+            "item_2": "Agility Distiller"
+        },
+        {
+            "item_1": "X-Potion",
+            "item_2": "Ability Distiller"
+        },
+        {
+            "item_1": "X-Potion",
+            "item_2": "Al Bhed Potion"
+        },
+        {
+            "item_1": "X-Potion",
+            "item_2": "Grenade"
+        },
+        {
+            "item_1": "X-Potion",
+            "item_2": "Frag Grenade"
+        },
+        {
+            "item_1": "X-Potion",
+            "item_2": "Map"
+        },
+        {
+            "item_1": "X-Potion",
+            "item_2": "Rename Card"
+        },
+        {
+            "item_1": "Mega Potion",
+            "item_2": "Mega Potion"
+        },
+        {
+            "item_1": "Mega Potion",
+            "item_2": "Power Distiller"
+        },
+        {
+            "item_1": "Mega Potion",
+            "item_2": "Mana Distiller"
+        },
+        {
+            "item_1": "Mega Potion",
+            "item_2": "Agility Distiller"
+        },
+        {
+            "item_1": "Mega Potion",
+            "item_2": "Ability Distiller"
+        },
+        {
+            "item_1": "Mega Potion",
+            "item_2": "Al Bhed Potion"
+        },
+        {
+            "item_1": "Mega Potion",
+            "item_2": "Grenade"
+        },
+        {
+            "item_1": "Mega Potion",
+            "item_2": "Frag Grenade"
+        },
+        {
+            "item_1": "Mega Potion",
+            "item_2": "Map"
+        },
+        {
+            "item_1": "Mega Potion",
+            "item_2": "Rename Card"
+        },
+        {
+            "item_1": "Power Distiller",
+            "item_2": "Power Distiller"
+        },
+        {
+            "item_1": "Power Distiller",
+            "item_2": "Mana Distiller"
+        },
+        {
+            "item_1": "Power Distiller",
+            "item_2": "Agility Distiller"
+        },
+        {
+            "item_1": "Power Distiller",
+            "item_2": "Ability Distiller"
+        },
+        {
+            "item_1": "Mana Distiller",
+            "item_2": "Mana Distiller"
+        },
+        {
+            "item_1": "Mana Distiller",
+            "item_2": "Agility Distiller"
+        },
+        {
+            "item_1": "Mana Distiller",
+            "item_2": "Ability Distiller"
+        },
+        {
+            "item_1": "Agility Distiller",
+            "item_2": "Agility Distiller"
+        },
+        {
+            "item_1": "Agility Distiller",
+            "item_2": "Ability Distiller"
+        },
+        {
+            "item_1": "Ability Distiller",
+            "item_2": "Ability Distiller"
+        },
+        {
+            "item_1": "Al Bhed Potion",
+            "item_2": "Al Bhed Potion"
+        },
+        {
+            "item_1": "Grenade",
+            "item_2": "Grenade"
+        },
+        {
+            "item_1": "Frag Grenade",
+            "item_2": "Frag Grenade"
+        },
+        {
+            "item_1": "Map",
+            "item_2": "Map"
+        },
+        {
+            "item_1": "Rename Card",
+            "item_2": "Rename Card"
+        }
+    ]
+}
