@@ -1,0 +1,3466 @@
+[
+  {
+    "name": "Ultra Potion",
+    "type": "CURATIVE",
+    "description": "all party members; full HP recovery",
+    "recipes": [
+      { "base": "Potion", "add": "Potion" },
+      { "base": "Potion", "add": "High Potion" },
+      { "base": "Potion", "add": "X-Potion" },
+      { "base": "Potion", "add": "Mega Potion" },
+      { "base": "Potion", "add": "Power Distiller" },
+      { "base": "Potion", "add": "Mana Distiller" },
+      { "base": "Potion", "add": "Agility Distiller" },
+      { "base": "Potion", "add": "Ability Distiller" },
+      { "base": "Potion", "add": "Al Bhed Potion" },
+      { "base": "Potion", "add": "Grenade" },
+      { "base": "Potion", "add": "Frag Grenade" },
+      { "base": "Potion", "add": "Power Sphere" },
+      { "base": "Potion", "add": "Mana Sphere" },
+      { "base": "Potion", "add": "Speed Sphere" },
+      { "base": "Potion", "add": "Ability Sphere" },
+      { "base": "Potion", "add": "Map" },
+      { "base": "Potion", "add": "Rename Card" },
+      { "base": "High Potion", "add": "Mega Potion" },
+      { "base": "High Potion", "add": "Power Distiller" },
+      { "base": "High Potion", "add": "Mana Distiller" },
+      { "base": "High Potion", "add": "Agility Distiller" },
+      { "base": "High Potion", "add": "Ability Distiller" },
+      { "base": "High Potion", "add": "Al Bhed Potion" },
+      { "base": "High Potion", "add": "Grenade" },
+      { "base": "High Potion", "add": "Frag Grenade" },
+      { "base": "High Potion", "add": "Power Sphere" },
+      { "base": "High Potion", "add": "Mana Sphere" },
+      { "base": "High Potion", "add": "Speed Sphere" },
+      { "base": "High Potion", "add": "Ability Sphere" },
+      { "base": "High Potion", "add": "Map" },
+      { "base": "High Potion", "add": "Rename Card" },
+      { "base": "X-Potion", "add": "Power Distiller" },
+      { "base": "X-Potion", "add": "Mana Distiller" },
+      { "base": "X-Potion", "add": "Agility Distiller" },
+      { "base": "X-Potion", "add": "Ability Distiller" },
+      { "base": "X-Potion", "add": "Al Bhed Potion" },
+      { "base": "X-Potion", "add": "Power Sphere" },
+      { "base": "X-Potion", "add": "Mana Sphere" },
+      { "base": "X-Potion", "add": "Speed Sphere" },
+      { "base": "X-Potion", "add": "Ability Sphere" },
+      { "base": "X-Potion", "add": "Map" },
+      { "base": "X-Potion", "add": "Rename Card" },
+      { "base": "Mega Potion", "add": "Power Distiller" },
+      { "base": "Mega Potion", "add": "Mana Distiller" },
+      { "base": "Mega Potion", "add": "Agility Distiller" },
+      { "base": "Mega Potion", "add": "Ability Distiller" },
+      { "base": "Mega Potion", "add": "Al Bhed Potion" },
+      { "base": "Mega Potion", "add": "Power Sphere" },
+      { "base": "Mega Potion", "add": "Mana Sphere" },
+      { "base": "Mega Potion", "add": "Speed Sphere" },
+      { "base": "Mega Potion", "add": "Ability Sphere" },
+      { "base": "Mega Potion", "add": "Map" },
+      { "base": "Mega Potion", "add": "Rename Card" },
+      { "base": "Phoenix Down", "add": "Map" },
+      { "base": "Phoenix Down", "add": "Rename Card" },
+      { "base": "Power Distiller", "add": "Al Bhed Potion" },
+      { "base": "Mana Distiller", "add": "Al Bhed Potion" },
+      { "base": "Agility Distiller", "add": "Al Bhed Potion" },
+      { "base": "Ability Distiller", "add": "Al Bhed Potion" },
+      { "base": "Al Bhed Potion", "add": "Al Bhed Potion" }
+    ]
+  },
+  {
+    "name": "Panacea",
+    "type": "CURATIVE",
+    "description": "all party members; cure abnormal status",
+    "recipes": [
+      {
+        "base": "Potion",
+        "add": "Antidote"
+      },
+      {
+        "base": "Potion",
+        "add": "Soft"
+      },
+      {
+        "base": "Potion",
+        "add": "Eyedrop"
+      },
+      {
+        "base": "Potion",
+        "add": "Echo Screen"
+      },
+      {
+        "base": "Potion",
+        "add": "Holy Water"
+      },
+      {
+        "base": "Potion",
+        "add": "Remedy"
+      },
+      {
+        "base": "Potion",
+        "add": "Healing Water"
+      },
+      {
+        "base": "Potion",
+        "add": "Tetra Elemental"
+      },
+      {
+        "base": "Potion",
+        "add": "Sleeping Powder"
+      },
+      {
+        "base": "Potion",
+        "add": "Dream Powder"
+      },
+      {
+        "base": "Potion",
+        "add": "Silence Grenade"
+      },
+      {
+        "base": "Potion",
+        "add": "Smoke Bomb"
+      },
+      {
+        "base": "Potion",
+        "add": "Shadow Gem"
+      },
+      {
+        "base": "Potion",
+        "add": "Poison Fang"
+      },
+      {
+        "base": "Potion",
+        "add": "Silver Hourglass"
+      },
+      {
+        "base": "Potion",
+        "add": "Gold Hourglass"
+      },
+      {
+        "base": "Potion",
+        "add": "Candle of Life"
+      },
+      {
+        "base": "Potion",
+        "add": "Petrify Grenade"
+      },
+      {
+        "base": "Potion",
+        "add": "Chocobo Feather"
+      },
+      {
+        "base": "Potion",
+        "add": "Chocobo Wing"
+      },
+      {
+        "base": "Potion",
+        "add": "Lunar Curtain"
+      },
+      {
+        "base": "Potion",
+        "add": "Light Curtain"
+      },
+      {
+        "base": "Potion",
+        "add": "Star Curtain"
+      },
+      {
+        "base": "Potion",
+        "add": "Healing Spring"
+      },
+      {
+        "base": "Potion",
+        "add": "Mana Spring"
+      },
+      {
+        "base": "Potion",
+        "add": "Stamina Spring"
+      },
+      {
+        "base": "Potion",
+        "add": "Musk"
+      },
+      {
+        "base": "Potion",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Potion",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "High Potion",
+        "add": "Antidote"
+      },
+      {
+        "base": "High Potion",
+        "add": "Soft"
+      },
+      {
+        "base": "High Potion",
+        "add": "Eyedrop"
+      },
+      {
+        "base": "High Potion",
+        "add": "Echo Screen"
+      },
+      {
+        "base": "High Potion",
+        "add": "Holy Water"
+      },
+      {
+        "base": "High Potion",
+        "add": "Remedy"
+      },
+      {
+        "base": "X-Potion",
+        "add": "Antidote"
+      },
+      {
+        "base": "X-Potion",
+        "add": "Echo Screen"
+      },
+      {
+        "base": "X-Potion",
+        "add": "Holy Water"
+      },
+      {
+        "base": "X-Potion",
+        "add": "Remedy"
+      },
+      {
+        "base": "Mega Potion",
+        "add": "Antidote"
+      },
+      {
+        "base": "Mega Potion",
+        "add": "Soft"
+      },
+      {
+        "base": "Mega Potion",
+        "add": "Eyedrop"
+      },
+      {
+        "base": "Mega Potion",
+        "add": "Echo Screen"
+      },
+      {
+        "base": "Mega Potion",
+        "add": "Holy Water"
+      },
+      {
+        "base": "Mega Potion",
+        "add": "Remedy"
+      },
+      {
+        "base": "Phoenix Down",
+        "add": "Antidote"
+      },
+      {
+        "base": "Phoenix Down",
+        "add": "Soft"
+      },
+      {
+        "base": "Phoenix Down",
+        "add": "Eyedrop"
+      },
+      {
+        "base": "Phoenix Down",
+        "add": "Echo Screen"
+      },
+      {
+        "base": "Phoenix Down",
+        "add": "Holy Water"
+      },
+      {
+        "base": "Phoenix Down",
+        "add": "Remedy"
+      },
+      {
+        "base": "Antidote",
+        "add": "Antidote"
+      },
+      {
+        "base": "Antidote",
+        "add": "Soft"
+      },
+      {
+        "base": "Antidote",
+        "add": "Eyedrop"
+      },
+      {
+        "base": "Antidote",
+        "add": "Echo Screen"
+      },
+      {
+        "base": "Antidote",
+        "add": "Holy Water"
+      },
+      {
+        "base": "Antidote",
+        "add": "Remedy"
+      },
+      {
+        "base": "Antidote",
+        "add": "Power Distiller"
+      },
+      {
+        "base": "Antidote",
+        "add": "Mana Distiller"
+      },
+      {
+        "base": "Antidote",
+        "add": "Agility Distiller"
+      },
+      {
+        "base": "Antidote",
+        "add": "Ability Distiller"
+      },
+      {
+        "base": "Antidote",
+        "add": "Al Bhed Potion"
+      },
+      {
+        "base": "Soft",
+        "add": "Soft"
+      },
+      {
+        "base": "Soft",
+        "add": "Eyedrop"
+      },
+      {
+        "base": "Soft",
+        "add": "Echo Screen"
+      },
+      {
+        "base": "Soft",
+        "add": "Holy Water"
+      },
+      {
+        "base": "Soft",
+        "add": "Remedy"
+      },
+      {
+        "base": "Soft",
+        "add": "Power Distiller"
+      },
+      {
+        "base": "Soft",
+        "add": "Mana Distiller"
+      },
+      {
+        "base": "Soft",
+        "add": "Agility Distiller"
+      },
+      {
+        "base": "Soft",
+        "add": "Ability Distiller"
+      },
+      {
+        "base": "Soft",
+        "add": "Al Bhed Potion"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Eyedrop"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Echo Screen"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Holy Water"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Remedy"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Power Distiller"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Mana Distiller"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Agility Distiller"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Ability Distiller"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Al Bhed Potion"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Echo Screen"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Holy Water"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Remedy"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Power Distiller"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Mana Distiller"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Agility Distiller"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Ability Distiller"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Al Bhed Potion"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Holy Water"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Remedy"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Power Distiller"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Mana Distiller"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Agility Distiller"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Ability Distiller"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Al Bhed Potion"
+      },
+      {
+        "base": "Remedy",
+        "add": "Remedy"
+      },
+      {
+        "base": "Remedy",
+        "add": "Power Distiller"
+      },
+      {
+        "base": "Remedy",
+        "add": "Mana Distiller"
+      },
+      {
+        "base": "Remedy",
+        "add": "Agility Distiller"
+      },
+      {
+        "base": "Remedy",
+        "add": "Ability Distiller"
+      },
+      {
+        "base": "Remedy",
+        "add": "Al Bhed Potion"
+      }
+    ]
+  },
+  {
+    "name": "Ultra Cure",
+    "type": "CURATIVE",
+    "description": "all party members; cure abnormal status and full HP recovery",
+    "recipes": [
+      {
+        "base": "Power Distiller",
+        "add": "Sleeping Powder"
+      },
+      {
+        "base": "Power Distiller",
+        "add": "Dream Powder"
+      },
+      {
+        "base": "Power Distiller",
+        "add": "Silence Grenade"
+      },
+      {
+        "base": "Power Distiller",
+        "add": "Smoke Bomb"
+      },
+      {
+        "base": "Power Distiller",
+        "add": "Poison Fang"
+      },
+      {
+        "base": "Power Distiller",
+        "add": "Silver Hourglass"
+      },
+      {
+        "base": "Power Distiller",
+        "add": "Gold Hourglass"
+      },
+      {
+        "base": "Power Distiller",
+        "add": "Candle of Life"
+      },
+      {
+        "base": "Power Distiller",
+        "add": "Petrify Grenade"
+      },
+      {
+        "base": "Power Distiller",
+        "add": "Farplane Shadow"
+      },
+      {
+        "base": "Power Distiller",
+        "add": "Farplane Wind"
+      },
+      {
+        "base": "Power Distiller",
+        "add": "Chocobo Feather"
+      },
+      {
+        "base": "Power Distiller",
+        "add": "Chocobo Wing"
+      },
+      {
+        "base": "Power Distiller",
+        "add": "Healing Spring"
+      },
+      {
+        "base": "Power Distiller",
+        "add": "Mana Spring"
+      },
+      {
+        "base": "Power Distiller",
+        "add": "Stamina Spring"
+      },
+      {
+        "base": "Power Distiller",
+        "add": "Soul Spring"
+      },
+      {
+        "base": "Power Distiller",
+        "add": "Purifying Salt"
+      },
+      {
+        "base": "Power Distiller",
+        "add": "Musk"
+      },
+      {
+        "base": "Power Distiller",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Power Distiller",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Mana Distiller",
+        "add": "Sleeping Powder"
+      },
+      {
+        "base": "Mana Distiller",
+        "add": "Dream Powder"
+      },
+      {
+        "base": "Mana Distiller",
+        "add": "Silence Grenade"
+      },
+      {
+        "base": "Mana Distiller",
+        "add": "Smoke Bomb"
+      },
+      {
+        "base": "Mana Distiller",
+        "add": "Poison Fang"
+      },
+      {
+        "base": "Mana Distiller",
+        "add": "Silver Hourglass"
+      },
+      {
+        "base": "Mana Distiller",
+        "add": "Gold Hourglass"
+      },
+      {
+        "base": "Mana Distiller",
+        "add": "Candle of Life"
+      },
+      {
+        "base": "Mana Distiller",
+        "add": "Petrify Grenade"
+      },
+      {
+        "base": "Mana Distiller",
+        "add": "Farplane Shadow"
+      },
+      {
+        "base": "Mana Distiller",
+        "add": "Farplane Wind"
+      },
+      {
+        "base": "Mana Distiller",
+        "add": "Chocobo Feather"
+      },
+      {
+        "base": "Mana Distiller",
+        "add": "Chocobo Wing"
+      },
+      {
+        "base": "Mana Distiller",
+        "add": "Healing Spring"
+      },
+      {
+        "base": "Mana Distiller",
+        "add": "Mana Spring"
+      },
+      {
+        "base": "Mana Distiller",
+        "add": "Stamina Spring"
+      },
+      {
+        "base": "Mana Distiller",
+        "add": "Soul Spring"
+      },
+      {
+        "base": "Mana Distiller",
+        "add": "Purifying Salt"
+      },
+      {
+        "base": "Mana Distiller",
+        "add": "Musk"
+      },
+      {
+        "base": "Mana Distiller",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Mana Distiller",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Agility Distiller",
+        "add": "Sleeping Powder"
+      },
+      {
+        "base": "Agility Distiller",
+        "add": "Dream Powder"
+      },
+      {
+        "base": "Agility Distiller",
+        "add": "Silence Grenade"
+      },
+      {
+        "base": "Agility Distiller",
+        "add": "Smoke Bomb"
+      },
+      {
+        "base": "Agility Distiller",
+        "add": "Poison Fang"
+      },
+      {
+        "base": "Agility Distiller",
+        "add": "Silver Hourglass"
+      },
+      {
+        "base": "Agility Distiller",
+        "add": "Gold Hourglass"
+      },
+      {
+        "base": "Agility Distiller",
+        "add": "Candle of Life"
+      },
+      {
+        "base": "Agility Distiller",
+        "add": "Petrify Grenade"
+      },
+      {
+        "base": "Agility Distiller",
+        "add": "Farplane Shadow"
+      },
+      {
+        "base": "Agility Distiller",
+        "add": "Farplane Wind"
+      },
+      {
+        "base": "Agility Distiller",
+        "add": "Chocobo Feather"
+      },
+      {
+        "base": "Agility Distiller",
+        "add": "Chocobo Wing"
+      },
+      {
+        "base": "Agility Distiller",
+        "add": "Healing Spring"
+      },
+      {
+        "base": "Agility Distiller",
+        "add": "Mana Spring"
+      },
+      {
+        "base": "Agility Distiller",
+        "add": "Stamina Spring"
+      },
+      {
+        "base": "Agility Distiller",
+        "add": "Soul Spring"
+      },
+      {
+        "base": "Agility Distiller",
+        "add": "Purifying Salt"
+      },
+      {
+        "base": "Agility Distiller",
+        "add": "Musk"
+      },
+      {
+        "base": "Agility Distiller",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Agility Distiller",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Ability Distiller",
+        "add": "Sleeping Powder"
+      },
+      {
+        "base": "Ability Distiller",
+        "add": "Dream Powder"
+      },
+      {
+        "base": "Ability Distiller",
+        "add": "Silence Grenade"
+      },
+      {
+        "base": "Ability Distiller",
+        "add": "Smoke Bomb"
+      },
+      {
+        "base": "Ability Distiller",
+        "add": "Poison Fang"
+      },
+      {
+        "base": "Ability Distiller",
+        "add": "Silver Hourglass"
+      },
+      {
+        "base": "Ability Distiller",
+        "add": "Gold Hourglass"
+      },
+      {
+        "base": "Ability Distiller",
+        "add": "Candle of Life"
+      },
+      {
+        "base": "Ability Distiller",
+        "add": "Petrify Grenade"
+      },
+      {
+        "base": "Ability Distiller",
+        "add": "Farplane Shadow"
+      },
+      {
+        "base": "Ability Distiller",
+        "add": "Farplane Wind"
+      },
+      {
+        "base": "Ability Distiller",
+        "add": "Chocobo Feather"
+      },
+      {
+        "base": "Ability Distiller",
+        "add": "Chocobo Wing"
+      },
+      {
+        "base": "Ability Distiller",
+        "add": "Healing Spring"
+      },
+      {
+        "base": "Ability Distiller",
+        "add": "Mana Spring"
+      },
+      {
+        "base": "Ability Distiller",
+        "add": "Stamina Spring"
+      },
+      {
+        "base": "Ability Distiller",
+        "add": "Soul Spring"
+      },
+      {
+        "base": "Ability Distiller",
+        "add": "Purifying Salt"
+      },
+      {
+        "base": "Ability Distiller",
+        "add": "Musk"
+      },
+      {
+        "base": "Ability Distiller",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Ability Distiller",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Al Bhed Potion",
+        "add": "Sleeping Powder"
+      },
+      {
+        "base": "Al Bhed Potion",
+        "add": "Dream Powder"
+      },
+      {
+        "base": "Al Bhed Potion",
+        "add": "Silence Grenade"
+      },
+      {
+        "base": "Al Bhed Potion",
+        "add": "Smoke Bomb"
+      },
+      {
+        "base": "Al Bhed Potion",
+        "add": "Poison Fang"
+      },
+      {
+        "base": "Al Bhed Potion",
+        "add": "Silver Hourglass"
+      },
+      {
+        "base": "Al Bhed Potion",
+        "add": "Gold Hourglass"
+      },
+      {
+        "base": "Al Bhed Potion",
+        "add": "Candle of Life"
+      },
+      {
+        "base": "Al Bhed Potion",
+        "add": "Petrify Grenade"
+      },
+      {
+        "base": "Al Bhed Potion",
+        "add": "Farplane Shadow"
+      },
+      {
+        "base": "Al Bhed Potion",
+        "add": "Farplane Wind"
+      },
+      {
+        "base": "Al Bhed Potion",
+        "add": "Chocobo Feather"
+      },
+      {
+        "base": "Al Bhed Potion",
+        "add": "Chocobo Wing"
+      }
+    ]
+  },
+  {
+    "name": "Mega Phoenix",
+    "description": "all party members; revive from K.O. with half HP",
+    "type": "CURATIVE",
+    "recipes": [
+      { "base": "Potion", "add": "Phoenix Down" },
+      { "base": "High Potion", "add": "Phoenix Down" },
+      { "base": "X-Potion", "add": "Phoenix Down" },
+      { "base": "Mega Potion", "add": "Phoenix Down" },
+      { "base": "Phoenix Down", "add": "Phoenix Down" },
+      { "base": "Power Distiller", "add": "Phoenix Down" },
+      { "base": "Mana Distiller", "add": "Phoenix Down" },
+      { "base": "Agility Distiller", "add": "Phoenix Down" },
+      { "base": "Ability Distiller", "add": "Phoenix Down" },
+      { "base": "Al Bhed Potion", "add": "Phoenix Down" },
+      { "base": "Healing Water", "add": "Phoenix Down" },
+      { "base": "Tetra Elemental", "add": "Phoenix Down" },
+      { "base": "Grenade", "add": "Phoenix Down" },
+      { "base": "Frag Grenade", "add": "Phoenix Down" },
+      { "base": "Sleeping Powder", "add": "Phoenix Down" },
+      { "base": "Dream Powder", "add": "Phoenix Down" },
+      { "base": "Silence Grenade", "add": "Phoenix Down" },
+      { "base": "Smoke Bomb", "add": "Phoenix Down" },
+      { "base": "Shadow Gem", "add": "Phoenix Down" },
+      { "base": "Poison Fang", "add": "Phoenix Down" },
+      { "base": "Silver Hourglass", "add": "Phoenix Down" },
+      { "base": "Gold Hourglass", "add": "Phoenix Down" },
+      { "base": "Candle of Life", "add": "Phoenix Down" },
+      { "base": "Petrify Grenade", "add": "Phoenix Down" },
+      { "base": "Chocobo Feather", "add": "Phoenix Down" },
+      { "base": "Chocobo Wing", "add": "Phoenix Down" },
+      { "base": "Lunar Curtain", "add": "Phoenix Down" },
+      { "base": "Light Curtain", "add": "Phoenix Down" },
+      { "base": "Star Curtain", "add": "Phoenix Down" },
+      { "base": "Healing Spring", "add": "Phoenix Down" },
+      { "base": "Mana Spring", "add": "Phoenix Down" },
+      { "base": "Stamina Spring", "add": "Phoenix Down" },
+      { "base": "Soul Spring", "add": "Phoenix Down" },
+      { "base": "Purifying Salt", "add": "Phoenix Down" },
+      { "base": "Power Sphere", "add": "Phoenix Down" },
+      { "base": "Mana Sphere", "add": "Phoenix Down" },
+      { "base": "Speed Sphere", "add": "Phoenix Down" },
+      { "base": "Ability Sphere", "add": "Phoenix Down" },
+      { "base": "Musk", "add": "Phoenix Down" },
+      { "base": "Hypello Potion", "add": "Phoenix Down" },
+      { "base": "Shining Thorn", "add": "Phoenix Down" }
+    ]
+  },
+  {
+    "name": "Final Phoenix",
+    "description": "all party members; revive from K.O. with full HP",
+    "type": "CURATIVE",
+    "recipes": [
+      { "base": "Potion", "add": "Mega Phoenix" },
+      { "base": "High Potion", "add": "Mega Phoenix" },
+      { "base": "X-Potion", "add": "Mega Phoenix" },
+      { "base": "Mega Potion", "add": "Mega Phoenix" },
+      { "base": "Elixir", "add": "Mega Phoenix" },
+      { "base": "Phoenix Down", "add": "Mega Phoenix" },
+      { "base": "Phoenix Down", "add": "Shining Gem" },
+      { "base": "Phoenix Down", "add": "Blessed Gem" },
+      { "base": "Phoenix Down", "add": "Farplane Shadow" },
+      { "base": "Phoenix Down", "add": "Farplane Wind" },
+      { "base": "Phoenix Down", "add": "Attribute Sphere" },
+      { "base": "Phoenix Down", "add": "Special Sphere" },
+      { "base": "Phoenix Down", "add": "Skill Sphere" },
+      { "base": "Phoenix Down", "add": "White Magic Sphere" },
+      { "base": "Phoenix Down", "add": "Black Magic Sphere" },
+      { "base": "Phoenix Down", "add": "Master Sphere" },
+      { "base": "Phoenix Down", "add": "Level 1 Key Sphere" },
+      { "base": "Phoenix Down", "add": "Level 2 Key Sphere" },
+      { "base": "Phoenix Down", "add": "Level 3 Key Sphere" },
+      { "base": "Phoenix Down", "add": "Level 4 Key Sphere" },
+      { "base": "Phoenix Down", "add": "HP Sphere" },
+      { "base": "Phoenix Down", "add": "MP Sphere" },
+      { "base": "Phoenix Down", "add": "Strength Sphere" },
+      { "base": "Phoenix Down", "add": "Defense Sphere" },
+      { "base": "Phoenix Down", "add": "Magic Sphere" },
+      { "base": "Phoenix Down", "add": "Magic Defense Sphere" },
+      { "base": "Phoenix Down", "add": "Agility Sphere" },
+      { "base": "Phoenix Down", "add": "Evasion Sphere" },
+      { "base": "Phoenix Down", "add": "Accuracy Sphere" },
+      { "base": "Phoenix Down", "add": "Clear Sphere" },
+      { "base": "Phoenix Down", "add": "Return Sphere" },
+      { "base": "Phoenix Down", "add": "Friend Sphere" },
+      { "base": "Phoenix Down", "add": "Teleport Sphere" },
+      { "base": "Phoenix Down", "add": "Warp Sphere" },
+      { "base": "Phoenix Down", "add": "Pendulum" },
+      { "base": "Phoenix Down", "add": "Amulet" },
+      { "base": "Phoenix Down", "add": "Door to Tomorrow" },
+      { "base": "Phoenix Down", "add": "Wings to Discovery" },
+      { "base": "Phoenix Down", "add": "Gambler's Spirit" },
+      { "base": "Phoenix Down", "add": "Underdog's Secret" },
+      { "base": "Phoenix Down", "add": "Winning Formula" },
+      { "base": "Mega Phoenix", "add": "Mega Phoenix" },
+      { "base": "Mega Phoenix", "add": "Antidote" },
+      { "base": "Mega Phoenix", "add": "Soft" },
+      { "base": "Mega Phoenix", "add": "Eyedrop" },
+      { "base": "Mega Phoenix", "add": "Echo Screen" },
+      { "base": "Mega Phoenix", "add": "Holy Water" },
+      { "base": "Mega Phoenix", "add": "Remedy" },
+      { "base": "Mega Phoenix", "add": "Power Distiller" },
+      { "base": "Mega Phoenix", "add": "Mana Distiller" },
+      { "base": "Mega Phoenix", "add": "Agility Distiller" },
+      { "base": "Mega Phoenix", "add": "Ability Distiller" },
+      { "base": "Mega Phoenix", "add": "Al Bhed Potion" },
+      { "base": "Mega Phoenix", "add": "Healing Water" },
+      { "base": "Mega Phoenix", "add": "Tetra Elemental" },
+      { "base": "Mega Phoenix", "add": "Grenade" },
+      { "base": "Mega Phoenix", "add": "Frag Grenade" },
+      { "base": "Mega Phoenix", "add": "Sleeping Powder" },
+      { "base": "Mega Phoenix", "add": "Dream Powder" },
+      { "base": "Mega Phoenix", "add": "Silence Grenade" },
+      { "base": "Mega Phoenix", "add": "Smoke Bomb" },
+      { "base": "Mega Phoenix", "add": "Shadow Gem" },
+      { "base": "Mega Phoenix", "add": "Shining Gem" },
+      { "base": "Mega Phoenix", "add": "Blessed Gem" },
+      { "base": "Mega Phoenix", "add": "Poison Fang" },
+      { "base": "Mega Phoenix", "add": "Silver Hourglass" },
+      { "base": "Mega Phoenix", "add": "Gold Hourglass" },
+      { "base": "Mega Phoenix", "add": "Candle of Life" },
+      { "base": "Mega Phoenix", "add": "Petrify Grenade" },
+      { "base": "Mega Phoenix", "add": "Farplane Shadow" },
+      { "base": "Mega Phoenix", "add": "Farplane Wind" },
+      { "base": "Mega Phoenix", "add": "Chocobo Feather" },
+      { "base": "Mega Phoenix", "add": "Chocobo Wing" },
+      { "base": "Mega Phoenix", "add": "Lunar Curtain" },
+      { "base": "Mega Phoenix", "add": "Light Curtain" },
+      { "base": "Mega Phoenix", "add": "Star Curtain" },
+      { "base": "Mega Phoenix", "add": "Healing Spring" },
+      { "base": "Mega Phoenix", "add": "Mana Spring" },
+      { "base": "Mega Phoenix", "add": "Stamina Spring" },
+      { "base": "Mega Phoenix", "add": "Soul Spring" },
+      { "base": "Mega Phoenix", "add": "Purifying Salt" },
+      { "base": "Mega Phoenix", "add": "Power Sphere" },
+      { "base": "Mega Phoenix", "add": "Mana Sphere" },
+      { "base": "Mega Phoenix", "add": "Speed Sphere" },
+      { "base": "Mega Phoenix", "add": "Ability Sphere" },
+      { "base": "Mega Phoenix", "add": "Musk" },
+      { "base": "Mega Phoenix", "add": "Hypello Potion" },
+      { "base": "Mega Phoenix", "add": "Shining Thorn" }
+    ]
+  },
+  {
+    "name": "Elixir",
+    "type": "CURATIVE",
+    "description": "one party member; full HP and MP recovery",
+    "recipes": [
+      {
+        "base": "Antidote",
+        "add": "Power Sphere"
+      },
+      {
+        "base": "Antidote",
+        "add": "Mana Sphere"
+      },
+      {
+        "base": "Antidote",
+        "add": "Speed Sphere"
+      },
+      {
+        "base": "Antidote",
+        "add": "Ability Sphere"
+      },
+      {
+        "base": "Soft",
+        "add": "Power Sphere"
+      },
+      {
+        "base": "Soft",
+        "add": "Mana Sphere"
+      },
+      {
+        "base": "Soft",
+        "add": "Speed Sphere"
+      },
+      {
+        "base": "Soft",
+        "add": "Ability Sphere"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Power Sphere"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Mana Sphere"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Speed Sphere"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Ability Sphere"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Power Sphere"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Mana Sphere"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Speed Sphere"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Ability Sphere"
+      }
+    ]
+  },
+  {
+    "name": "Mega Elixir",
+    "type": "CURATIVE",
+    "description": "all party members; full HP and MP recovery",
+    "recipes": [
+      {
+        "base": "Potion",
+        "add": "Elixir"
+      },
+      {
+        "base": "Potion",
+        "add": "Shining Gem"
+      },
+      {
+        "base": "Potion",
+        "add": "Blessed Gem"
+      },
+      {
+        "base": "Potion",
+        "add": "Farplane Shadow"
+      },
+      {
+        "base": "Potion",
+        "add": "Farplane Wind"
+      },
+      {
+        "base": "Potion",
+        "add": "Soul Spring"
+      },
+      {
+        "base": "Potion",
+        "add": "Purifying Salt"
+      },
+      {
+        "base": "High Potion",
+        "add": "Elixir"
+      },
+      {
+        "base": "High Potion",
+        "add": "Healing Water"
+      },
+      {
+        "base": "High Potion",
+        "add": "Tetra Elemental"
+      },
+      {
+        "base": "High Potion",
+        "add": "Sleeping Powder"
+      },
+      {
+        "base": "High Potion",
+        "add": "Dream Powder"
+      },
+      {
+        "base": "High Potion",
+        "add": "Silence Grenade"
+      },
+      {
+        "base": "High Potion",
+        "add": "Smoke Bomb"
+      },
+      {
+        "base": "High Potion",
+        "add": "Shadow Gem"
+      },
+      {
+        "base": "High Potion",
+        "add": "Shining Gem"
+      },
+      {
+        "base": "High Potion",
+        "add": "Blessed Gem"
+      },
+      {
+        "base": "High Potion",
+        "add": "Poison Fang"
+      },
+      {
+        "base": "High Potion",
+        "add": "Silver Hourglass"
+      },
+      {
+        "base": "High Potion",
+        "add": "Gold Hourglass"
+      },
+      {
+        "base": "High Potion",
+        "add": "Candle of Life"
+      },
+      {
+        "base": "High Potion",
+        "add": "Petrify Grenade"
+      },
+      {
+        "base": "High Potion",
+        "add": "Farplane Shadow"
+      },
+      {
+        "base": "High Potion",
+        "add": "Farplane Wind"
+      },
+      {
+        "base": "High Potion",
+        "add": "Chocobo Feather"
+      },
+      {
+        "base": "High Potion",
+        "add": "Chocobo Wing"
+      },
+      {
+        "base": "High Potion",
+        "add": "Lunar Curtain"
+      },
+      {
+        "base": "High Potion",
+        "add": "Light Curtain"
+      },
+      {
+        "base": "High Potion",
+        "add": "Star Curtain"
+      },
+      {
+        "base": "High Potion",
+        "add": "Healing Spring"
+      },
+      {
+        "base": "High Potion",
+        "add": "Mana Spring"
+      },
+      {
+        "base": "High Potion",
+        "add": "Stamina Spring"
+      },
+      {
+        "base": "High Potion",
+        "add": "Soul Spring"
+      },
+      {
+        "base": "High Potion",
+        "add": "Purifying Salt"
+      },
+      {
+        "base": "High Potion",
+        "add": "Musk"
+      },
+      {
+        "base": "High Potion",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "High Potion",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "X-Potion",
+        "add": "Mega Potion"
+      },
+      {
+        "base": "X-Potion",
+        "add": "Elixir"
+      },
+      {
+        "base": "X-Potion",
+        "add": "Healing Water"
+      },
+      {
+        "base": "X-Potion",
+        "add": "Tetra Elemental"
+      },
+      {
+        "base": "X-Potion",
+        "add": "Grenade"
+      },
+      {
+        "base": "X-Potion",
+        "add": "Frag Grenade"
+      },
+      {
+        "base": "X-Potion",
+        "add": "Sleeping Powder"
+      },
+      {
+        "base": "X-Potion",
+        "add": "Dream Powder"
+      },
+      {
+        "base": "X-Potion",
+        "add": "Silence Grenade"
+      },
+      {
+        "base": "X-Potion",
+        "add": "Smoke Bomb"
+      },
+      {
+        "base": "X-Potion",
+        "add": "Shadow Gem"
+      },
+      {
+        "base": "X-Potion",
+        "add": "Shining Gem"
+      },
+      {
+        "base": "X-Potion",
+        "add": "Blessed Gem"
+      },
+      {
+        "base": "X-Potion",
+        "add": "Poison Fang"
+      },
+      {
+        "base": "X-Potion",
+        "add": "Silver Hourglass"
+      },
+      {
+        "base": "X-Potion",
+        "add": "Gold Hourglass"
+      },
+      {
+        "base": "X-Potion",
+        "add": "Candle of Life"
+      },
+      {
+        "base": "X-Potion",
+        "add": "Petrify Grenade"
+      },
+      {
+        "base": "X-Potion",
+        "add": "Chocobo Feather"
+      },
+      {
+        "base": "X-Potion",
+        "add": "Chocobo Wing"
+      },
+      {
+        "base": "X-Potion",
+        "add": "Lunar Curtain"
+      },
+      {
+        "base": "X-Potion",
+        "add": "Light Curtain"
+      },
+      {
+        "base": "X-Potion",
+        "add": "Star Curtain"
+      },
+      {
+        "base": "X-Potion",
+        "add": "Healing Spring"
+      },
+      {
+        "base": "X-Potion",
+        "add": "Mana Spring"
+      },
+      {
+        "base": "X-Potion",
+        "add": "Stamina Spring"
+      },
+      {
+        "base": "X-Potion",
+        "add": "Soul Spring"
+      },
+      {
+        "base": "X-Potion",
+        "add": "Purifying Salt"
+      },
+      {
+        "base": "X-Potion",
+        "add": "Musk"
+      },
+      {
+        "base": "X-Potion",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "X-Potion",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Mega Potion",
+        "add": "Mega Potion"
+      },
+      {
+        "base": "Mega Potion",
+        "add": "Elixir"
+      },
+      {
+        "base": "Mega Potion",
+        "add": "Healing Water"
+      },
+      {
+        "base": "Mega Potion",
+        "add": "Tetra Elemental"
+      },
+      {
+        "base": "Mega Potion",
+        "add": "Grenade"
+      },
+      {
+        "base": "Mega Potion",
+        "add": "Frag Grenade"
+      },
+      {
+        "base": "Mega Potion",
+        "add": "Sleeping Powder"
+      },
+      {
+        "base": "Mega Potion",
+        "add": "Dream Powder"
+      },
+      {
+        "base": "Mega Potion",
+        "add": "Silence Grenade"
+      },
+      {
+        "base": "Mega Potion",
+        "add": "Smoke Bomb"
+      },
+      {
+        "base": "Mega Potion",
+        "add": "Shadow Gem"
+      },
+      {
+        "base": "Mega Potion",
+        "add": "Shining Gem"
+      },
+      {
+        "base": "Mega Potion",
+        "add": "Blessed Gem"
+      },
+      {
+        "base": "Mega Potion",
+        "add": "Poison Fang"
+      },
+      {
+        "base": "Mega Potion",
+        "add": "Silver Hourglass"
+      },
+      {
+        "base": "Mega Potion",
+        "add": "Gold Hourglass"
+      },
+      {
+        "base": "Mega Potion",
+        "add": "Candle of Life"
+      },
+      {
+        "base": "Mega Potion",
+        "add": "Petrify Grenade"
+      },
+      {
+        "base": "Mega Potion",
+        "add": "Chocobo Feather"
+      },
+      {
+        "base": "Mega Potion",
+        "add": "Chocobo Wing"
+      },
+      {
+        "base": "Mega Potion",
+        "add": "Lunar Curtain"
+      },
+      {
+        "base": "Mega Potion",
+        "add": "Light Curtain"
+      },
+      {
+        "base": "Mega Potion",
+        "add": "Star Curtain"
+      },
+      {
+        "base": "Mega Potion",
+        "add": "Healing Spring"
+      },
+      {
+        "base": "Mega Potion",
+        "add": "Mana Spring"
+      },
+      {
+        "base": "Mega Potion",
+        "add": "Stamina Spring"
+      },
+      {
+        "base": "Mega Potion",
+        "add": "Soul Spring"
+      },
+      {
+        "base": "Mega Potion",
+        "add": "Purifying Salt"
+      },
+      {
+        "base": "Mega Potion",
+        "add": "Musk"
+      },
+      {
+        "base": "Mega Potion",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Mega Potion",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Elixir",
+        "add": "Elixir"
+      },
+      {
+        "base": "Elixir",
+        "add": "Phoenix Down"
+      },
+      {
+        "base": "Elixir",
+        "add": "Antidote"
+      },
+      {
+        "base": "Elixir",
+        "add": "Soft"
+      },
+      {
+        "base": "Elixir",
+        "add": "Eyedrop"
+      },
+      {
+        "base": "Elixir",
+        "add": "Echo Screen"
+      },
+      {
+        "base": "Elixir",
+        "add": "Holy Water"
+      },
+      {
+        "base": "Elixir",
+        "add": "Power Distiller"
+      },
+      {
+        "base": "Elixir",
+        "add": "Mana Distiller"
+      },
+      {
+        "base": "Elixir",
+        "add": "Agility Distiller"
+      },
+      {
+        "base": "Elixir",
+        "add": "Ability Distiller"
+      },
+      {
+        "base": "Elixir",
+        "add": "Al Bhed Potion"
+      },
+      {
+        "base": "Elixir",
+        "add": "Healing Water"
+      },
+      {
+        "base": "Elixir",
+        "add": "Frag Grenade"
+      },
+      {
+        "base": "Elixir",
+        "add": "Power Sphere"
+      },
+      {
+        "base": "Elixir",
+        "add": "Mana Sphere"
+      },
+      {
+        "base": "Elixir",
+        "add": "Speed Sphere"
+      },
+      {
+        "base": "Elixir",
+        "add": "Ability Sphere"
+      },
+      {
+        "base": "Elixir",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Mega Phoenix",
+        "add": "Map"
+      },
+      {
+        "base": "Mega Phoenix",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Antidote",
+        "add": "Healing Water"
+      },
+      {
+        "base": "Antidote",
+        "add": "Tetra Elemental"
+      },
+      {
+        "base": "Antidote",
+        "add": "Sleeping Powder"
+      },
+      {
+        "base": "Antidote",
+        "add": "Dream Powder"
+      },
+      {
+        "base": "Antidote",
+        "add": "Silence Grenade"
+      },
+      {
+        "base": "Antidote",
+        "add": "Smoke Bomb"
+      },
+      {
+        "base": "Antidote",
+        "add": "Shadow Gem"
+      },
+      {
+        "base": "Antidote",
+        "add": "Shining Gem"
+      },
+      {
+        "base": "Antidote",
+        "add": "Blessed Gem"
+      },
+      {
+        "base": "Antidote",
+        "add": "Supreme Gem"
+      },
+      {
+        "base": "Antidote",
+        "add": "Poison Fang"
+      },
+      {
+        "base": "Antidote",
+        "add": "Silver Hourglass"
+      },
+      {
+        "base": "Antidote",
+        "add": "Gold Hourglass"
+      },
+      {
+        "base": "Antidote",
+        "add": "Candle of Life"
+      },
+      {
+        "base": "Antidote",
+        "add": "Petrify Grenade"
+      },
+      {
+        "base": "Antidote",
+        "add": "Farplane Shadow"
+      },
+      {
+        "base": "Antidote",
+        "add": "Farplane Wind"
+      },
+      {
+        "base": "Antidote",
+        "add": "Chocobo Feather"
+      },
+      {
+        "base": "Antidote",
+        "add": "Chocobo Wing"
+      },
+      {
+        "base": "Antidote",
+        "add": "Healing Spring"
+      },
+      {
+        "base": "Antidote",
+        "add": "Mana Spring"
+      },
+      {
+        "base": "Antidote",
+        "add": "Stamina Spring"
+      },
+      {
+        "base": "Antidote",
+        "add": "Soul Spring"
+      },
+      {
+        "base": "Antidote",
+        "add": "Purifying Salt"
+      },
+      {
+        "base": "Antidote",
+        "add": "Map"
+      },
+      {
+        "base": "Antidote",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Antidote",
+        "add": "Musk"
+      },
+      {
+        "base": "Antidote",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Antidote",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Soft",
+        "add": "Healing Water"
+      },
+      {
+        "base": "Soft",
+        "add": "Tetra Elemental"
+      },
+      {
+        "base": "Soft",
+        "add": "Sleeping Powder"
+      },
+      {
+        "base": "Soft",
+        "add": "Dream Powder"
+      },
+      {
+        "base": "Soft",
+        "add": "Silence Grenade"
+      },
+      {
+        "base": "Soft",
+        "add": "Smoke Bomb"
+      },
+      {
+        "base": "Soft",
+        "add": "Shadow Gem"
+      },
+      {
+        "base": "Soft",
+        "add": "Shining Gem"
+      },
+      {
+        "base": "Soft",
+        "add": "Blessed Gem"
+      },
+      {
+        "base": "Soft",
+        "add": "Supreme Gem"
+      },
+      {
+        "base": "Soft",
+        "add": "Poison Fang"
+      },
+      {
+        "base": "Soft",
+        "add": "Silver Hourglass"
+      },
+      {
+        "base": "Soft",
+        "add": "Gold Hourglass"
+      },
+      {
+        "base": "Soft",
+        "add": "Candle of Life"
+      },
+      {
+        "base": "Soft",
+        "add": "Petrify Grenade"
+      },
+      {
+        "base": "Soft",
+        "add": "Farplane Shadow"
+      },
+      {
+        "base": "Soft",
+        "add": "Farplane Wind"
+      },
+      {
+        "base": "Soft",
+        "add": "Chocobo Feather"
+      },
+      {
+        "base": "Soft",
+        "add": "Chocobo Wing"
+      },
+      {
+        "base": "Soft",
+        "add": "Healing Spring"
+      },
+      {
+        "base": "Soft",
+        "add": "Mana Spring"
+      },
+      {
+        "base": "Soft",
+        "add": "Stamina Spring"
+      },
+      {
+        "base": "Soft",
+        "add": "Soul Spring"
+      },
+      {
+        "base": "Soft",
+        "add": "Purifying Salt"
+      },
+      {
+        "base": "Soft",
+        "add": "Map"
+      },
+      {
+        "base": "Soft",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Soft",
+        "add": "Musk"
+      },
+      {
+        "base": "Soft",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Soft",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Healing Water"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Tetra Elemental"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Sleeping Powder"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Dream Powder"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Silence Grenade"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Smoke Bomb"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Shadow Gem"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Shining Gem"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Blessed Gem"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Supreme Gem"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Poison Fang"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Silver Hourglass"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Gold Hourglass"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Candle of Life"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Petrify Grenade"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Farplane Shadow"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Farplane Wind"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Chocobo Feather"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Chocobo Wing"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Healing Spring"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Mana Spring"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Stamina Spring"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Soul Spring"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Purifying Salt"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Map"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Musk"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Healing Water"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Tetra Elemental"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Sleeping Powder"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Dream Powder"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Silence Grenade"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Smoke Bomb"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Shadow Gem"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Shining Gem"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Blessed Gem"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Supreme Gem"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Poison Fang"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Silver Hourglass"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Gold Hourglass"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Candle of Life"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Petrify Grenade"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Farplane Shadow"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Farplane Wind"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Chocobo Feather"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Chocobo Wing"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Healing Spring"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Mana Spring"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Stamina Spring"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Soul Spring"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Purifying Salt"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Map"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Musk"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Healing Water"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Tetra Elemental"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Sleeping Powder"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Dream Powder"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Silence Grenade"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Smoke Bomb"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Shadow Gem"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Shining Gem"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Blessed Gem"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Supreme Gem"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Poison Fang"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Silver Hourglass"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Gold Hourglass"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Candle of Life"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Petrify Grenade"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Farplane Shadow"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Farplane Wind"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Chocobo Feather"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Chocobo Wing"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Healing Spring"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Mana Spring"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Stamina Spring"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Soul Spring"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Purifying Salt"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Power Sphere"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Mana Sphere"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Speed Sphere"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Ability Sphere"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Map"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Musk"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Remedy",
+        "add": "Power Sphere"
+      },
+      {
+        "base": "Remedy",
+        "add": "Mana Sphere"
+      },
+      {
+        "base": "Remedy",
+        "add": "Speed Sphere"
+      },
+      {
+        "base": "Remedy",
+        "add": "Ability Sphere"
+      },
+      {
+        "base": "Remedy",
+        "add": "Map"
+      },
+      {
+        "base": "Remedy",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Remedy",
+        "add": "Musk"
+      },
+      {
+        "base": "Remedy",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Remedy",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Power Distiller",
+        "add": "Healing Water"
+      },
+      {
+        "base": "Power Distiller",
+        "add": "Tetra Elemental"
+      },
+      {
+        "base": "Power Distiller",
+        "add": "Shining Gem"
+      },
+      {
+        "base": "Power Distiller",
+        "add": "Blessed Gem"
+      },
+      {
+        "base": "Power Distiller",
+        "add": "Supreme Gem"
+      },
+      {
+        "base": "Mana Distiller",
+        "add": "Healing Water"
+      },
+      {
+        "base": "Mana Distiller",
+        "add": "Tetra Elemental"
+      },
+      {
+        "base": "Mana Distiller",
+        "add": "Shining Gem"
+      },
+      {
+        "base": "Mana Distiller",
+        "add": "Blessed Gem"
+      },
+      {
+        "base": "Mana Distiller",
+        "add": "Supreme Gem"
+      },
+      {
+        "base": "Agility Distiller",
+        "add": "Healing Water"
+      },
+      {
+        "base": "Agility Distiller",
+        "add": "Tetra Elemental"
+      },
+      {
+        "base": "Agility Distiller",
+        "add": "Shining Gem"
+      },
+      {
+        "base": "Agility Distiller",
+        "add": "Blessed Gem"
+      },
+      {
+        "base": "Agility Distiller",
+        "add": "Supreme Gem"
+      },
+      {
+        "base": "Ability Distiller",
+        "add": "Healing Water"
+      },
+      {
+        "base": "Ability Distiller",
+        "add": "Tetra Elemental"
+      },
+      {
+        "base": "Ability Distiller",
+        "add": "Shining Gem"
+      },
+      {
+        "base": "Ability Distiller",
+        "add": "Blessed Gem"
+      },
+      {
+        "base": "Ability Distiller",
+        "add": "Supreme Gem"
+      },
+      {
+        "base": "Al Bhed Potion",
+        "add": "Healing Water"
+      },
+      {
+        "base": "Al Bhed Potion",
+        "add": "Tetra Elemental"
+      },
+      {
+        "base": "Al Bhed Potion",
+        "add": "Shining Gem"
+      },
+      {
+        "base": "Al Bhed Potion",
+        "add": "Blessed Gem"
+      },
+      {
+        "base": "Al Bhed Potion",
+        "add": "Supreme Gem"
+      },
+      {
+        "base": "Al Bhed Potion",
+        "add": "Healing Spring"
+      },
+      {
+        "base": "Al Bhed Potion",
+        "add": "Mana Spring"
+      },
+      {
+        "base": "Al Bhed Potion",
+        "add": "Stamina Spring"
+      },
+      {
+        "base": "Al Bhed Potion",
+        "add": "Soul Spring"
+      },
+      {
+        "base": "Al Bhed Potion",
+        "add": "Purifying Salt"
+      },
+      {
+        "base": "Al Bhed Potion",
+        "add": "Three Stars"
+      },
+      {
+        "base": "Al Bhed Potion",
+        "add": "Power Sphere"
+      },
+      {
+        "base": "Al Bhed Potion",
+        "add": "Mana Sphere"
+      },
+      {
+        "base": "Al Bhed Potion",
+        "add": "Speed Sphere"
+      },
+      {
+        "base": "Al Bhed Potion",
+        "add": "Ability Sphere"
+      },
+      {
+        "base": "Al Bhed Potion",
+        "add": "Map"
+      },
+      {
+        "base": "Al Bhed Potion",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Healing Water",
+        "add": "Power Sphere"
+      },
+      {
+        "base": "Healing Water",
+        "add": "Mana Sphere"
+      },
+      {
+        "base": "Healing Water",
+        "add": "Speed Sphere"
+      },
+      {
+        "base": "Healing Water",
+        "add": "Ability Sphere"
+      },
+      {
+        "base": "Healing Water",
+        "add": "Map"
+      },
+      {
+        "base": "Healing Water",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Tetra Elemental",
+        "add": "Power Sphere"
+      },
+      {
+        "base": "Tetra Elemental",
+        "add": "Mana Sphere"
+      },
+      {
+        "base": "Tetra Elemental",
+        "add": "Speed Sphere"
+      },
+      {
+        "base": "Tetra Elemental",
+        "add": "Ability Sphere"
+      },
+      {
+        "base": "Tetra Elemental",
+        "add": "Map"
+      },
+      {
+        "base": "Tetra Elemental",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Healing Spring",
+        "add": "Power Sphere"
+      },
+      {
+        "base": "Healing Spring",
+        "add": "Mana Sphere"
+      },
+      {
+        "base": "Healing Spring",
+        "add": "Speed Sphere"
+      },
+      {
+        "base": "Healing Spring",
+        "add": "Ability Sphere"
+      },
+      {
+        "base": "Mana Spring",
+        "add": "Power Sphere"
+      },
+      {
+        "base": "Mana Spring",
+        "add": "Mana Sphere"
+      },
+      {
+        "base": "Mana Spring",
+        "add": "Speed Sphere"
+      },
+      {
+        "base": "Mana Spring",
+        "add": "Ability Sphere"
+      },
+      {
+        "base": "Mana Spring",
+        "add": "Map"
+      },
+      {
+        "base": "Mana Spring",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Stamina Spring",
+        "add": "Power Sphere"
+      },
+      {
+        "base": "Stamina Spring",
+        "add": "Mana Sphere"
+      },
+      {
+        "base": "Stamina Spring",
+        "add": "Speed Sphere"
+      },
+      {
+        "base": "Stamina Spring",
+        "add": "Ability Sphere"
+      },
+      {
+        "base": "Stamina Spring",
+        "add": "Map"
+      },
+      {
+        "base": "Stamina Spring",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Soul Spring",
+        "add": "Power Sphere"
+      },
+      {
+        "base": "Soul Spring",
+        "add": "Mana Sphere"
+      },
+      {
+        "base": "Soul Spring",
+        "add": "Speed Sphere"
+      },
+      {
+        "base": "Soul Spring",
+        "add": "Ability Sphere"
+      },
+      {
+        "base": "Soul Spring",
+        "add": "Map"
+      },
+      {
+        "base": "Soul Spring",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Purifying Salt",
+        "add": "Power Sphere"
+      },
+      {
+        "base": "Purifying Salt",
+        "add": "Mana Sphere"
+      },
+      {
+        "base": "Purifying Salt",
+        "add": "Speed Sphere"
+      },
+      {
+        "base": "Purifying Salt",
+        "add": "Ability Sphere"
+      },
+      {
+        "base": "Purifying Salt",
+        "add": "Map"
+      },
+      {
+        "base": "Purifying Salt",
+        "add": "Rename Card"
+      }
+    ]
+  },
+  {
+    "name": "Super Elixir",
+    "description": "all party members; cure abnormal status and full HP",
+    "type": "CURATIVE",
+    "recipes": [
+      { "base": "Potion", "add": "Mega Elixir" },
+      { "base": "Potion", "add": "Supreme Gem" },
+      { "base": "Potion", "add": "Attribute Sphere" },
+      { "base": "Potion", "add": "Special Sphere" },
+      { "base": "Potion", "add": "Skill Sphere" },
+      { "base": "Potion", "add": "White Magic Sphere" },
+      { "base": "Potion", "add": "Black Magic Sphere" },
+      { "base": "Potion", "add": "Master Sphere" },
+      { "base": "Potion", "add": "Level 1 Key Sphere" },
+      { "base": "Potion", "add": "Level 2 Key Sphere" },
+      { "base": "Potion", "add": "Level 3 Key Sphere" },
+      { "base": "Potion", "add": "Level 4 Key Sphere" },
+      { "base": "Potion", "add": "HP Sphere" },
+      { "base": "Potion", "add": "MP Sphere" },
+      { "base": "Potion", "add": "Strength Sphere" },
+      { "base": "Potion", "add": "Defense Sphere" },
+      { "base": "Potion", "add": "Magic Sphere" },
+      { "base": "Potion", "add": "Magic Defense Sphere" },
+      { "base": "Potion", "add": "Agility Sphere" },
+      { "base": "Potion", "add": "Evasion Sphere" },
+      { "base": "Potion", "add": "Accuracy Sphere" },
+      { "base": "Potion", "add": "Clear Sphere" },
+      { "base": "Potion", "add": "Return Sphere" },
+      { "base": "Potion", "add": "Friend Sphere" },
+      { "base": "Potion", "add": "Teleport Sphere" },
+      { "base": "Potion", "add": "Warp Sphere" },
+      { "base": "Potion", "add": "Pendulum" },
+      { "base": "Potion", "add": "Amulet" },
+      { "base": "Potion", "add": "Door to Tomorrow" },
+      { "base": "Potion", "add": "Wings to Discovery" },
+      { "base": "Potion", "add": "Gambler's Spirit" },
+      { "base": "Potion", "add": "Underdog's Secret" },
+      { "base": "Potion", "add": "Winning Formula" },
+      { "base": "High Potion", "add": "Mega Elixir" },
+      { "base": "High Potion", "add": "Supreme Gem" },
+      { "base": "X-Potion", "add": "Mega Elixir" },
+      { "base": "X-Potion", "add": "Farplane Shadow" },
+      { "base": "X-Potion", "add": "Farplane Wind" },
+      { "base": "Mega Potion", "add": "Mega Elixir" },
+      { "base": "Mega Potion", "add": "Farplane Shadow" },
+      { "base": "Mega Potion", "add": "Farplane Wind" },
+      { "base": "Ether", "add": "Mega Elixir" },
+      { "base": "Turbo Ether", "add": "Mega Elixir" },
+      { "base": "Elixir", "add": "Mega Elixir" },
+      { "base": "Elixir", "add": "Remedy" },
+      { "base": "Elixir", "add": "Tetra Elemental" },
+      { "base": "Elixir", "add": "Bomb Fragment" },
+      { "base": "Elixir", "add": "Bomb Core" },
+      { "base": "Elixir", "add": "Fire Gem" },
+      { "base": "Elixir", "add": "Electro Marble" },
+      { "base": "Elixir", "add": "Lightning Marble" },
+      { "base": "Elixir", "add": "Lightning Gem" },
+      { "base": "Elixir", "add": "Fish Scale" },
+      { "base": "Elixir", "add": "Dragon Scale" },
+      { "base": "Elixir", "add": "Water Gem" },
+      { "base": "Elixir", "add": "Antarctic Wind" },
+      { "base": "Elixir", "add": "Arctic Wind" },
+      { "base": "Elixir", "add": "Ice Gem" },
+      { "base": "Elixir", "add": "Sleeping Powder" },
+      { "base": "Elixir", "add": "Dream Powder" },
+      { "base": "Elixir", "add": "Silence Grenade" },
+      { "base": "Elixir", "add": "Smoke Bomb" },
+      { "base": "Elixir", "add": "Shadow Gem" },
+      { "base": "Elixir", "add": "Poison Fang" },
+      { "base": "Elixir", "add": "Silver Hourglass" },
+      { "base": "Elixir", "add": "Gold Hourglass" },
+      { "base": "Elixir", "add": "Candle of Life" },
+      { "base": "Elixir", "add": "Petrify Grenade" },
+      { "base": "Elixir", "add": "Farplane Shadow" },
+      { "base": "Elixir", "add": "Chocobo Feather" },
+      { "base": "Elixir", "add": "Chocobo Wing" },
+      { "base": "Elixir", "add": "Lunar Curtain" },
+      { "base": "Elixir", "add": "Light Curtain" },
+      { "base": "Elixir", "add": "Star Curtain" },
+      { "base": "Elixir", "add": "Healing Spring" },
+      { "base": "Elixir", "add": "Mana Spring" },
+      { "base": "Elixir", "add": "Stamina Spring" },
+      { "base": "Elixir", "add": "Soul Spring" },
+      { "base": "Elixir", "add": "Purifying Salt" },
+      { "base": "Elixir", "add": "Musk" },
+      { "base": "Elixir", "add": "Hypello Potion" },
+      { "base": "Elixir", "add": "Shining Thorn" },
+      { "base": "Mega Elixir", "add": "Phoenix Down" },
+      { "base": "Mega Elixir", "add": "Mega Phoenix" },
+      { "base": "Mega Elixir", "add": "Antidote" },
+      { "base": "Mega Elixir", "add": "Soft" },
+      { "base": "Mega Elixir", "add": "Eyedrop" },
+      { "base": "Mega Elixir", "add": "Echo Screen" },
+      { "base": "Mega Elixir", "add": "Holy Water" },
+      { "base": "Mega Elixir", "add": "Remedy" },
+      { "base": "Mega Elixir", "add": "Power Distiller" },
+      { "base": "Mega Elixir", "add": "Mana Distiller" },
+      { "base": "Mega Elixir", "add": "Agility Distiller" },
+      { "base": "Mega Elixir", "add": "Ability Distiller" },
+      { "base": "Mega Elixir", "add": "Al Bhed Potion" },
+      { "base": "Mega Elixir", "add": "Grenade" },
+      { "base": "Mega Elixir", "add": "Frag Grenade" },
+      { "base": "Mega Elixir", "add": "Power Sphere" },
+      { "base": "Mega Elixir", "add": "Mana Sphere" },
+      { "base": "Mega Elixir", "add": "Speed Sphere" },
+      { "base": "Mega Elixir", "add": "Ability Sphere" },
+      { "base": "Mega Elixir", "add": "Map" },
+      { "base": "Mega Elixir", "add": "Rename Card" },
+      { "base": "Antidote", "add": "Attribute Sphere" },
+      { "base": "Antidote", "add": "Special Sphere" },
+      { "base": "Antidote", "add": "Skill Sphere" },
+      { "base": "Antidote", "add": "White Magic Sphere" },
+      { "base": "Antidote", "add": "Black Magic Sphere" },
+      { "base": "Antidote", "add": "Level 1 Key Sphere" },
+      { "base": "Antidote", "add": "Level 2 Key Sphere" },
+      { "base": "Antidote", "add": "Level 3 Key Sphere" },
+      { "base": "Antidote", "add": "Level 4 Key Sphere" },
+      { "base": "Antidote", "add": "HP Sphere" },
+      { "base": "Antidote", "add": "MP Sphere" },
+      { "base": "Antidote", "add": "Strength Sphere" },
+      { "base": "Antidote", "add": "Defense Sphere" },
+      { "base": "Antidote", "add": "Magic Sphere" },
+      { "base": "Antidote", "add": "Magic Defense Sphere" },
+      { "base": "Antidote", "add": "Agility Sphere" },
+      { "base": "Antidote", "add": "Evasion Sphere" },
+      { "base": "Antidote", "add": "Accuracy Sphere" },
+      { "base": "Antidote", "add": "Clear Sphere" },
+      { "base": "Antidote", "add": "Return Sphere" },
+      { "base": "Antidote", "add": "Friend Sphere" },
+      { "base": "Antidote", "add": "Teleport Sphere" },
+      { "base": "Antidote", "add": "Warp Sphere" },
+      { "base": "Antidote", "add": "Pendulum" },
+      { "base": "Antidote", "add": "Amulet" },
+      { "base": "Antidote", "add": "Door to Tomorrow" },
+      { "base": "Antidote", "add": "Wings to Discovery" },
+      { "base": "Antidote", "add": "Gambler's Spirit" },
+      { "base": "Antidote", "add": "Underdog's Secret" },
+      { "base": "Antidote", "add": "Winning Formula" },
+      { "base": "Soft", "add": "Attribute Sphere" },
+      { "base": "Soft", "add": "Special Sphere" },
+      { "base": "Soft", "add": "Skill Sphere" },
+      { "base": "Soft", "add": "White Magic Sphere" },
+      { "base": "Soft", "add": "Black Magic Sphere" },
+      { "base": "Soft", "add": "Master Sphere" },
+      { "base": "Soft", "add": "Level 1 Key Sphere" },
+      { "base": "Soft", "add": "Level 2 Key Sphere" },
+      { "base": "Soft", "add": "Level 3 Key Sphere" },
+      { "base": "Soft", "add": "Level 4 Key Sphere" },
+      { "base": "Soft", "add": "HP Sphere" },
+      { "base": "Soft", "add": "MP Sphere" },
+      { "base": "Soft", "add": "Strength Sphere" },
+      { "base": "Soft", "add": "Defense Sphere" },
+      { "base": "Soft", "add": "Magic Sphere" },
+      { "base": "Soft", "add": "Magic Defense Sphere" },
+      { "base": "Soft", "add": "Agility Sphere" },
+      { "base": "Soft", "add": "Evasion Sphere" },
+      { "base": "Soft", "add": "Accuracy Sphere" },
+      { "base": "Soft", "add": "Clear Sphere" },
+      { "base": "Soft", "add": "Return Sphere" },
+      { "base": "Soft", "add": "Friend Sphere" },
+      { "base": "Soft", "add": "Teleport Sphere" },
+      { "base": "Soft", "add": "Warp Sphere" },
+      { "base": "Soft", "add": "Pendulum" },
+      { "base": "Soft", "add": "Amulet" },
+      { "base": "Soft", "add": "Door to Tomorrow" },
+      { "base": "Soft", "add": "Wings to Discovery" },
+      { "base": "Soft", "add": "Gambler's Spirit" },
+      { "base": "Soft", "add": "Underdog's Secret" },
+      { "base": "Soft", "add": "Winning Formula" },
+      { "base": "Eyedrop", "add": "Attribute Sphere" },
+      { "base": "Eyedrop", "add": "Special Sphere" },
+      { "base": "Eyedrop", "add": "Skill Sphere" },
+      { "base": "Eyedrop", "add": "White Magic Sphere" },
+      { "base": "Eyedrop", "add": "Black Magic Sphere" },
+      { "base": "Eyedrop", "add": "Level 1 Key Sphere" },
+      { "base": "Eyedrop", "add": "Level 2 Key Sphere" },
+      { "base": "Eyedrop", "add": "Level 3 Key Sphere" },
+      { "base": "Eyedrop", "add": "Level 4 Key Sphere" },
+      { "base": "Eyedrop", "add": "HP Sphere" },
+      { "base": "Eyedrop", "add": "MP Sphere" },
+      { "base": "Eyedrop", "add": "Strength Sphere" },
+      { "base": "Eyedrop", "add": "Defense Sphere" },
+      { "base": "Eyedrop", "add": "Magic Sphere" },
+      { "base": "Eyedrop", "add": "Magic Defense Sphere" },
+      { "base": "Eyedrop", "add": "Agility Sphere" },
+      { "base": "Eyedrop", "add": "Evasion Sphere" },
+      { "base": "Eyedrop", "add": "Accuracy Sphere" },
+      { "base": "Eyedrop", "add": "Clear Sphere" },
+      { "base": "Eyedrop", "add": "Return Sphere" },
+      { "base": "Eyedrop", "add": "Friend Sphere" },
+      { "base": "Eyedrop", "add": "Teleport Sphere" },
+      { "base": "Eyedrop", "add": "Warp Sphere" },
+      { "base": "Eyedrop", "add": "Pendulum" },
+      { "base": "Eyedrop", "add": "Amulet" },
+      { "base": "Eyedrop", "add": "Door to Tomorrow" },
+      { "base": "Eyedrop", "add": "Wings to Discovery" },
+      { "base": "Eyedrop", "add": "Gambler's Spirit" },
+      { "base": "Eyedrop", "add": "Underdog's Secret" },
+      { "base": "Eyedrop", "add": "Winning Formula" },
+      { "base": "Echo Screen", "add": "Attribute Sphere" },
+      { "base": "Echo Screen", "add": "Special Sphere" },
+      { "base": "Echo Screen", "add": "Skill Sphere" },
+      { "base": "Echo Screen", "add": "White Magic Sphere" },
+      { "base": "Echo Screen", "add": "Black Magic Sphere" },
+      { "base": "Echo Screen", "add": "Level 1 Key Sphere" },
+      { "base": "Echo Screen", "add": "Level 2 Key Sphere" },
+      { "base": "Echo Screen", "add": "Level 3 Key Sphere" },
+      { "base": "Echo Screen", "add": "Level 4 Key Sphere" },
+      { "base": "Echo Screen", "add": "HP Sphere" },
+      { "base": "Echo Screen", "add": "MP Sphere" },
+      { "base": "Echo Screen", "add": "Strength Sphere" },
+      { "base": "Echo Screen", "add": "Defense Sphere" },
+      { "base": "Echo Screen", "add": "Magic Sphere" },
+      { "base": "Echo Screen", "add": "Magic Defense Sphere" },
+      { "base": "Echo Screen", "add": "Agility Sphere" },
+      { "base": "Echo Screen", "add": "Evasion Sphere" },
+      { "base": "Echo Screen", "add": "Accuracy Sphere" },
+      { "base": "Echo Screen", "add": "Clear Sphere" },
+      { "base": "Echo Screen", "add": "Return Sphere" },
+      { "base": "Echo Screen", "add": "Friend Sphere" },
+      { "base": "Echo Screen", "add": "Teleport Sphere" },
+      { "base": "Echo Screen", "add": "Warp Sphere" },
+      { "base": "Echo Screen", "add": "Pendulum" },
+      { "base": "Echo Screen", "add": "Amulet" },
+      { "base": "Echo Screen", "add": "Door to Tomorrow" },
+      { "base": "Echo Screen", "add": "Wings to Discovery" },
+      { "base": "Echo Screen", "add": "Gambler's Spirit" },
+      { "base": "Echo Screen", "add": "Underdog's Secret" },
+      { "base": "Echo Screen", "add": "Winning Formula" },
+      { "base": "Holy Water", "add": "Attribute Sphere" },
+      { "base": "Holy Water", "add": "Attribute Sphere" },
+      { "base": "Holy Water", "add": "Special Sphere" },
+      { "base": "Holy Water", "add": "Skill Sphere" },
+      { "base": "Holy Water", "add": "White Magic Sphere" },
+      { "base": "Holy Water", "add": "Black Magic Sphere" },
+      { "base": "Holy Water", "add": "Level 1 Key Sphere" },
+      { "base": "Holy Water", "add": "Level 2 Key Sphere" },
+      { "base": "Holy Water", "add": "Level 3 Key Sphere" },
+      { "base": "Holy Water", "add": "Level 4 Key Sphere" },
+      { "base": "Holy Water", "add": "HP Sphere" },
+      { "base": "Holy Water", "add": "MP Sphere" },
+      { "base": "Holy Water", "add": "Strength Sphere" },
+      { "base": "Holy Water", "add": "Defense Sphere" },
+      { "base": "Holy Water", "add": "Magic Sphere" },
+      { "base": "Holy Water", "add": "Magic Defense Sphere" },
+      { "base": "Holy Water", "add": "Agility Sphere" },
+      { "base": "Holy Water", "add": "Evasion Sphere" },
+      { "base": "Holy Water", "add": "Accuracy Sphere" },
+      { "base": "Holy Water", "add": "Clear Sphere" },
+      { "base": "Holy Water", "add": "Return Sphere" },
+      { "base": "Holy Water", "add": "Friend Sphere" },
+      { "base": "Holy Water", "add": "Teleport Sphere" },
+      { "base": "Holy Water", "add": "Warp Sphere" },
+      { "base": "Holy Water", "add": "Pendulum" },
+      { "base": "Holy Water", "add": "Amulet" },
+      { "base": "Holy Water", "add": "Door to Tomorrow" },
+      { "base": "Holy Water", "add": "Wings to Discovery" },
+      { "base": "Holy Water", "add": "Gambler's Spirit" },
+      { "base": "Holy Water", "add": "Underdog's Secret" },
+      { "base": "Holy Water", "add": "Winning Formula" },
+      { "base": "Remedy", "add": "Healing Water" },
+      { "base": "Remedy", "add": "Tetra Elemental" },
+      { "base": "Remedy", "add": "Sleeping Powder" },
+      { "base": "Remedy", "add": "Dream Powder" },
+      { "base": "Remedy", "add": "Silence Grenade" },
+      { "base": "Remedy", "add": "Smoke Bomb" },
+      { "base": "Remedy", "add": "Shadow Gem" },
+      { "base": "Remedy", "add": "Shining Gem" },
+      { "base": "Remedy", "add": "Blessed Gem" },
+      { "base": "Remedy", "add": "Supreme Gem" },
+      { "base": "Remedy", "add": "Poison Fang" },
+      { "base": "Remedy", "add": "Silver Hourglass" },
+      { "base": "Remedy", "add": "Gold Hourglass" },
+      { "base": "Remedy", "add": "Candle of Life" },
+      { "base": "Remedy", "add": "Petrify Grenade" },
+      { "base": "Remedy", "add": "Farplane Shadow" },
+      { "base": "Remedy", "add": "Farplane Wind" },
+      { "base": "Remedy", "add": "Chocobo Feather" },
+      { "base": "Remedy", "add": "Chocobo Wing" },
+      { "base": "Remedy", "add": "Healing Spring" },
+      { "base": "Remedy", "add": "Mana Spring" },
+      { "base": "Remedy", "add": "Stamina Spring" },
+      { "base": "Remedy", "add": "Soul Spring" },
+      { "base": "Remedy", "add": "Purifying Salt" },
+      { "base": "Remedy", "add": "Attribute Sphere" },
+      { "base": "Remedy", "add": "Special Sphere" },
+      { "base": "Remedy", "add": "Skill Sphere" },
+      { "base": "Remedy", "add": "White Magic Sphere" },
+      { "base": "Remedy", "add": "Black Magic Sphere" },
+      { "base": "Remedy", "add": "Level 1 Key Sphere" },
+      { "base": "Remedy", "add": "Level 2 Key Sphere" },
+      { "base": "Remedy", "add": "Level 3 Key Sphere" },
+      { "base": "Remedy", "add": "Level 4 Key Sphere" },
+      { "base": "Remedy", "add": "HP Sphere" },
+      { "base": "Remedy", "add": "MP Sphere" },
+      { "base": "Remedy", "add": "Strength Sphere" },
+      { "base": "Remedy", "add": "Defense Sphere" },
+      { "base": "Remedy", "add": "Magic Sphere" },
+      { "base": "Remedy", "add": "Magic Defense Sphere" },
+      { "base": "Remedy", "add": "Agility Sphere" },
+      { "base": "Remedy", "add": "Evasion Sphere" },
+      { "base": "Remedy", "add": "Accuracy Sphere" },
+      { "base": "Remedy", "add": "Clear Sphere" },
+      { "base": "Remedy", "add": "Return Sphere" },
+      { "base": "Remedy", "add": "Friend Sphere" },
+      { "base": "Remedy", "add": "Teleport Sphere" },
+      { "base": "Remedy", "add": "Warp Sphere" },
+      { "base": "Remedy", "add": "Pendulum" },
+      { "base": "Remedy", "add": "Amulet" },
+      { "base": "Remedy", "add": "Door to Tomorrow" },
+      { "base": "Remedy", "add": "Wings to Discovery" },
+      { "base": "Remedy", "add": "Gambler's Spirit" },
+      { "base": "Remedy", "add": "Underdog's Secret" },
+      { "base": "Remedy", "add": "Winning Formula" },
+      { "base": "Power Distiller", "add": "Attribute Sphere" },
+      { "base": "Power Distiller", "add": "Special Sphere" },
+      { "base": "Power Distiller", "add": "Skill Sphere" },
+      { "base": "Power Distiller", "add": "White Magic Sphere" },
+      { "base": "Power Distiller", "add": "Black Magic Sphere" },
+      { "base": "Power Distiller", "add": "Level 1 Key Sphere" },
+      { "base": "Power Distiller", "add": "Level 2 Key Sphere" },
+      { "base": "Power Distiller", "add": "HP Sphere" },
+      { "base": "Power Distiller", "add": "MP Sphere" },
+      { "base": "Power Distiller", "add": "Strength Sphere" },
+      { "base": "Power Distiller", "add": "Defense Sphere" },
+      { "base": "Power Distiller", "add": "Magic Sphere" },
+      { "base": "Power Distiller", "add": "Magic Defense Sphere" },
+      { "base": "Power Distiller", "add": "Agility Sphere" },
+      { "base": "Power Distiller", "add": "Evasion Sphere" },
+      { "base": "Power Distiller", "add": "Accuracy Sphere" },
+      { "base": "Power Distiller", "add": "Clear Sphere" },
+      { "base": "Power Distiller", "add": "Return Sphere" },
+      { "base": "Power Distiller", "add": "Friend Sphere" },
+      { "base": "Power Distiller", "add": "Teleport Sphere" },
+      { "base": "Power Distiller", "add": "Warp Sphere" },
+      { "base": "Power Distiller", "add": "Pendulum" },
+      { "base": "Power Distiller", "add": "Amulet" },
+      { "base": "Power Distiller", "add": "Door to Tomorrow" },
+      { "base": "Power Distiller", "add": "Wings to Discovery" },
+      { "base": "Power Distiller", "add": "Gambler's Spirit" },
+      { "base": "Power Distiller", "add": "Underdog's Secret" },
+      { "base": "Power Distiller", "add": "Winning Formula" },
+      { "base": "Mana Distiller", "add": "Attribute Sphere" },
+      { "base": "Mana Distiller", "add": "Special Sphere" },
+      { "base": "Mana Distiller", "add": "Skill Sphere" },
+      { "base": "Mana Distiller", "add": "White Magic Sphere" },
+      { "base": "Mana Distiller", "add": "Black Magic Sphere" },
+      { "base": "Mana Distiller", "add": "Level 1 Key Sphere" },
+      { "base": "Mana Distiller", "add": "Level 2 Key Sphere" },
+      { "base": "Mana Distiller", "add": "HP Sphere" },
+      { "base": "Mana Distiller", "add": "MP Sphere" },
+      { "base": "Mana Distiller", "add": "Strength Sphere" },
+      { "base": "Mana Distiller", "add": "Defense Sphere" },
+      { "base": "Mana Distiller", "add": "Magic Sphere" },
+      { "base": "Mana Distiller", "add": "Magic Defense Sphere" },
+      { "base": "Mana Distiller", "add": "Agility Sphere" },
+      { "base": "Mana Distiller", "add": "Evasion Sphere" },
+      { "base": "Mana Distiller", "add": "Accuracy Sphere" },
+      { "base": "Mana Distiller", "add": "Clear Sphere" },
+      { "base": "Mana Distiller", "add": "Return Sphere" },
+      { "base": "Mana Distiller", "add": "Friend Sphere" },
+      { "base": "Mana Distiller", "add": "Teleport Sphere" },
+      { "base": "Mana Distiller", "add": "Warp Sphere" },
+      { "base": "Mana Distiller", "add": "Pendulum" },
+      { "base": "Mana Distiller", "add": "Amulet" },
+      { "base": "Mana Distiller", "add": "Door to Tomorrow" },
+      { "base": "Mana Distiller", "add": "Wings to Discovery" },
+      { "base": "Mana Distiller", "add": "Gambler's Spirit" },
+      { "base": "Mana Distiller", "add": "Underdog's Secret" },
+      { "base": "Mana Distiller", "add": "Winning Formula" },
+      { "base": "Agility Distiller", "add": "Attribute Sphere" },
+      { "base": "Agility Distiller", "add": "Special Sphere" },
+      { "base": "Agility Distiller", "add": "Skill Sphere" },
+      { "base": "Agility Distiller", "add": "White Magic Sphere" },
+      { "base": "Agility Distiller", "add": "Black Magic Sphere" },
+      { "base": "Agility Distiller", "add": "Level 1 Key Sphere" },
+      { "base": "Agility Distiller", "add": "Level 2 Key Sphere" },
+      { "base": "Agility Distiller", "add": "HP Sphere" },
+      { "base": "Agility Distiller", "add": "MP Sphere" },
+      { "base": "Agility Distiller", "add": "Strength Sphere" },
+      { "base": "Agility Distiller", "add": "Defense Sphere" },
+      { "base": "Agility Distiller", "add": "Magic Sphere" },
+      { "base": "Agility Distiller", "add": "Magic Defense Sphere" },
+      { "base": "Agility Distiller", "add": "Agility Sphere" },
+      { "base": "Agility Distiller", "add": "Evasion Sphere" },
+      { "base": "Agility Distiller", "add": "Accuracy Sphere" },
+      { "base": "Agility Distiller", "add": "Clear Sphere" },
+      { "base": "Agility Distiller", "add": "Return Sphere" },
+      { "base": "Agility Distiller", "add": "Friend Sphere" },
+      { "base": "Agility Distiller", "add": "Teleport Sphere" },
+      { "base": "Agility Distiller", "add": "Warp Sphere" },
+      { "base": "Agility Distiller", "add": "Pendulum" },
+      { "base": "Agility Distiller", "add": "Amulet" },
+      { "base": "Agility Distiller", "add": "Door to Tomorrow" },
+      { "base": "Agility Distiller", "add": "Wings to Discovery" },
+      { "base": "Agility Distiller", "add": "Gambler's Spirit" },
+      { "base": "Agility Distiller", "add": "Underdog's Secret" },
+      { "base": "Agility Distiller", "add": "Winning Formula" },
+      { "base": "Ability Distiller", "add": "Attribute Sphere" },
+      { "base": "Ability Distiller", "add": "Special Sphere" },
+      { "base": "Ability Distiller", "add": "Skill Sphere" },
+      { "base": "Ability Distiller", "add": "White Magic Sphere" },
+      { "base": "Ability Distiller", "add": "Black Magic Sphere" },
+      { "base": "Ability Distiller", "add": "Level 1 Key Sphere" },
+      { "base": "Ability Distiller", "add": "Level 2 Key Sphere" },
+      { "base": "Ability Distiller", "add": "HP Sphere" },
+      { "base": "Ability Distiller", "add": "MP Sphere" },
+      { "base": "Ability Distiller", "add": "Strength Sphere" },
+      { "base": "Ability Distiller", "add": "Defense Sphere" },
+      { "base": "Ability Distiller", "add": "Magic Sphere" },
+      { "base": "Ability Distiller", "add": "Magic Defense Sphere" },
+      { "base": "Ability Distiller", "add": "Agility Sphere" },
+      { "base": "Ability Distiller", "add": "Evasion Sphere" },
+      { "base": "Ability Distiller", "add": "Accuracy Sphere" },
+      { "base": "Ability Distiller", "add": "Clear Sphere" },
+      { "base": "Ability Distiller", "add": "Return Sphere" },
+      { "base": "Ability Distiller", "add": "Friend Sphere" },
+      { "base": "Ability Distiller", "add": "Teleport Sphere" },
+      { "base": "Ability Distiller", "add": "Warp Sphere" },
+      { "base": "Ability Distiller", "add": "Pendulum" },
+      { "base": "Ability Distiller", "add": "Amulet" },
+      { "base": "Ability Distiller", "add": "Door to Tomorrow" },
+      { "base": "Ability Distiller", "add": "Wings to Discovery" },
+      { "base": "Ability Distiller", "add": "Gambler's Spirit" },
+      { "base": "Ability Distiller", "add": "Underdog's Secret" },
+      { "base": "Ability Distiller", "add": "Winning Formula" },
+      { "base": "Al Bhed Potion", "add": "Attribute Sphere" },
+      { "base": "Al Bhed Potion", "add": "Special Sphere" },
+      { "base": "Al Bhed Potion", "add": "Skill Sphere" },
+      { "base": "Al Bhed Potion", "add": "White Magic Sphere" },
+      { "base": "Al Bhed Potion", "add": "Black Magic Sphere" },
+      { "base": "Al Bhed Potion", "add": "Level 1 Key Sphere" },
+      { "base": "Al Bhed Potion", "add": "Level 2 Key Sphere" },
+      { "base": "Al Bhed Potion", "add": "HP Sphere" },
+      { "base": "Al Bhed Potion", "add": "MP Sphere" },
+      { "base": "Al Bhed Potion", "add": "Strength Sphere" },
+      { "base": "Al Bhed Potion", "add": "Defense Sphere" },
+      { "base": "Al Bhed Potion", "add": "Magic Sphere" },
+      { "base": "Al Bhed Potion", "add": "Magic Defense Sphere" },
+      { "base": "Al Bhed Potion", "add": "Agility Sphere" },
+      { "base": "Al Bhed Potion", "add": "Evasion Sphere" },
+      { "base": "Al Bhed Potion", "add": "Accuracy Sphere" },
+      { "base": "Al Bhed Potion", "add": "Clear Sphere" },
+      { "base": "Al Bhed Potion", "add": "Return Sphere" },
+      { "base": "Al Bhed Potion", "add": "Friend Sphere" },
+      { "base": "Al Bhed Potion", "add": "Teleport Sphere" },
+      { "base": "Al Bhed Potion", "add": "Warp Sphere" },
+      { "base": "Al Bhed Potion", "add": "Door to Tomorrow" },
+      { "base": "Al Bhed Potion", "add": "Wings to Discovery" },
+      { "base": "Al Bhed Potion", "add": "Gambler's Spirit" },
+      { "base": "Al Bhed Potion", "add": "Underdog's Secret" },
+      { "base": "Al Bhed Potion", "add": "Winning Formula" },
+      { "base": "Healing Water", "add": "Healing Water" },
+      { "base": "Healing Water", "add": "Tetra Elemental" },
+      { "base": "Healing Water", "add": "Sleeping Powder" },
+      { "base": "Healing Water", "add": "Dream Powder" },
+      { "base": "Healing Water", "add": "Silence Grenade" },
+      { "base": "Healing Water", "add": "Smoke Bomb" },
+      { "base": "Healing Water", "add": "Shadow Gem" },
+      { "base": "Healing Water", "add": "Shining Gem" },
+      { "base": "Healing Water", "add": "Blessed Gem" },
+      { "base": "Healing Water", "add": "Supreme Gem" },
+      { "base": "Healing Water", "add": "Poison Fang" },
+      { "base": "Healing Water", "add": "Silver Hourglass" },
+      { "base": "Healing Water", "add": "Gold Hourglass" },
+      { "base": "Healing Water", "add": "Candle of Life" },
+      { "base": "Healing Water", "add": "Petrify Grenade" },
+      { "base": "Healing Water", "add": "Farplane Shadow" },
+      { "base": "Healing Water", "add": "Healing Spring" },
+      { "base": "Healing Water", "add": "Mana Spring" },
+      { "base": "Healing Water", "add": "Stamina Spring" },
+      { "base": "Healing Water", "add": "Soul Spring" },
+      { "base": "Healing Water", "add": "Purifying Salt" },
+      { "base": "Healing Water", "add": "Attribute Sphere" },
+      { "base": "Healing Water", "add": "Special Sphere" },
+      { "base": "Healing Water", "add": "Skill Sphere" },
+      { "base": "Healing Water", "add": "White Magic Sphere" },
+      { "base": "Healing Water", "add": "Black Magic Sphere" },
+      { "base": "Healing Water", "add": "Level 1 Key Sphere" },
+      { "base": "Healing Water", "add": "Level 2 Key Sphere" },
+      { "base": "Healing Water", "add": "HP Sphere" },
+      { "base": "Healing Water", "add": "MP Sphere" },
+      { "base": "Healing Water", "add": "Strength Sphere" },
+      { "base": "Healing Water", "add": "Defense Sphere" },
+      { "base": "Healing Water", "add": "Magic Sphere" },
+      { "base": "Healing Water", "add": "Magic Defense Sphere" },
+      { "base": "Healing Water", "add": "Agility Sphere" },
+      { "base": "Healing Water", "add": "Evasion Sphere" },
+      { "base": "Healing Water", "add": "Accuracy Sphere" },
+      { "base": "Healing Water", "add": "Clear Sphere" },
+      { "base": "Healing Water", "add": "Return Sphere" },
+      { "base": "Healing Water", "add": "Friend Sphere" },
+      { "base": "Tetra Elemental", "add": "Tetra Elemental" },
+      { "base": "Tetra Elemental", "add": "Sleeping Powder" },
+      { "base": "Tetra Elemental", "add": "Dream Powder" },
+      { "base": "Tetra Elemental", "add": "Silence Grenade" },
+      { "base": "Tetra Elemental", "add": "Smoke Bomb" },
+      { "base": "Tetra Elemental", "add": "Shadow Gem" },
+      { "base": "Tetra Elemental", "add": "Shining Gem" },
+      { "base": "Tetra Elemental", "add": "Blessed Gem" },
+      { "base": "Tetra Elemental", "add": "Supreme Gem" },
+      { "base": "Tetra Elemental", "add": "Poison Fang" },
+      { "base": "Tetra Elemental", "add": "Silver Hourglass" },
+      { "base": "Tetra Elemental", "add": "Gold Hourglass" },
+      { "base": "Tetra Elemental", "add": "Candle of Life" },
+      { "base": "Tetra Elemental", "add": "Petrify Grenade" },
+      { "base": "Tetra Elemental", "add": "Farplane Shadow" },
+      { "base": "Tetra Elemental", "add": "Healing Spring" },
+      { "base": "Tetra Elemental", "add": "Mana Spring" },
+      { "base": "Tetra Elemental", "add": "Stamina Spring" },
+      { "base": "Tetra Elemental", "add": "Soul Spring" },
+      { "base": "Tetra Elemental", "add": "Purifying Salt" },
+      { "base": "Tetra Elemental", "add": "Attribute Sphere" },
+      { "base": "Tetra Elemental", "add": "Special Sphere" },
+      { "base": "Tetra Elemental", "add": "Skill Sphere" },
+      { "base": "Tetra Elemental", "add": "White Magic Sphere" },
+      { "base": "Tetra Elemental", "add": "Black Magic Sphere" },
+      { "base": "Tetra Elemental", "add": "Level 1 Key Sphere" },
+      { "base": "Tetra Elemental", "add": "Level 2 Key Sphere" },
+      { "base": "Tetra Elemental", "add": "HP Sphere" },
+      { "base": "Tetra Elemental", "add": "MP Sphere" },
+      { "base": "Tetra Elemental", "add": "Strength Sphere" },
+      { "base": "Tetra Elemental", "add": "Defense Sphere" },
+      { "base": "Tetra Elemental", "add": "Magic Sphere" },
+      { "base": "Tetra Elemental", "add": "Magic Defense Sphere" },
+      { "base": "Tetra Elemental", "add": "Agility Sphere" },
+      { "base": "Tetra Elemental", "add": "Evasion Sphere" },
+      { "base": "Tetra Elemental", "add": "Accuracy Sphere" },
+      { "base": "Tetra Elemental", "add": "Clear Sphere" },
+      { "base": "Tetra Elemental", "add": "Return Sphere" },
+      { "base": "Tetra Elemental", "add": "Friend Sphere" },
+      { "base": "Healing Spring", "add": "Attribute Sphere" },
+      { "base": "Healing Spring", "add": "Special Sphere" },
+      { "base": "Healing Spring", "add": "Skill Sphere" },
+      { "base": "Healing Spring", "add": "White Magic Sphere" },
+      { "base": "Healing Spring", "add": "Black Magic Sphere" },
+      { "base": "Healing Spring", "add": "Master Sphere" },
+      { "base": "Healing Spring", "add": "Level 1 Key Sphere" },
+      { "base": "Healing Spring", "add": "Level 2 Key Sphere" },
+      { "base": "Healing Spring", "add": "Level 3 Key Sphere" },
+      { "base": "Healing Spring", "add": "Level 4 Key Sphere" },
+      { "base": "Healing Spring", "add": "HP Sphere" },
+      { "base": "Healing Spring", "add": "MP Sphere" },
+      { "base": "Healing Spring", "add": "Strength Sphere" },
+      { "base": "Healing Spring", "add": "Defense Sphere" },
+      { "base": "Healing Spring", "add": "Magic Sphere" },
+      { "base": "Healing Spring", "add": "Magic Defense Sphere" },
+      { "base": "Healing Spring", "add": "Agility Sphere" },
+      { "base": "Healing Spring", "add": "Evasion Sphere" },
+      { "base": "Healing Spring", "add": "Accuracy Sphere" },
+      { "base": "Healing Spring", "add": "Clear Sphere" },
+      { "base": "Healing Spring", "add": "Return Sphere" },
+      { "base": "Healing Spring", "add": "Friend Sphere" },
+      { "base": "Healing Spring", "add": "Teleport Sphere" },
+      { "base": "Healing Spring", "add": "Warp Sphere" },
+      { "base": "Healing Spring", "add": "Map" },
+      { "base": "Healing Spring", "add": "Rename Card" },
+      { "base": "Mana Spring", "add": "Attribute Sphere" },
+      { "base": "Mana Spring", "add": "Special Sphere" },
+      { "base": "Mana Spring", "add": "Skill Sphere" },
+      { "base": "Mana Spring", "add": "White Magic Sphere" },
+      { "base": "Mana Spring", "add": "Black Magic Sphere" },
+      { "base": "Mana Spring", "add": "Master Sphere" },
+      { "base": "Mana Spring", "add": "Level 1 Key Sphere" },
+      { "base": "Mana Spring", "add": "Level 2 Key Sphere" },
+      { "base": "Mana Spring", "add": "Level 3 Key Sphere" },
+      { "base": "Mana Spring", "add": "Level 4 Key Sphere" },
+      { "base": "Mana Spring", "add": "HP Sphere" },
+      { "base": "Mana Spring", "add": "MP Sphere" },
+      { "base": "Mana Spring", "add": "Strength Sphere" },
+      { "base": "Mana Spring", "add": "Defense Sphere" },
+      { "base": "Mana Spring", "add": "Magic Sphere" },
+      { "base": "Mana Spring", "add": "Magic Defense Sphere" },
+      { "base": "Mana Spring", "add": "Agility Sphere" },
+      { "base": "Mana Spring", "add": "Evasion Sphere" },
+      { "base": "Mana Spring", "add": "Accuracy Sphere" },
+      { "base": "Mana Spring", "add": "Clear Sphere" },
+      { "base": "Mana Spring", "add": "Return Sphere" },
+      { "base": "Mana Spring", "add": "Friend Sphere" },
+      { "base": "Mana Spring", "add": "Teleport Sphere" },
+      { "base": "Mana Spring", "add": "Warp Sphere" },
+      { "base": "Stamina Spring", "add": "Attribute Sphere" },
+      { "base": "Stamina Spring", "add": "Special Sphere" },
+      { "base": "Stamina Spring", "add": "Skill Sphere" },
+      { "base": "Stamina Spring", "add": "White Magic Sphere" },
+      { "base": "Stamina Spring", "add": "Black Magic Sphere" },
+      { "base": "Stamina Spring", "add": "Master Sphere" },
+      { "base": "Stamina Spring", "add": "Level 1 Key Sphere" },
+      { "base": "Stamina Spring", "add": "Level 2 Key Sphere" },
+      { "base": "Stamina Spring", "add": "Level 3 Key Sphere" },
+      { "base": "Stamina Spring", "add": "Level 4 Key Sphere" },
+      { "base": "Stamina Spring", "add": "HP Sphere" },
+      { "base": "Stamina Spring", "add": "MP Sphere" },
+      { "base": "Stamina Spring", "add": "Strength Sphere" },
+      { "base": "Stamina Spring", "add": "Defense Sphere" },
+      { "base": "Stamina Spring", "add": "Magic Sphere" },
+      { "base": "Stamina Spring", "add": "Magic Defense Sphere" },
+      { "base": "Stamina Spring", "add": "Agility Sphere" },
+      { "base": "Stamina Spring", "add": "Evasion Sphere" },
+      { "base": "Stamina Spring", "add": "Accuracy Sphere" },
+      { "base": "Stamina Spring", "add": "Clear Sphere" },
+      { "base": "Stamina Spring", "add": "Return Sphere" },
+      { "base": "Stamina Spring", "add": "Friend Sphere" },
+      { "base": "Stamina Spring", "add": "Teleport Sphere" },
+      { "base": "Stamina Spring", "add": "Warp Sphere" },
+      { "base": "Soul Spring", "add": "Attribute Sphere" },
+      { "base": "Soul Spring", "add": "Special Sphere" },
+      { "base": "Soul Spring", "add": "Skill Sphere" },
+      { "base": "Soul Spring", "add": "White Magic Sphere" },
+      { "base": "Soul Spring", "add": "Black Magic Sphere" },
+      { "base": "Soul Spring", "add": "Master Sphere" },
+      { "base": "Soul Spring", "add": "Level 1 Key Sphere" },
+      { "base": "Soul Spring", "add": "Level 2 Key Sphere" },
+      { "base": "Soul Spring", "add": "Level 3 Key Sphere" },
+      { "base": "Soul Spring", "add": "Level 4 Key Sphere" },
+      { "base": "Soul Spring", "add": "HP Sphere" },
+      { "base": "Soul Spring", "add": "MP Sphere" },
+      { "base": "Soul Spring", "add": "Strength Sphere" },
+      { "base": "Soul Spring", "add": "Defense Sphere" },
+      { "base": "Soul Spring", "add": "Magic Sphere" },
+      { "base": "Soul Spring", "add": "Magic Defense Sphere" },
+      { "base": "Soul Spring", "add": "Agility Sphere" },
+      { "base": "Soul Spring", "add": "Evasion Sphere" },
+      { "base": "Soul Spring", "add": "Accuracy Sphere" },
+      { "base": "Soul Spring", "add": "Clear Sphere" },
+      { "base": "Soul Spring", "add": "Return Sphere" },
+      { "base": "Soul Spring", "add": "Friend Sphere" },
+      { "base": "Soul Spring", "add": "Teleport Sphere" },
+      { "base": "Soul Spring", "add": "Warp Sphere" },
+      { "base": "Purifying Salt", "add": "Attribute Sphere" },
+      { "base": "Purifying Salt", "add": "Special Sphere" },
+      { "base": "Purifying Salt", "add": "Skill Sphere" },
+      { "base": "Purifying Salt", "add": "White Magic Sphere" },
+      { "base": "Purifying Salt", "add": "Black Magic Sphere" },
+      { "base": "Purifying Salt", "add": "Master Sphere" },
+      { "base": "Purifying Salt", "add": "Level 1 Key Sphere" },
+      { "base": "Purifying Salt", "add": "Level 2 Key Sphere" },
+      { "base": "Purifying Salt", "add": "Level 3 Key Sphere" },
+      { "base": "Purifying Salt", "add": "Level 4 Key Sphere" },
+      { "base": "Purifying Salt", "add": "HP Sphere" },
+      { "base": "Purifying Salt", "add": "MP Sphere" },
+      { "base": "Purifying Salt", "add": "Strength Sphere" },
+      { "base": "Purifying Salt", "add": "Defense Sphere" },
+      { "base": "Purifying Salt", "add": "Magic Sphere" },
+      { "base": "Purifying Salt", "add": "Magic Defense Sphere" },
+      { "base": "Purifying Salt", "add": "Agility Sphere" },
+      { "base": "Purifying Salt", "add": "Evasion Sphere" },
+      { "base": "Purifying Salt", "add": "Accuracy Sphere" },
+      { "base": "Purifying Salt", "add": "Clear Sphere" },
+      { "base": "Purifying Salt", "add": "Return Sphere" },
+      { "base": "Purifying Salt", "add": "Friend Sphere" },
+      { "base": "Purifying Salt", "add": "Teleport Sphere" },
+      { "base": "Purifying Salt", "add": "Warp Sphere" }
+    ]
+  },
+  {
+    "name": "Final Elixir",
+    "description": "all party members; cure abnormal status, partial HP and MP recovery, and revive from K.O. with partial HP",
+    "type": "CURATIVE",
+    "recipes": [
+      { "base": "Potion", "add": "Dark Matter" },
+      { "base": "High Potion", "add": "Dark Matter" },
+      { "base": "High Potion", "add": "Attribute Sphere" },
+      { "base": "High Potion", "add": "Special Sphere" },
+      { "base": "High Potion", "add": "Skill Sphere" },
+      { "base": "High Potion", "add": "White Magic Sphere" },
+      { "base": "High Potion", "add": "Black Magic Sphere" },
+      { "base": "High Potion", "add": "Master Sphere" },
+      { "base": "High Potion", "add": "Level 1 Key Sphere" },
+      { "base": "High Potion", "add": "Level 2 Key Sphere" },
+      { "base": "High Potion", "add": "Level 3 Key Sphere" },
+      { "base": "High Potion", "add": "Level 4 Key Sphere" },
+      { "base": "High Potion", "add": "HP Sphere" },
+      { "base": "High Potion", "add": "MP Sphere" },
+      { "base": "High Potion", "add": "Strength Sphere" },
+      { "base": "High Potion", "add": "Defense Sphere" },
+      { "base": "High Potion", "add": "Magic Sphere" },
+      { "base": "High Potion", "add": "Magic Defense Sphere" },
+      { "base": "High Potion", "add": "Agility Sphere" },
+      { "base": "High Potion", "add": "Evasion Sphere" },
+      { "base": "High Potion", "add": "Accuracy Sphere" },
+      { "base": "High Potion", "add": "Clear Sphere" },
+      { "base": "High Potion", "add": "Return Sphere" },
+      { "base": "High Potion", "add": "Friend Sphere" },
+      { "base": "High Potion", "add": "Teleport Sphere" },
+      { "base": "High Potion", "add": "Warp Sphere" },
+      { "base": "High Potion", "add": "Pendulum" },
+      { "base": "High Potion", "add": "Amulet" },
+      { "base": "High Potion", "add": "Door to Tomorrow" },
+      { "base": "High Potion", "add": "Wings to Discovery" },
+      { "base": "High Potion", "add": "Gambler's Spirit" },
+      { "base": "High Potion", "add": "Underdog's Secret" },
+      { "base": "High Potion", "add": "Winning Formula" },
+      { "base": "X-Potion", "add": "Supreme Gem" },
+      { "base": "X-Potion", "add": "Dark Matter" },
+      { "base": "X-Potion", "add": "Attribute Sphere" },
+      { "base": "X-Potion", "add": "Special Sphere" },
+      { "base": "X-Potion", "add": "Skill Sphere" },
+      { "base": "X-Potion", "add": "White Magic Sphere" },
+      { "base": "X-Potion", "add": "Black Magic Sphere" },
+      { "base": "X-Potion", "add": "Master Sphere" },
+      { "base": "X-Potion", "add": "Level 1 Key Sphere" },
+      { "base": "X-Potion", "add": "Level 2 Key Sphere" },
+      { "base": "X-Potion", "add": "Level 3 Key Sphere" },
+      { "base": "X-Potion", "add": "Level 4 Key Sphere" },
+      { "base": "X-Potion", "add": "HP Sphere" },
+      { "base": "X-Potion", "add": "MP Sphere" },
+      { "base": "X-Potion", "add": "Strength Sphere" },
+      { "base": "X-Potion", "add": "Defense Sphere" },
+      { "base": "X-Potion", "add": "Magic Sphere" },
+      { "base": "X-Potion", "add": "Magic Defense Sphere" },
+      { "base": "X-Potion", "add": "Agility Sphere" },
+      { "base": "X-Potion", "add": "Evasion Sphere" },
+      { "base": "X-Potion", "add": "Accuracy Sphere" },
+      { "base": "X-Potion", "add": "Clear Sphere" },
+      { "base": "X-Potion", "add": "Return Sphere" },
+      { "base": "X-Potion", "add": "Friend Sphere" },
+      { "base": "X-Potion", "add": "Teleport Sphere" },
+      { "base": "X-Potion", "add": "Warp Sphere" },
+      { "base": "X-Potion", "add": "Pendulum" },
+      { "base": "X-Potion", "add": "Amulet" },
+      { "base": "X-Potion", "add": "Door to Tomorrow" },
+      { "base": "X-Potion", "add": "Wings to Discovery" },
+      { "base": "X-Potion", "add": "Gambler's Spirit" },
+      { "base": "X-Potion", "add": "Underdog's Secret" },
+      { "base": "X-Potion", "add": "Winning Formula" },
+      { "base": "Mega Potion", "add": "Supreme Gem" },
+      { "base": "Mega Potion", "add": "Dark Matter" },
+      { "base": "Mega Potion", "add": "Attribute Sphere" },
+      { "base": "Mega Potion", "add": "Special Sphere" },
+      { "base": "Mega Potion", "add": "Skill Sphere" },
+      { "base": "Mega Potion", "add": "White Magic Sphere" },
+      { "base": "Mega Potion", "add": "Black Magic Sphere" },
+      { "base": "Mega Potion", "add": "Master Sphere" },
+      { "base": "Mega Potion", "add": "Level 1 Key Sphere" },
+      { "base": "Mega Potion", "add": "Level 2 Key Sphere" },
+      { "base": "Mega Potion", "add": "Level 3 Key Sphere" },
+      { "base": "Mega Potion", "add": "Level 4 Key Sphere" },
+      { "base": "Mega Potion", "add": "HP Sphere" },
+      { "base": "Mega Potion", "add": "MP Sphere" },
+      { "base": "Mega Potion", "add": "Strength Sphere" },
+      { "base": "Mega Potion", "add": "Defense Sphere" },
+      { "base": "Mega Potion", "add": "Magic Sphere" },
+      { "base": "Mega Potion", "add": "Magic Defense Sphere" },
+      { "base": "Mega Potion", "add": "Agility Sphere" },
+      { "base": "Mega Potion", "add": "Evasion Sphere" },
+      { "base": "Mega Potion", "add": "Accuracy Sphere" },
+      { "base": "Mega Potion", "add": "Clear Sphere" },
+      { "base": "Mega Potion", "add": "Return Sphere" },
+      { "base": "Mega Potion", "add": "Friend Sphere" },
+      { "base": "Mega Potion", "add": "Teleport Sphere" },
+      { "base": "Mega Potion", "add": "Warp Sphere" },
+      { "base": "Mega Potion", "add": "Pendulum" },
+      { "base": "Mega Potion", "add": "Amulet" },
+      { "base": "Mega Potion", "add": "Door to Tomorrow" },
+      { "base": "Mega Potion", "add": "Wings to Discovery" },
+      { "base": "Mega Potion", "add": "Gambler's Spirit" },
+      { "base": "Mega Potion", "add": "Underdog's Secret" },
+      { "base": "Mega Potion", "add": "Winning Formula" },
+      { "base": "Ether", "add": "Dark Matter" },
+      { "base": "Turbo Ether", "add": "Dark Matter" },
+      { "base": "Elixir", "add": "Shining Gem" },
+      { "base": "Elixir", "add": "Blessed Gem" },
+      { "base": "Elixir", "add": "Supreme Gem" },
+      { "base": "Elixir", "add": "Farplane Wind" },
+      { "base": "Mega Elixir", "add": "Healing Water" },
+      { "base": "Mega Elixir", "add": "Tetra Elemental" },
+      { "base": "Mega Elixir", "add": "Bomb Fragment" },
+      { "base": "Mega Elixir", "add": "Bomb Core" },
+      { "base": "Mega Elixir", "add": "Fire Gem" },
+      { "base": "Mega Elixir", "add": "Electro Marble" },
+      { "base": "Mega Elixir", "add": "Lightning Marble" },
+      { "base": "Mega Elixir", "add": "Lightning Gem" },
+      { "base": "Mega Elixir", "add": "Fish Scale" },
+      { "base": "Mega Elixir", "add": "Dragon Scale" },
+      { "base": "Mega Elixir", "add": "Water Gem" },
+      { "base": "Mega Elixir", "add": "Antarctic Wind" },
+      { "base": "Mega Elixir", "add": "Arctic Wind" },
+      { "base": "Mega Elixir", "add": "Ice Gem" },
+      { "base": "Mega Elixir", "add": "Sleeping Powder" },
+      { "base": "Mega Elixir", "add": "Dream Powder" },
+      { "base": "Mega Elixir", "add": "Silence Grenade" },
+      { "base": "Mega Elixir", "add": "Smoke Bomb" },
+      { "base": "Mega Elixir", "add": "Shadow Gem" },
+      { "base": "Mega Elixir", "add": "Shining Gem" },
+      { "base": "Mega Elixir", "add": "Blessed Gem" },
+      { "base": "Mega Elixir", "add": "Supreme Gem" },
+      { "base": "Mega Elixir", "add": "Poison Fang" },
+      { "base": "Mega Elixir", "add": "Silver Hourglass" },
+      { "base": "Mega Elixir", "add": "Gold Hourglass" },
+      { "base": "Mega Elixir", "add": "Candle of Life" },
+      { "base": "Mega Elixir", "add": "Petrify Grenade" },
+      { "base": "Mega Elixir", "add": "Farplane Shadow" },
+      { "base": "Mega Elixir", "add": "Farplane Wind" },
+      { "base": "Mega Elixir", "add": "Chocobo Feather" },
+      { "base": "Mega Elixir", "add": "Chocobo Wing" },
+      { "base": "Mega Elixir", "add": "Lunar Curtain" },
+      { "base": "Mega Elixir", "add": "Light Curtain" },
+      { "base": "Mega Elixir", "add": "Star Curtain" },
+      { "base": "Mega Elixir", "add": "Healing Spring" },
+      { "base": "Mega Elixir", "add": "Mana Spring" },
+      { "base": "Mega Elixir", "add": "Stamina Spring" },
+      { "base": "Mega Elixir", "add": "Soul Spring" },
+      { "base": "Mega Elixir", "add": "Purifying Salt" },
+      { "base": "Mega Elixir", "add": "Musk" },
+      { "base": "Mega Elixir", "add": "Hypello Potion" },
+      { "base": "Mega Elixir", "add": "Shining Thorn" },
+      { "base": "Phoenix Down", "add": "Supreme Gem" },
+      { "base": "Phoenix Down", "add": "Dark Matter" },
+      { "base": "Mega Phoenix", "add": "Supreme Gem" },
+      { "base": "Mega Phoenix", "add": "Dark Matter" },
+      { "base": "Mega Phoenix", "add": "Attribute Sphere" },
+      { "base": "Mega Phoenix", "add": "Special Sphere" },
+      { "base": "Mega Phoenix", "add": "Skill Sphere" },
+      { "base": "Mega Phoenix", "add": "White Magic Sphere" },
+      { "base": "Mega Phoenix", "add": "Black Magic Sphere" },
+      { "base": "Mega Phoenix", "add": "Master Sphere" },
+      { "base": "Mega Phoenix", "add": "Level 1 Key Sphere" },
+      { "base": "Mega Phoenix", "add": "Level 2 Key Sphere" },
+      { "base": "Mega Phoenix", "add": "Level 3 Key Sphere" },
+      { "base": "Mega Phoenix", "add": "Level 4 Key Sphere" },
+      { "base": "Mega Phoenix", "add": "HP Sphere" },
+      { "base": "Mega Phoenix", "add": "MP Sphere" },
+      { "base": "Mega Phoenix", "add": "Strength Sphere" },
+      { "base": "Mega Phoenix", "add": "Defense Sphere" },
+      { "base": "Mega Phoenix", "add": "Magic Sphere" },
+      { "base": "Mega Phoenix", "add": "Magic Defense Sphere" },
+      { "base": "Mega Phoenix", "add": "Agility Sphere" },
+      { "base": "Mega Phoenix", "add": "Evasion Sphere" },
+      { "base": "Mega Phoenix", "add": "Accuracy Sphere" },
+      { "base": "Mega Phoenix", "add": "Clear Sphere" },
+      { "base": "Mega Phoenix", "add": "Return Sphere" },
+      { "base": "Mega Phoenix", "add": "Friend Sphere" },
+      { "base": "Mega Phoenix", "add": "Teleport Sphere" },
+      { "base": "Mega Phoenix", "add": "Warp Sphere" },
+      { "base": "Mega Phoenix", "add": "Pendulum" },
+      { "base": "Mega Phoenix", "add": "Amulet" },
+      { "base": "Mega Phoenix", "add": "Door to Tomorrow" },
+      { "base": "Mega Phoenix", "add": "Wings to Discovery" },
+      { "base": "Mega Phoenix", "add": "Gambler's Spirit" },
+      { "base": "Mega Phoenix", "add": "Underdog's Secret" },
+      { "base": "Mega Phoenix", "add": "Winning Formula" },
+      { "base": "Antidote", "add": "Dark Matter" },
+      { "base": "Antidote", "add": "Three Stars" },
+      { "base": "Antidote", "add": "Master Sphere" },
+      { "base": "Soft", "add": "Dark Matter" },
+      { "base": "Soft", "add": "Three Stars" },
+      { "base": "Eyedrop", "add": "Dark Matter" },
+      { "base": "Eyedrop", "add": "Three Stars" },
+      { "base": "Eyedrop", "add": "Master Sphere" },
+      { "base": "Echo Screen", "add": "Dark Matter" },
+      { "base": "Echo Screen", "add": "Three Stars" },
+      { "base": "Echo Screen", "add": "Master Sphere" },
+      { "base": "Holy Water", "add": "Dark Matter" },
+      { "base": "Holy Water", "add": "Three Stars" },
+      { "base": "Holy Water", "add": "Master Sphere" },
+      { "base": "Remedy", "add": "Dark Matter" },
+      { "base": "Remedy", "add": "Three Stars" },
+      { "base": "Remedy", "add": "Master Sphere" },
+      { "base": "Power Distiller", "add": "Dark Matter" },
+      { "base": "Power Distiller", "add": "Three Stars" },
+      { "base": "Power Distiller", "add": "Master Sphere" },
+      { "base": "Power Distiller", "add": "Level 3 Key Sphere" },
+      { "base": "Power Distiller", "add": "Level 4 Key Sphere" },
+      { "base": "Mana Distiller", "add": "Dark Matter" },
+      { "base": "Mana Distiller", "add": "Three Stars" },
+      { "base": "Mana Distiller", "add": "Master Sphere" },
+      { "base": "Mana Distiller", "add": "Level 3 Key Sphere" },
+      { "base": "Mana Distiller", "add": "Level 4 Key Sphere" },
+      { "base": "Agility Distiller", "add": "Dark Matter" },
+      { "base": "Agility Distiller", "add": "Three Stars" },
+      { "base": "Agility Distiller", "add": "Level 3 Key Sphere" },
+      { "base": "Agility Distiller", "add": "Level 4 Key Sphere" },
+      { "base": "Ability Distiller", "add": "Dark Matter" },
+      { "base": "Ability Distiller", "add": "Three Stars" },
+      { "base": "Ability Distiller", "add": "Level 3 Key Sphere" },
+      { "base": "Ability Distiller", "add": "Level 4 Key Sphere" },
+      { "base": "Al Bhed Potion", "add": "Dark Matter" },
+      { "base": "Al Bhed Potion", "add": "Master Sphere" },
+      { "base": "Al Bhed Potion", "add": "Level 3 Key Sphere" },
+      { "base": "Al Bhed Potion", "add": "Level 4 Key Sphere" },
+      { "base": "Healing Water", "add": "Farplane Wind" },
+      { "base": "Healing Water", "add": "Dark Matter" },
+      { "base": "Healing Water", "add": "Master Sphere" },
+      { "base": "Healing Water", "add": "Level 3 Key Sphere" },
+      { "base": "Healing Water", "add": "Level 4 Key Sphere" },
+      { "base": "Healing Water", "add": "Teleport Sphere" },
+      { "base": "Healing Water", "add": "Warp Sphere" },
+      { "base": "Healing Water", "add": "Pendulum" },
+      { "base": "Healing Water", "add": "Amulet" },
+      { "base": "Healing Water", "add": "Door to Tomorrow" },
+      { "base": "Healing Water", "add": "Wings to Discovery" },
+      { "base": "Healing Water", "add": "Gambler's Spirit" },
+      { "base": "Healing Water", "add": "Underdog's Secret" },
+      { "base": "Healing Water", "add": "Winning Formula" },
+      { "base": "Tetra Elemental", "add": "Farplane Wind" },
+      { "base": "Tetra Elemental", "add": "Dark Matter" },
+      { "base": "Tetra Elemental", "add": "Master Sphere" },
+      { "base": "Tetra Elemental", "add": "Level 3 Key Sphere" },
+      { "base": "Tetra Elemental", "add": "Level 4 Key Sphere" },
+      { "base": "Tetra Elemental", "add": "Teleport Sphere" },
+      { "base": "Tetra Elemental", "add": "Warp Sphere" },
+      { "base": "Tetra Elemental", "add": "Pendulum" },
+      { "base": "Tetra Elemental", "add": "Amulet" },
+      { "base": "Tetra Elemental", "add": "Door to Tomorrow" },
+      { "base": "Tetra Elemental", "add": "Wings to Discovery" },
+      { "base": "Tetra Elemental", "add": "Gambler's Spirit" },
+      { "base": "Tetra Elemental", "add": "Underdog's Secret" },
+      { "base": "Tetra Elemental", "add": "Winning Formula" },
+      { "base": "Mana Spring", "add": "Pendulum" },
+      { "base": "Mana Spring", "add": "Amulet" },
+      { "base": "Mana Spring", "add": "Door to Tomorrow" },
+      { "base": "Mana Spring", "add": "Wings to Discovery" },
+      { "base": "Mana Spring", "add": "Gambler's Spirit" },
+      { "base": "Mana Spring", "add": "Underdog's Secret" },
+      { "base": "Mana Spring", "add": "Winning Formula" },
+      { "base": "Stamina Spring", "add": "Pendulum" },
+      { "base": "Stamina Spring", "add": "Amulet" },
+      { "base": "Stamina Spring", "add": "Door to Tomorrow" },
+      { "base": "Stamina Spring", "add": "Wings to Discovery" },
+      { "base": "Stamina Spring", "add": "Gambler's Spirit" },
+      { "base": "Stamina Spring", "add": "Underdog's Secret" },
+      { "base": "Stamina Spring", "add": "Winning Formula" },
+      { "base": "Soul Spring", "add": "Pendulum" },
+      { "base": "Soul Spring", "add": "Amulet" },
+      { "base": "Soul Spring", "add": "Door to Tomorrow" },
+      { "base": "Soul Spring", "add": "Wings to Discovery" },
+      { "base": "Soul Spring", "add": "Gambler's Spirit" },
+      { "base": "Soul Spring", "add": "Underdog's Secret" },
+      { "base": "Soul Spring", "add": "Winning Formula" },
+      { "base": "Purifying Salt", "add": "Pendulum" },
+      { "base": "Purifying Salt", "add": "Amulet" },
+      { "base": "Purifying Salt", "add": "Door to Tomorrow" },
+      { "base": "Purifying Salt", "add": "Wings to Discovery" },
+      { "base": "Purifying Salt", "add": "Gambler's Spirit" },
+      { "base": "Purifying Salt", "add": "Underdog's Secret" },
+      { "base": "Purifying Salt", "add": "Winning Formula" },
+      { "base": "Stamina Tablet", "add": "Pendulum" },
+      { "base": "Stamina Tablet", "add": "Amulet" },
+      { "base": "Stamina Tablet", "add": "Door to Tomorrow" },
+      { "base": "Stamina Tablet", "add": "Wings to Discovery" },
+      { "base": "Stamina Tablet", "add": "Gambler's Spirit" },
+      { "base": "Stamina Tablet", "add": "Underdog's Secret" },
+      { "base": "Stamina Tablet", "add": "Winning Formula" }
+    ]
+  }
+]
