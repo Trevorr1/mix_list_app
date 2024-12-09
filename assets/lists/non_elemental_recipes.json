@@ -1,0 +1,7461 @@
+[
+  {
+    "name": "Grenade",
+    "description": "all enemies; small damage",
+    "type": "NON-ELEMENTAL",
+    "recipes": [
+      {
+        "base": "Bomb Fragment",
+        "add": "Antarctic Wind"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Arctic Wind"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Ice Gem"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Fish Scale"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Dragon Scale"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Water Gem"
+      }
+    ]
+  },
+  {
+    "name": "Frag Grenade",
+    "description": "all enemies; small damage",
+    "type": "NON-ELEMENTAL",
+    "recipes": [
+      {
+        "base": "Power Sphere",
+        "add": "Power Sphere"
+      },
+      {
+        "base": "Power Sphere",
+        "add": "Mana Sphere"
+      },
+      {
+        "base": "Power Sphere",
+        "add": "Speed Sphere"
+      },
+      {
+        "base": "Power Sphere",
+        "add": "Ability Sphere"
+      },
+      {
+        "base": "Mana Sphere",
+        "add": "Mana Sphere"
+      },
+      {
+        "base": "Mana Sphere",
+        "add": "Speed Sphere"
+      },
+      {
+        "base": "Mana Sphere",
+        "add": "Ability Sphere"
+      },
+      {
+        "base": "Speed Sphere",
+        "add": "Speed Sphere"
+      },
+      {
+        "base": "Speed Sphere",
+        "add": "Ability Sphere"
+      },
+      {
+        "base": "Ability Sphere",
+        "add": "Ability Sphere"
+      }
+    ]
+  },
+  {
+    "name": "Blaster Mine",
+    "description": "all enemies; small damage plus status abnormalities",
+    "type": "NON-ELEMENTAL",
+    "recipes": [
+      {
+        "base": "Antidote",
+        "add": "Grenade"
+      },
+      {
+        "base": "Antidote",
+        "add": "Frag Grenade"
+      },
+      {
+        "base": "Soft",
+        "add": "Grenade"
+      },
+      {
+        "base": "Soft",
+        "add": "Frag Grenade"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Grenade"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Frag Grenade"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Grenade"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Frag Grenade"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Grenade"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Frag Grenade"
+      },
+      {
+        "base": "Remedy",
+        "add": "Grenade"
+      },
+      {
+        "base": "Remedy",
+        "add": "Frag Grenade"
+      },
+      {
+        "base": "Power Distiller",
+        "add": "Grenade"
+      },
+      {
+        "base": "Power Distiller",
+        "add": "Frag Grenade"
+      },
+      {
+        "base": "Mana Distiller",
+        "add": "Grenade"
+      },
+      {
+        "base": "Mana Distiller",
+        "add": "Frag Grenade"
+      },
+      {
+        "base": "Agility Distiller",
+        "add": "Grenade"
+      },
+      {
+        "base": "Agility Distiller",
+        "add": "Frag Grenade"
+      },
+      {
+        "base": "Ability Distiller",
+        "add": "Grenade"
+      },
+      {
+        "base": "Ability Distiller",
+        "add": "Frag Grenade"
+      },
+      {
+        "base": "Al Bhed Potion",
+        "add": "Grenade"
+      },
+      {
+        "base": "Al Bhed Potion",
+        "add": "Frag Grenade"
+      },
+      {
+        "base": "Grenade",
+        "add": "Sleeping Powder"
+      },
+      {
+        "base": "Grenade",
+        "add": "Dream Powder"
+      },
+      {
+        "base": "Grenade",
+        "add": "Silence Grenade"
+      },
+      {
+        "base": "Grenade",
+        "add": "Smoke Bomb"
+      },
+      {
+        "base": "Grenade",
+        "add": "Poison Fang"
+      },
+      {
+        "base": "Grenade",
+        "add": "Silver Hourglass"
+      },
+      {
+        "base": "Grenade",
+        "add": "Gold Hourglass"
+      },
+      {
+        "base": "Grenade",
+        "add": "Candle of Life"
+      },
+      {
+        "base": "Grenade",
+        "add": "Petrify Grenade"
+      },
+      {
+        "base": "Grenade",
+        "add": "Chocobo Feather"
+      },
+      {
+        "base": "Grenade",
+        "add": "Chocobo Wing"
+      },
+      {
+        "base": "Grenade",
+        "add": "Mana Spring"
+      },
+      {
+        "base": "Grenade",
+        "add": "Stamina Spring"
+      },
+      {
+        "base": "Grenade",
+        "add": "Soul Spring"
+      },
+      {
+        "base": "Grenade",
+        "add": "Purifying Salt"
+      },
+      {
+        "base": "Grenade",
+        "add": "Power Sphere"
+      },
+      {
+        "base": "Grenade",
+        "add": "Mana Sphere"
+      },
+      {
+        "base": "Grenade",
+        "add": "Speed Sphere"
+      },
+      {
+        "base": "Grenade",
+        "add": "Ability Sphere"
+      },
+      {
+        "base": "Grenade",
+        "add": "Musk"
+      },
+      {
+        "base": "Grenade",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Grenade",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Power Sphere"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Mana Sphere"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Speed Sphere"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Ability Sphere"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Power Sphere"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Mana Sphere"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Speed Sphere"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Ability Sphere"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Power Sphere"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Mana Sphere"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Speed Sphere"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Ability Sphere"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Power Sphere"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Mana Sphere"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Speed Sphere"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Ability Sphere"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Power Sphere"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Mana Sphere"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Speed Sphere"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Ability Sphere"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Map"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Power Sphere"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Mana Sphere"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Speed Sphere"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Ability Sphere"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Map"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Power Sphere"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Mana Sphere"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Speed Sphere"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Ability Sphere"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Map"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Power Sphere"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Mana Sphere"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Speed Sphere"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Ability Sphere"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Map"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Power Sphere"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Mana Sphere"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Speed Sphere"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Ability Sphere"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Map"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Power Sphere",
+        "add": "Musk"
+      },
+      {
+        "base": "Power Sphere",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Power Sphere",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Mana Sphere",
+        "add": "Musk"
+      },
+      {
+        "base": "Mana Sphere",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Mana Sphere",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Speed Sphere",
+        "add": "Musk"
+      },
+      {
+        "base": "Speed Sphere",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Speed Sphere",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Ability Sphere",
+        "add": "Musk"
+      },
+      {
+        "base": "Ability Sphere",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Ability Sphere",
+        "add": "Shining Thorn"
+      }
+    ]
+  },
+  {
+    "name": "Hazardous Shell",
+    "description": "all enemies; small damage plus status abnormalities",
+    "type": "NON-ELEMENTAL",
+    "recipes": [
+      {
+        "base": "Healing Water",
+        "add": "Grenade"
+      },
+      {
+        "base": "Healing Water",
+        "add": "Frag Grenade"
+      },
+      {
+        "base": "Tetra Elemental",
+        "add": "Grenade"
+      },
+      {
+        "base": "Tetra Elemental",
+        "add": "Frag Grenade"
+      },
+      {
+        "base": "Grenade",
+        "add": "Farplane Shadow"
+      },
+      {
+        "base": "Grenade",
+        "add": "Farplane Wind"
+      },
+      {
+        "base": "Grenade",
+        "add": "Attribute Sphere"
+      },
+      {
+        "base": "Grenade",
+        "add": "Special Sphere"
+      },
+      {
+        "base": "Grenade",
+        "add": "Skill Sphere"
+      },
+      {
+        "base": "Grenade",
+        "add": "White Magic Sphere"
+      },
+      {
+        "base": "Grenade",
+        "add": "Black Magic Sphere"
+      },
+      {
+        "base": "Grenade",
+        "add": "Level 1 Key Sphere"
+      },
+      {
+        "base": "Grenade",
+        "add": "Level 2 Key Sphere"
+      },
+      {
+        "base": "Grenade",
+        "add": "Clear Sphere"
+      },
+      {
+        "base": "Grenade",
+        "add": "Map"
+      },
+      {
+        "base": "Grenade",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Sleeping Powder"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Dream Powder"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Silence Grenade"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Smoke Bomb"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Poison Fang"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Silver Hourglass"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Gold Hourglass"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Candle of Life"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Petrify Grenade"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Farplane Shadow"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Farplane Wind"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Chocobo Feather"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Chocobo Wing"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Mana Spring"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Stamina Spring"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Soul Spring"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Purifying Salt"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Power Sphere"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Mana Sphere"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Speed Sphere"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Ability Sphere"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Map"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Musk"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Sleeping Powder"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Dream Powder"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Silence Grenade"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Smoke Bomb"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Poison Fang"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Silver Hourglass"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Gold Hourglass"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Candle of Life"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Petrify Grenade"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Chocobo Feather"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Chocobo Wing"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Healing Spring"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Mana Spring"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Stamina Spring"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Soul Spring"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Purifying Salt"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Map"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Musk"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Dream Powder"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Silence Grenade"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Smoke Bomb"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Poison Fang"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Silver Hourglass"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Gold Hourglass"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Candle of Life"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Petrify Grenade"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Chocobo Feather"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Chocobo Wing"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Healing Spring"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Mana Spring"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Stamina Spring"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Soul Spring"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Purifying Salt"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Map"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Musk"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Silence Grenade"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Smoke Bomb"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Poison Fang"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Silver Hourglass"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Gold Hourglass"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Candle of Life"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Petrify Grenade"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Chocobo Feather"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Chocobo Wing"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Healing Spring"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Mana Spring"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Stamina Spring"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Soul Spring"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Purifying Salt"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Map"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Musk"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Smoke Bomb"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Poison Fang"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Silver Hourglass"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Gold Hourglass"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Candle of Life"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Petrify Grenade"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Chocobo Feather"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Chocobo Wing"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Healing Spring"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Mana Spring"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Stamina Spring"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Soul Spring"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Purifying Salt"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Map"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Musk"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "Power Sphere"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "Mana Sphere"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "Speed Sphere"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "Ability Sphere"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "Power Sphere"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "Mana Sphere"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "Speed Sphere"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "Ability Sphere"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Poison Fang"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Silver Hourglass"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Gold Hourglass"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Candle of Life"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Petrify Grenade"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Chocobo Feather"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Chocobo Wing"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Lunar Curtain"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Light Curtain"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Star Curtain"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Healing Spring"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Mana Spring"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Stamina Spring"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Soul Spring"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Purifying Salt"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Musk"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Silver Hourglass"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Gold Hourglass"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Candle of Life"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Petrify Grenade"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Chocobo Feather"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Chocobo Wing"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Lunar Curtain"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Light Curtain"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Star Curtain"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Healing Spring"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Mana Spring"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Stamina Spring"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Soul Spring"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Purifying Salt"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Musk"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Gold Hourglass"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Candle of Life"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Petrify Grenade"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Chocobo Feather"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Chocobo Wing"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Lunar Curtain"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Light Curtain"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Star Curtain"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Healing Spring"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Mana Spring"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Stamina Spring"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Soul Spring"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Purifying Salt"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Musk"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Candle of Life"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Petrify Grenade"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Chocobo Feather"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Chocobo Wing"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Lunar Curtain"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Light Curtain"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Star Curtain"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Healing Spring"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Mana Spring"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Stamina Spring"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Soul Spring"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Purifying Salt"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Musk"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Chocobo Feather"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Chocobo Wing"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Lunar Curtain"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Light Curtain"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Star Curtain"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Healing Spring"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Mana Spring"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Stamina Spring"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Soul Spring"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Purifying Salt"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Musk"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "Power Sphere"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "Mana Sphere"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "Speed Sphere"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "Ability Sphere"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "Map"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "Three Stars"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "Power Sphere"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "Mana Sphere"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "Speed Sphere"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "Ability Sphere"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "Map"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Map",
+        "add": "Musk"
+      },
+      {
+        "base": "Map",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Map",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Rename Card",
+        "add": "Musk"
+      },
+      {
+        "base": "Rename Card",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Rename Card",
+        "add": "Shining Thorn"
+      }
+    ]
+  },
+  {
+    "name": "Pineapple",
+    "description": "all enemies; medium damage",
+    "type": "NON-ELEMENTAL",
+    "recipes": [
+      {
+        "base": "Power Distiller",
+        "add": "Map"
+      },
+      {
+        "base": "Power Distiller",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Mana Distiller",
+        "add": "Map"
+      },
+      {
+        "base": "Mana Distiller",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Agility Distiller",
+        "add": "Map"
+      },
+      {
+        "base": "Agility Distiller",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Ability Distiller",
+        "add": "Map"
+      },
+      {
+        "base": "Ability Distiller",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Electro Marble"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Lightning Marble"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Lightning Gem"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Fish Scale"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Dragon Scale"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Water Gem"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Electro Marble"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Lightning Marble"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Fish Scale"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Dragon Scale"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Electro Marble"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Fish Scale"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Antarctic Wind"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Arctic Wind"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Ice Gem"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Antarctic Wind"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Arctic Wind"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Antarctic Wind"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Antarctic Wind"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Arctic Wind"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Ice Gem"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Antarctic Wind"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Arctic Wind"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Antarctic Wind"
+      },
+      {
+        "base": "Power Sphere",
+        "add": "Attribute Sphere"
+      },
+      {
+        "base": "Power Sphere",
+        "add": "Special Sphere"
+      },
+      {
+        "base": "Power Sphere",
+        "add": "Skill Sphere"
+      },
+      {
+        "base": "Power Sphere",
+        "add": "White Magic Sphere"
+      },
+      {
+        "base": "Power Sphere",
+        "add": "Black Magic Sphere"
+      },
+      {
+        "base": "Power Sphere",
+        "add": "Level 1 Key Sphere"
+      },
+      {
+        "base": "Power Sphere",
+        "add": "Map"
+      },
+      {
+        "base": "Power Sphere",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Mana Sphere",
+        "add": "Attribute Sphere"
+      },
+      {
+        "base": "Mana Sphere",
+        "add": "Special Sphere"
+      },
+      {
+        "base": "Mana Sphere",
+        "add": "Skill Sphere"
+      },
+      {
+        "base": "Mana Sphere",
+        "add": "White Magic Sphere"
+      },
+      {
+        "base": "Mana Sphere",
+        "add": "Black Magic Sphere"
+      },
+      {
+        "base": "Mana Sphere",
+        "add": "Level 1 Key Sphere"
+      },
+      {
+        "base": "Mana Sphere",
+        "add": "Map"
+      },
+      {
+        "base": "Mana Sphere",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Speed Sphere",
+        "add": "Attribute Sphere"
+      },
+      {
+        "base": "Speed Sphere",
+        "add": "Special Sphere"
+      },
+      {
+        "base": "Speed Sphere",
+        "add": "Skill Sphere"
+      },
+      {
+        "base": "Speed Sphere",
+        "add": "White Magic Sphere"
+      },
+      {
+        "base": "Speed Sphere",
+        "add": "Black Magic Sphere"
+      },
+      {
+        "base": "Speed Sphere",
+        "add": "Level 1 Key Sphere"
+      },
+      {
+        "base": "Speed Sphere",
+        "add": "Map"
+      },
+      {
+        "base": "Speed Sphere",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Ability Sphere",
+        "add": "Attribute Sphere"
+      },
+      {
+        "base": "Ability Sphere",
+        "add": "Special Sphere"
+      },
+      {
+        "base": "Ability Sphere",
+        "add": "Skill Sphere"
+      },
+      {
+        "base": "Ability Sphere",
+        "add": "White Magic Sphere"
+      },
+      {
+        "base": "Ability Sphere",
+        "add": "Black Magic Sphere"
+      },
+      {
+        "base": "Ability Sphere",
+        "add": "Level 1 Key Sphere"
+      },
+      {
+        "base": "Ability Sphere",
+        "add": "Map"
+      },
+      {
+        "base": "Ability Sphere",
+        "add": "Rename Card"
+      }
+    ]
+  },
+  {
+    "name": "Calamity Bomb",
+    "description": "all enemies; medium damage plus status abnormalities",
+    "type": "NON-ELEMENTAL",
+    "recipes": [
+      {
+        "base": "Grenade",
+        "add": "Master Sphere"
+      },
+      {
+        "base": "Grenade",
+        "add": "Level 3 Key Sphere"
+      },
+      {
+        "base": "Grenade",
+        "add": "Level 4 Key Sphere"
+      },
+      {
+        "base": "Grenade",
+        "add": "Pendulum"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Attribute Sphere"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Special Sphere"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Skill Sphere"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "White Magic Sphere"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Black Magic Sphere"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Level 1 Key Sphere"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Level 2 Key Sphere"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Clear Sphere"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Farplane Shadow"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Farplane Wind"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Three Stars"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Attribute Sphere"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Special Sphere"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Skill Sphere"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "White Magic Sphere"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Black Magic Sphere"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Level 1 Key Sphere"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Level 2 Key Sphere"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Farplane Shadow"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Farplane Wind"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Three Stars"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Attribute Sphere"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Special Sphere"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Skill Sphere"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "White Magic Sphere"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Black Magic Sphere"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Level 1 Key Sphere"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Level 2 Key Sphere"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Clear Sphere"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Farplane Shadow"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Farplane Wind"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Three Stars"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Attribute Sphere"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Special Sphere"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Skill Sphere"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "White Magic Sphere"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Black Magic Sphere"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Level 1 Key Sphere"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Level 2 Key Sphere"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Clear Sphere"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Farplane Shadow"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Farplane Wind"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Three Stars"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Attribute Sphere"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Special Sphere"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Skill Sphere"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "White Magic Sphere"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Black Magic Sphere"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Level 1 Key Sphere"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Level 2 Key Sphere"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Clear Sphere"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Three Stars"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "Poison Fang"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "Silver Hourglass"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "Gold Hourglass"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "Candle of Life"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "Petrify Grenade"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "Chocobo Feather"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "Chocobo Wing"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "Lunar Curtain"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "Light Curtain"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "Star Curtain"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "Healing Spring"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "Mana Spring"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "Stamina Spring"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "Soul Spring"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "Purifying Salt"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "Poison Fang"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "Silver Hourglass"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "Gold Hourglass"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "Candle of Life"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "Petrify Grenade"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "Chocobo Feather"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "Chocobo Wing"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "Lunar Curtain"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "Light Curtain"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "Star Curtain"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "Healing Spring"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "Mana Spring"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "Stamina Spring"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "Soul Spring"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "Purifying Salt"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Power Sphere"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Mana Sphere"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Speed Sphere"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Ability Sphere"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Farplane Shadow"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Farplane Wind"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Three Stars"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Attribute Sphere"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Special Sphere"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Skill Sphere"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "White Magic Sphere"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Black Magic Sphere"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Level 1 Key Sphere"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Level 2 Key Sphere"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Clear Sphere"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Farplane Shadow"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Farplane Wind"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Three Stars"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Attribute Sphere"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Special Sphere"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Skill Sphere"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "White Magic Sphere"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Black Magic Sphere"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Level 1 Key Sphere"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Level 2 Key Sphere"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Clear Sphere"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Farplane Shadow"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Farplane Wind"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Three Stars"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Attribute Sphere"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Special Sphere"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Skill Sphere"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "White Magic Sphere"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Black Magic Sphere"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Level 1 Key Sphere"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Level 2 Key Sphere"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Clear Sphere"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Farplane Shadow"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Farplane Wind"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Three Stars"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Attribute Sphere"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Special Sphere"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Skill Sphere"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "White Magic Sphere"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Black Magic Sphere"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Level 1 Key Sphere"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Level 2 Key Sphere"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Clear Sphere"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Petrify Grenade"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Farplane Shadow"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Farplane Wind"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Three Stars"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Attribute Sphere"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Special Sphere"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Skill Sphere"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "White Magic Sphere"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Black Magic Sphere"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Level 1 Key Sphere"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Level 2 Key Sphere"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Clear Sphere"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "Farplane Shadow"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "Farplane Wind"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "Chocobo Feather"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "Chocobo Wing"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "Lunar Curtain"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "Light Curtain"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "Star Curtain"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "Healing Spring"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "Mana Spring"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "Stamina Spring"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "Soul Spring"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "Purifying Salt"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "Three Stars"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "Musk"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "Chocobo Feather"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "Chocobo Wing"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "Lunar Curtain"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "Light Curtain"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "Star Curtain"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "Healing Spring"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "Mana Spring"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "Stamina Spring"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "Soul Spring"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "Purifying Salt"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "Musk"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Attribute Sphere",
+        "add": "Musk"
+      },
+      {
+        "base": "Attribute Sphere",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Attribute Sphere",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Special Sphere",
+        "add": "Musk"
+      },
+      {
+        "base": "Special Sphere",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Special Sphere",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Skill Sphere",
+        "add": "Musk"
+      },
+      {
+        "base": "Skill Sphere",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Skill Sphere",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "White Magic Sphere",
+        "add": "Musk"
+      },
+      {
+        "base": "White Magic Sphere",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "White Magic Sphere",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Black Magic Sphere",
+        "add": "Musk"
+      },
+      {
+        "base": "Black Magic Sphere",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Black Magic Sphere",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Level 1 Key Sphere",
+        "add": "Musk"
+      },
+      {
+        "base": "Level 1 Key Sphere",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Level 1 Key Sphere",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Level 2 Key Sphere",
+        "add": "Musk"
+      },
+      {
+        "base": "Level 2 Key Sphere",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Level 2 Key Sphere",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Clear Sphere",
+        "add": "Musk"
+      },
+      {
+        "base": "Clear Sphere",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Clear Sphere",
+        "add": "Shining Thorn"
+      }
+    ]
+  },
+  {
+    "name": "Cluster Bomb",
+    "description": "all enemies; large damage",
+    "type": "NON-ELEMENTAL",
+    "recipes": [
+      {
+        "base": "Bomb Fragment",
+        "add": "Shining Gem"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Blessed Gem"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Shining Gem"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Blessed Gem"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Shining Gem"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Blessed Gem"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Shining Gem"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Blessed Gem"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Shining Gem"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Blessed Gem"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Shining Gem"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Blessed Gem"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Shining Gem"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Blessed Gem"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Shining Gem"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Blessed Gem"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Shining Gem"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Blessed Gem"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Shining Gem"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Blessed Gem"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Shining Gem"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Blessed Gem"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Shining Gem"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Blessed Gem"
+      },
+      {
+        "base": "Grenade",
+        "add": "Blessed Gem"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Shining Gem"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Blessed Gem"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Pendulum"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Shining Gem"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Blessed Gem"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Pendulum"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Shining Gem"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Blessed Gem"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Pendulum"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Shining Gem"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Blessed Gem"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Pendulum"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Shining Gem"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Blessed Gem"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Pendulum"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "Map"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "Map"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Map"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Power Sphere",
+        "add": "Master Sphere"
+      },
+      {
+        "base": "Power Sphere",
+        "add": "Level 3 Key Sphere"
+      },
+      {
+        "base": "Power Sphere",
+        "add": "Level 4 Key Sphere"
+      },
+      {
+        "base": "Power Sphere",
+        "add": "HP Sphere"
+      },
+      {
+        "base": "Power Sphere",
+        "add": "MP Sphere"
+      },
+      {
+        "base": "Power Sphere",
+        "add": "Strength Sphere"
+      },
+      {
+        "base": "Power Sphere",
+        "add": "Defense Sphere"
+      },
+      {
+        "base": "Power Sphere",
+        "add": "Magic Sphere"
+      },
+      {
+        "base": "Power Sphere",
+        "add": "Magic Defense Sphere"
+      },
+      {
+        "base": "Power Sphere",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "Power Sphere",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "Power Sphere",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "Power Sphere",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Power Sphere",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Power Sphere",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Power Sphere",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "Power Sphere",
+        "add": "Pendulum"
+      },
+      {
+        "base": "Power Sphere",
+        "add": "Amulet"
+      },
+      {
+        "base": "Power Sphere",
+        "add": "Door to Tomorrow"
+      },
+      {
+        "base": "Power Sphere",
+        "add": "Wings to Discovery"
+      },
+      {
+        "base": "Power Sphere",
+        "add": "Gambler's Spirit"
+      },
+      {
+        "base": "Power Sphere",
+        "add": "Underdog's Secret"
+      },
+      {
+        "base": "Power Sphere",
+        "add": "Winning Formula"
+      },
+      {
+        "base": "Mana Sphere",
+        "add": "Master Sphere"
+      },
+      {
+        "base": "Mana Sphere",
+        "add": "Level 3 Key Sphere"
+      },
+      {
+        "base": "Mana Sphere",
+        "add": "Level 4 Key Sphere"
+      },
+      {
+        "base": "Mana Sphere",
+        "add": "HP Sphere"
+      },
+      {
+        "base": "Mana Sphere",
+        "add": "MP Sphere"
+      },
+      {
+        "base": "Mana Sphere",
+        "add": "Strength Sphere"
+      },
+      {
+        "base": "Mana Sphere",
+        "add": "Defense Sphere"
+      },
+      {
+        "base": "Mana Sphere",
+        "add": "Magic Sphere"
+      },
+      {
+        "base": "Mana Sphere",
+        "add": "Magic Defense Sphere"
+      },
+      {
+        "base": "Mana Sphere",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "Mana Sphere",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "Mana Sphere",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "Mana Sphere",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Mana Sphere",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Mana Sphere",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Mana Sphere",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "Mana Sphere",
+        "add": "Pendulum"
+      },
+      {
+        "base": "Mana Sphere",
+        "add": "Amulet"
+      },
+      {
+        "base": "Mana Sphere",
+        "add": "Door to Tomorrow"
+      },
+      {
+        "base": "Mana Sphere",
+        "add": "Wings to Discovery"
+      },
+      {
+        "base": "Mana Sphere",
+        "add": "Gambler's Spirit"
+      },
+      {
+        "base": "Mana Sphere",
+        "add": "Underdog's Secret"
+      },
+      {
+        "base": "Mana Sphere",
+        "add": "Winning Formula"
+      },
+      {
+        "base": "Speed Sphere",
+        "add": "Master Sphere"
+      },
+      {
+        "base": "Speed Sphere",
+        "add": "Level 3 Key Sphere"
+      },
+      {
+        "base": "Speed Sphere",
+        "add": "Level 4 Key Sphere"
+      },
+      {
+        "base": "Speed Sphere",
+        "add": "HP Sphere"
+      },
+      {
+        "base": "Speed Sphere",
+        "add": "MP Sphere"
+      },
+      {
+        "base": "Speed Sphere",
+        "add": "Strength Sphere"
+      },
+      {
+        "base": "Speed Sphere",
+        "add": "Defense Sphere"
+      },
+      {
+        "base": "Speed Sphere",
+        "add": "Magic Sphere"
+      },
+      {
+        "base": "Speed Sphere",
+        "add": "Magic Defense Sphere"
+      },
+      {
+        "base": "Speed Sphere",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "Speed Sphere",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "Speed Sphere",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "Speed Sphere",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Speed Sphere",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Speed Sphere",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Speed Sphere",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "Speed Sphere",
+        "add": "Pendulum"
+      },
+      {
+        "base": "Speed Sphere",
+        "add": "Amulet"
+      },
+      {
+        "base": "Speed Sphere",
+        "add": "Door to Tomorrow"
+      },
+      {
+        "base": "Speed Sphere",
+        "add": "Wings to Discovery"
+      },
+      {
+        "base": "Speed Sphere",
+        "add": "Gambler's Spirit"
+      },
+      {
+        "base": "Speed Sphere",
+        "add": "Underdog's Secret"
+      },
+      {
+        "base": "Speed Sphere",
+        "add": "Winning Formula"
+      },
+      {
+        "base": "Ability Sphere",
+        "add": "Master Sphere"
+      },
+      {
+        "base": "Ability Sphere",
+        "add": "Level 3 Key Sphere"
+      },
+      {
+        "base": "Ability Sphere",
+        "add": "Level 4 Key Sphere"
+      },
+      {
+        "base": "Ability Sphere",
+        "add": "HP Sphere"
+      },
+      {
+        "base": "Ability Sphere",
+        "add": "MP Sphere"
+      },
+      {
+        "base": "Ability Sphere",
+        "add": "Strength Sphere"
+      },
+      {
+        "base": "Ability Sphere",
+        "add": "Defense Sphere"
+      },
+      {
+        "base": "Ability Sphere",
+        "add": "Magic Sphere"
+      },
+      {
+        "base": "Ability Sphere",
+        "add": "Magic Defense Sphere"
+      },
+      {
+        "base": "Ability Sphere",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "Ability Sphere",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "Ability Sphere",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "Ability Sphere",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Ability Sphere",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Ability Sphere",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Ability Sphere",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "Ability Sphere",
+        "add": "Pendulum"
+      },
+      {
+        "base": "Ability Sphere",
+        "add": "Amulet"
+      },
+      {
+        "base": "Ability Sphere",
+        "add": "Door to Tomorrow"
+      },
+      {
+        "base": "Ability Sphere",
+        "add": "Wings to Discovery"
+      },
+      {
+        "base": "Ability Sphere",
+        "add": "Gambler's Spirit"
+      },
+      {
+        "base": "Ability Sphere",
+        "add": "Underdog's Secret"
+      },
+      {
+        "base": "Ability Sphere",
+        "add": "Winning Formula"
+      },
+      {
+        "base": "Attribute Sphere",
+        "add": "Level 2 Key Sphere"
+      },
+      {
+        "base": "Attribute Sphere",
+        "add": "Level 3 Key Sphere"
+      },
+      {
+        "base": "Attribute Sphere",
+        "add": "HP Sphere"
+      },
+      {
+        "base": "Attribute Sphere",
+        "add": "MP Sphere"
+      },
+      {
+        "base": "Attribute Sphere",
+        "add": "Strength Sphere"
+      },
+      {
+        "base": "Attribute Sphere",
+        "add": "Defense Sphere"
+      },
+      {
+        "base": "Attribute Sphere",
+        "add": "Magic Sphere"
+      },
+      {
+        "base": "Attribute Sphere",
+        "add": "Magic Defense Sphere"
+      },
+      {
+        "base": "Attribute Sphere",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "Attribute Sphere",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "Attribute Sphere",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "Attribute Sphere",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Attribute Sphere",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Attribute Sphere",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Special Sphere",
+        "add": "Level 2 Key Sphere"
+      },
+      {
+        "base": "Special Sphere",
+        "add": "Level 3 Key Sphere"
+      },
+      {
+        "base": "Special Sphere",
+        "add": "HP Sphere"
+      },
+      {
+        "base": "Special Sphere",
+        "add": "MP Sphere"
+      },
+      {
+        "base": "Special Sphere",
+        "add": "Strength Sphere"
+      },
+      {
+        "base": "Special Sphere",
+        "add": "Defense Sphere"
+      },
+      {
+        "base": "Special Sphere",
+        "add": "Magic Sphere"
+      },
+      {
+        "base": "Special Sphere",
+        "add": "Magic Defense Sphere"
+      },
+      {
+        "base": "Special Sphere",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "Special Sphere",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "Special Sphere",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "Special Sphere",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Special Sphere",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Special Sphere",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Skill Sphere",
+        "add": "Level 2 Key Sphere"
+      },
+      {
+        "base": "Skill Sphere",
+        "add": "Level 3 Key Sphere"
+      },
+      {
+        "base": "Skill Sphere",
+        "add": "HP Sphere"
+      },
+      {
+        "base": "Skill Sphere",
+        "add": "MP Sphere"
+      },
+      {
+        "base": "Skill Sphere",
+        "add": "Strength Sphere"
+      },
+      {
+        "base": "Skill Sphere",
+        "add": "Defense Sphere"
+      },
+      {
+        "base": "Skill Sphere",
+        "add": "Magic Sphere"
+      },
+      {
+        "base": "Skill Sphere",
+        "add": "Magic Defense Sphere"
+      },
+      {
+        "base": "Skill Sphere",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "Skill Sphere",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "Skill Sphere",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "Skill Sphere",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Skill Sphere",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Skill Sphere",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "White Magic Sphere",
+        "add": "Level 2 Key Sphere"
+      },
+      {
+        "base": "White Magic Sphere",
+        "add": "Level 3 Key Sphere"
+      },
+      {
+        "base": "White Magic Sphere",
+        "add": "HP Sphere"
+      },
+      {
+        "base": "White Magic Sphere",
+        "add": "MP Sphere"
+      },
+      {
+        "base": "White Magic Sphere",
+        "add": "Strength Sphere"
+      },
+      {
+        "base": "White Magic Sphere",
+        "add": "Defense Sphere"
+      },
+      {
+        "base": "White Magic Sphere",
+        "add": "Magic Sphere"
+      },
+      {
+        "base": "White Magic Sphere",
+        "add": "Magic Defense Sphere"
+      },
+      {
+        "base": "White Magic Sphere",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "White Magic Sphere",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "White Magic Sphere",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "White Magic Sphere",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "White Magic Sphere",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "White Magic Sphere",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Black Magic Sphere",
+        "add": "Level 2 Key Sphere"
+      },
+      {
+        "base": "Black Magic Sphere",
+        "add": "Level 3 Key Sphere"
+      },
+      {
+        "base": "Black Magic Sphere",
+        "add": "HP Sphere"
+      },
+      {
+        "base": "Black Magic Sphere",
+        "add": "MP Sphere"
+      },
+      {
+        "base": "Black Magic Sphere",
+        "add": "Strength Sphere"
+      },
+      {
+        "base": "Black Magic Sphere",
+        "add": "Defense Sphere"
+      },
+      {
+        "base": "Black Magic Sphere",
+        "add": "Magic Sphere"
+      },
+      {
+        "base": "Black Magic Sphere",
+        "add": "Magic Defense Sphere"
+      },
+      {
+        "base": "Black Magic Sphere",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "Black Magic Sphere",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "Black Magic Sphere",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "Black Magic Sphere",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Black Magic Sphere",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Black Magic Sphere",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Master Sphere",
+        "add": "Level 2 Key Sphere"
+      },
+      {
+        "base": "Master Sphere",
+        "add": "Level 3 Key Sphere"
+      },
+      {
+        "base": "Master Sphere",
+        "add": "HP Sphere"
+      },
+      {
+        "base": "Master Sphere",
+        "add": "MP Sphere"
+      },
+      {
+        "base": "Master Sphere",
+        "add": "Strength Sphere"
+      },
+      {
+        "base": "Master Sphere",
+        "add": "Defense Sphere"
+      },
+      {
+        "base": "Master Sphere",
+        "add": "Magic Sphere"
+      },
+      {
+        "base": "Master Sphere",
+        "add": "Magic Defense Sphere"
+      },
+      {
+        "base": "Master Sphere",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "Master Sphere",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "Master Sphere",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "Master Sphere",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Master Sphere",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Master Sphere",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Level 1 Key Sphere",
+        "add": "Level 2 Key Sphere"
+      },
+      {
+        "base": "Level 1 Key Sphere",
+        "add": "Level 3 Key Sphere"
+      },
+      {
+        "base": "Level 1 Key Sphere",
+        "add": "HP Sphere"
+      },
+      {
+        "base": "Level 1 Key Sphere",
+        "add": "MP Sphere"
+      },
+      {
+        "base": "Level 1 Key Sphere",
+        "add": "Strength Sphere"
+      },
+      {
+        "base": "Level 1 Key Sphere",
+        "add": "Defense Sphere"
+      },
+      {
+        "base": "Level 1 Key Sphere",
+        "add": "Magic Sphere"
+      },
+      {
+        "base": "Level 1 Key Sphere",
+        "add": "Magic Defense Sphere"
+      },
+      {
+        "base": "Level 1 Key Sphere",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "Level 1 Key Sphere",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "Level 1 Key Sphere",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "Level 1 Key Sphere",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Level 1 Key Sphere",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Level 1 Key Sphere",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Level 2 Key Sphere",
+        "add": "Level 2 Key Sphere"
+      },
+      {
+        "base": "Level 2 Key Sphere",
+        "add": "Level 3 Key Sphere"
+      },
+      {
+        "base": "Level 2 Key Sphere",
+        "add": "HP Sphere"
+      },
+      {
+        "base": "Level 2 Key Sphere",
+        "add": "MP Sphere"
+      },
+      {
+        "base": "Level 2 Key Sphere",
+        "add": "Strength Sphere"
+      },
+      {
+        "base": "Level 2 Key Sphere",
+        "add": "Defense Sphere"
+      },
+      {
+        "base": "Level 2 Key Sphere",
+        "add": "Magic Sphere"
+      },
+      {
+        "base": "Level 2 Key Sphere",
+        "add": "Magic Defense Sphere"
+      },
+      {
+        "base": "Level 2 Key Sphere",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "Level 2 Key Sphere",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "Level 2 Key Sphere",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "Level 2 Key Sphere",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Level 2 Key Sphere",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Level 2 Key Sphere",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Level 3 Key Sphere",
+        "add": "Level 3 Key Sphere"
+      },
+      {
+        "base": "Level 3 Key Sphere",
+        "add": "HP Sphere"
+      },
+      {
+        "base": "Level 3 Key Sphere",
+        "add": "MP Sphere"
+      },
+      {
+        "base": "Level 3 Key Sphere",
+        "add": "Strength Sphere"
+      },
+      {
+        "base": "Level 3 Key Sphere",
+        "add": "Defense Sphere"
+      },
+      {
+        "base": "Level 3 Key Sphere",
+        "add": "Magic Sphere"
+      },
+      {
+        "base": "Level 3 Key Sphere",
+        "add": "Magic Defense Sphere"
+      },
+      {
+        "base": "Level 3 Key Sphere",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "Level 3 Key Sphere",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "Level 3 Key Sphere",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "Level 3 Key Sphere",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Level 3 Key Sphere",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Level 3 Key Sphere",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Level 4 Key Sphere",
+        "add": "Map"
+      },
+      {
+        "base": "Level 4 Key Sphere",
+        "add": "Rename Card"
+      },
+      {
+        "base": "HP Sphere",
+        "add": "HP Sphere"
+      },
+      {
+        "base": "HP Sphere",
+        "add": "MP Sphere"
+      },
+      {
+        "base": "HP Sphere",
+        "add": "Strength Sphere"
+      },
+      {
+        "base": "HP Sphere",
+        "add": "Defense Sphere"
+      },
+      {
+        "base": "HP Sphere",
+        "add": "Magic Sphere"
+      },
+      {
+        "base": "HP Sphere",
+        "add": "Magic Defense Sphere"
+      },
+      {
+        "base": "HP Sphere",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "HP Sphere",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "HP Sphere",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "HP Sphere",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "HP Sphere",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "HP Sphere",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "HP Sphere",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "MP Sphere",
+        "add": "MP Sphere"
+      },
+      {
+        "base": "MP Sphere",
+        "add": "Strength Sphere"
+      },
+      {
+        "base": "MP Sphere",
+        "add": "Defense Sphere"
+      },
+      {
+        "base": "MP Sphere",
+        "add": "Magic Sphere"
+      },
+      {
+        "base": "MP Sphere",
+        "add": "Magic Defense Sphere"
+      },
+      {
+        "base": "MP Sphere",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "MP Sphere",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "MP Sphere",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "MP Sphere",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "MP Sphere",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "MP Sphere",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "MP Sphere",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "Strength Sphere",
+        "add": "Strength Sphere"
+      },
+      {
+        "base": "Strength Sphere",
+        "add": "Defense Sphere"
+      },
+      {
+        "base": "Strength Sphere",
+        "add": "Magic Sphere"
+      },
+      {
+        "base": "Strength Sphere",
+        "add": "Magic Defense Sphere"
+      },
+      {
+        "base": "Strength Sphere",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "Strength Sphere",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "Strength Sphere",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "Strength Sphere",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Strength Sphere",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Strength Sphere",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Strength Sphere",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "Defense Sphere",
+        "add": "Defense Sphere"
+      },
+      {
+        "base": "Defense Sphere",
+        "add": "Magic Sphere"
+      },
+      {
+        "base": "Defense Sphere",
+        "add": "Magic Defense Sphere"
+      },
+      {
+        "base": "Defense Sphere",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "Defense Sphere",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "Defense Sphere",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "Defense Sphere",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Defense Sphere",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Defense Sphere",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Defense Sphere",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "Magic Sphere",
+        "add": "Magic Sphere"
+      },
+      {
+        "base": "Magic Sphere",
+        "add": "Magic Defense Sphere"
+      },
+      {
+        "base": "Magic Sphere",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "Magic Sphere",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "Magic Sphere",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "Magic Sphere",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Magic Sphere",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Magic Sphere",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Magic Sphere",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "Magic Defense Sphere",
+        "add": "Magic Defense Sphere"
+      },
+      {
+        "base": "Magic Defense Sphere",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "Magic Defense Sphere",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "Magic Defense Sphere",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "Magic Defense Sphere",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Magic Defense Sphere",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Magic Defense Sphere",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Magic Defense Sphere",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "Agility Sphere",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "Agility Sphere",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "Agility Sphere",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "Agility Sphere",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Agility Sphere",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Agility Sphere",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Agility Sphere",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "Evasion Sphere",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "Evasion Sphere",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "Evasion Sphere",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Evasion Sphere",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Evasion Sphere",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Evasion Sphere",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "Accuracy Sphere",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "Accuracy Sphere",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Accuracy Sphere",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Accuracy Sphere",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Accuracy Sphere",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "Clear Sphere",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Clear Sphere",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Clear Sphere",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Clear Sphere",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "Return Sphere",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Return Sphere",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Return Sphere",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Return Sphere",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "Friend Sphere",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Friend Sphere",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Friend Sphere",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "Teleport Sphere",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Teleport Sphere",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "Warp Sphere",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "Map",
+        "add": "Pendulum"
+      },
+      {
+        "base": "Map",
+        "add": "Amulet"
+      },
+      {
+        "base": "Map",
+        "add": "Door to Tomorrow"
+      },
+      {
+        "base": "Map",
+        "add": "Wings to Discovery"
+      },
+      {
+        "base": "Map",
+        "add": "Gambler's Spirit"
+      },
+      {
+        "base": "Map",
+        "add": "Underdog's Secret"
+      },
+      {
+        "base": "Map",
+        "add": "Winning Formula"
+      },
+      {
+        "base": "Rename Card",
+        "add": "Pendulum"
+      },
+      {
+        "base": "Rename Card",
+        "add": "Amulet"
+      },
+      {
+        "base": "Rename Card",
+        "add": "Door to Tomorrow"
+      },
+      {
+        "base": "Rename Card",
+        "add": "Wings to Discovery"
+      },
+      {
+        "base": "Rename Card",
+        "add": "Gambler's Spirit"
+      },
+      {
+        "base": "Rename Card",
+        "add": "Underdog's Secret"
+      },
+      {
+        "base": "Rename Card",
+        "add": "Winning Formula"
+      }
+    ]
+  },
+  {
+    "name": "Potato Masher",
+    "description": "all enemies; large damage",
+    "type": "NON-ELEMENTAL",
+    "recipes": [
+      {
+        "base": "Bomb Core",
+        "add": "Lightning Gem"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Water Gem"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Lightning Marble"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Lightning Gem"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Dragon Scale"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Water Gem"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Ice Gem"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Arctic Wind"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Ice Gem"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Arctic Wind"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Ice Gem"
+      },
+      {
+        "base": "Power Sphere",
+        "add": "Level 2 Key Sphere"
+      },
+      {
+        "base": "Power Sphere",
+        "add": "Clear Sphere"
+      },
+      {
+        "base": "Mana Sphere",
+        "add": "Level 2 Key Sphere"
+      },
+      {
+        "base": "Mana Sphere",
+        "add": "Clear Sphere"
+      },
+      {
+        "base": "Speed Sphere",
+        "add": "Clear Sphere"
+      },
+      {
+        "base": "Ability Sphere",
+        "add": "Level 2 Key Sphere"
+      },
+      {
+        "base": "Ability Sphere",
+        "add": "Clear Sphere"
+      },
+      {
+        "base": "Attribute Sphere",
+        "add": "Attribute Sphere"
+      },
+      {
+        "base": "Attribute Sphere",
+        "add": "Special Sphere"
+      },
+      {
+        "base": "Attribute Sphere",
+        "add": "Skill Sphere"
+      },
+      {
+        "base": "Attribute Sphere",
+        "add": "White Magic Sphere"
+      },
+      {
+        "base": "Attribute Sphere",
+        "add": "Black Magic Sphere"
+      },
+      {
+        "base": "Attribute Sphere",
+        "add": "Level 1 Key Sphere"
+      },
+      {
+        "base": "Attribute Sphere",
+        "add": "Clear Sphere"
+      },
+      {
+        "base": "Attribute Sphere",
+        "add": "Map"
+      },
+      {
+        "base": "Attribute Sphere",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Special Sphere",
+        "add": "Special Sphere"
+      },
+      {
+        "base": "Special Sphere",
+        "add": "Skill Sphere"
+      },
+      {
+        "base": "Special Sphere",
+        "add": "White Magic Sphere"
+      },
+      {
+        "base": "Special Sphere",
+        "add": "Black Magic Sphere"
+      },
+      {
+        "base": "Special Sphere",
+        "add": "Level 1 Key Sphere"
+      },
+      {
+        "base": "Special Sphere",
+        "add": "Clear Sphere"
+      },
+      {
+        "base": "Special Sphere",
+        "add": "Map"
+      },
+      {
+        "base": "Special Sphere",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Skill Sphere",
+        "add": "Skill Sphere"
+      },
+      {
+        "base": "Skill Sphere",
+        "add": "White Magic Sphere"
+      },
+      {
+        "base": "Skill Sphere",
+        "add": "Black Magic Sphere"
+      },
+      {
+        "base": "Skill Sphere",
+        "add": "Level 1 Key Sphere"
+      },
+      {
+        "base": "Skill Sphere",
+        "add": "Clear Sphere"
+      },
+      {
+        "base": "Skill Sphere",
+        "add": "Map"
+      },
+      {
+        "base": "Skill Sphere",
+        "add": "Rename Card"
+      },
+      {
+        "base": "White Magic Sphere",
+        "add": "White Magic Sphere"
+      },
+      {
+        "base": "White Magic Sphere",
+        "add": "Black Magic Sphere"
+      },
+      {
+        "base": "White Magic Sphere",
+        "add": "Level 1 Key Sphere"
+      },
+      {
+        "base": "White Magic Sphere",
+        "add": "Clear Sphere"
+      },
+      {
+        "base": "White Magic Sphere",
+        "add": "Map"
+      },
+      {
+        "base": "White Magic Sphere",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Black Magic Sphere",
+        "add": "Black Magic Sphere"
+      },
+      {
+        "base": "Black Magic Sphere",
+        "add": "Level 1 Key Sphere"
+      },
+      {
+        "base": "Black Magic Sphere",
+        "add": "Clear Sphere"
+      },
+      {
+        "base": "Black Magic Sphere",
+        "add": "Map"
+      },
+      {
+        "base": "Black Magic Sphere",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Master Sphere",
+        "add": "Level 1 Key Sphere"
+      },
+      {
+        "base": "Master Sphere",
+        "add": "Clear Sphere"
+      },
+      {
+        "base": "Master Sphere",
+        "add": "Map"
+      },
+      {
+        "base": "Master Sphere",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Level 1 Key Sphere",
+        "add": "Level 1 Key Sphere"
+      },
+      {
+        "base": "Level 1 Key Sphere",
+        "add": "Clear Sphere"
+      },
+      {
+        "base": "Level 1 Key Sphere",
+        "add": "Map"
+      },
+      {
+        "base": "Level 1 Key Sphere",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Level 2 Key Sphere",
+        "add": "Clear Sphere"
+      },
+      {
+        "base": "Level 2 Key Sphere",
+        "add": "Map"
+      },
+      {
+        "base": "Level 2 Key Sphere",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Level 3 Key Sphere",
+        "add": "Clear Sphere"
+      },
+      {
+        "base": "Level 3 Key Sphere",
+        "add": "Map"
+      },
+      {
+        "base": "Level 3 Key Sphere",
+        "add": "Rename Card"
+      },
+      {
+        "base": "HP Sphere",
+        "add": "Clear Sphere"
+      },
+      {
+        "base": "HP Sphere",
+        "add": "Map"
+      },
+      {
+        "base": "HP Sphere",
+        "add": "Rename Card"
+      },
+      {
+        "base": "MP Sphere",
+        "add": "Clear Sphere"
+      },
+      {
+        "base": "MP Sphere",
+        "add": "Map"
+      },
+      {
+        "base": "MP Sphere",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Strength Sphere",
+        "add": "Clear Sphere"
+      },
+      {
+        "base": "Strength Sphere",
+        "add": "Map"
+      },
+      {
+        "base": "Strength Sphere",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Defense Sphere",
+        "add": "Clear Sphere"
+      },
+      {
+        "base": "Defense Sphere",
+        "add": "Map"
+      },
+      {
+        "base": "Defense Sphere",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Magic Sphere",
+        "add": "Clear Sphere"
+      },
+      {
+        "base": "Magic Sphere",
+        "add": "Map"
+      },
+      {
+        "base": "Magic Sphere",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Magic Defense Sphere",
+        "add": "Clear Sphere"
+      },
+      {
+        "base": "Magic Defense Sphere",
+        "add": "Map"
+      },
+      {
+        "base": "Magic Defense Sphere",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Agility Sphere",
+        "add": "Clear Sphere"
+      },
+      {
+        "base": "Agility Sphere",
+        "add": "Map"
+      },
+      {
+        "base": "Agility Sphere",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Evasion Sphere",
+        "add": "Clear Sphere"
+      },
+      {
+        "base": "Evasion Sphere",
+        "add": "Map"
+      },
+      {
+        "base": "Evasion Sphere",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Accuracy Sphere",
+        "add": "Clear Sphere"
+      },
+      {
+        "base": "Accuracy Sphere",
+        "add": "Map"
+      },
+      {
+        "base": "Accuracy Sphere",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Clear Sphere",
+        "add": "Clear Sphere"
+      },
+      {
+        "base": "Clear Sphere",
+        "add": "Map"
+      },
+      {
+        "base": "Clear Sphere",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Return Sphere",
+        "add": "Map"
+      },
+      {
+        "base": "Return Sphere",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Friend Sphere",
+        "add": "Map"
+      },
+      {
+        "base": "Friend Sphere",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Teleport Sphere",
+        "add": "Map"
+      },
+      {
+        "base": "Teleport Sphere",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Warp Sphere",
+        "add": "Map"
+      },
+      {
+        "base": "Warp Sphere",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Map",
+        "add": "Map"
+      },
+      {
+        "base": "Map",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Rename Card",
+        "add": "Rename Card"
+      }
+    ]
+  },
+  {
+    "name": "Tallboy",
+    "description": "all enemies; large damage",
+    "type": "NON-ELEMENTAL",
+    "recipes": [
+      {
+        "base": "Bomb Fragment",
+        "add": "Supreme Gem"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Supreme Gem"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Supreme Gem"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Supreme Gem"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Supreme Gem"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Supreme Gem"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Supreme Gem"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Supreme Gem"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Supreme Gem"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Supreme Gem"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Supreme Gem"
+      },
+      {
+        "base": "Grenade",
+        "add": "Supreme Gem"
+      },
+      {
+        "base": "Grenade",
+        "add": "Amulet"
+      },
+      {
+        "base": "Grenade",
+        "add": "Door to Tomorrow"
+      },
+      {
+        "base": "Grenade",
+        "add": "Wings to Discovery"
+      },
+      {
+        "base": "Grenade",
+        "add": "Gambler's Spirit"
+      },
+      {
+        "base": "Grenade",
+        "add": "Underdog's Secret"
+      },
+      {
+        "base": "Grenade",
+        "add": "Winning Formula"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Supreme Gem"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Three Stars"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Amulet"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Door to Tomorrow"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Wings to Discovery"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Gambler's Spirit"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Underdog's Secret"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Winning Formula"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Supreme Gem"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Amulet"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Door to Tomorrow"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Wings to Discovery"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Gambler's Spirit"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Underdog's Secret"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Winning Formula"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Supreme Gem"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Amulet"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Door to Tomorrow"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Wings to Discovery"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Gambler's Spirit"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Underdog's Secret"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Winning Formula"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Supreme Gem"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Amulet"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Door to Tomorrow"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Wings to Discovery"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Gambler's Spirit"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Underdog's Secret"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Winning Formula"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Supreme Gem"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Amulet"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Door to Tomorrow"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Wings to Discovery"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Gambler's Spirit"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Underdog's Secret"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Winning Formula"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Shining Gem"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Blessed Gem"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Supreme Gem"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "Shining Gem"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "Blessed Gem"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "Attribute Sphere"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "Special Sphere"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "Skill Sphere"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "White Magic Sphere"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "Black Magic Sphere"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "Level 1 Key Sphere"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "Level 2 Key Sphere"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "Level 3 Key Sphere"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "Level 4 Key Sphere"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "HP Sphere"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "MP Sphere"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "Strength Sphere"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "Defense Sphere"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "Magic Sphere"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "Magic Defense Sphere"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "Clear Sphere"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "Musk"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "Blessed Gem"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "Attribute Sphere"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "Special Sphere"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "Skill Sphere"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "White Magic Sphere"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "Black Magic Sphere"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "Level 1 Key Sphere"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "Level 2 Key Sphere"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "Level 3 Key Sphere"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "HP Sphere"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "MP Sphere"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "Strength Sphere"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "Defense Sphere"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "Magic Sphere"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "Magic Defense Sphere"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "Clear Sphere"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "Musk"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Attribute Sphere"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Special Sphere"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Skill Sphere"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "White Magic Sphere"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Black Magic Sphere"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Level 1 Key Sphere"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Level 2 Key Sphere"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "HP Sphere"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "MP Sphere"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Strength Sphere"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Defense Sphere"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Magic Sphere"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Magic Defense Sphere"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Clear Sphere"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Musk"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Attribute Sphere",
+        "add": "Master Sphere"
+      },
+      {
+        "base": "Attribute Sphere",
+        "add": "Level 4 Key Sphere"
+      },
+      {
+        "base": "Attribute Sphere",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "Attribute Sphere",
+        "add": "Pendulum"
+      },
+      {
+        "base": "Attribute Sphere",
+        "add": "Amulet"
+      },
+      {
+        "base": "Attribute Sphere",
+        "add": "Door to Tomorrow"
+      },
+      {
+        "base": "Attribute Sphere",
+        "add": "Wings to Discovery"
+      },
+      {
+        "base": "Attribute Sphere",
+        "add": "Gambler's Spirit"
+      },
+      {
+        "base": "Attribute Sphere",
+        "add": "Underdog's Secret"
+      },
+      {
+        "base": "Attribute Sphere",
+        "add": "Winning Formula"
+      },
+      {
+        "base": "Special Sphere",
+        "add": "Master Sphere"
+      },
+      {
+        "base": "Special Sphere",
+        "add": "Level 4 Key Sphere"
+      },
+      {
+        "base": "Special Sphere",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "Special Sphere",
+        "add": "Pendulum"
+      },
+      {
+        "base": "Special Sphere",
+        "add": "Amulet"
+      },
+      {
+        "base": "Special Sphere",
+        "add": "Door to Tomorrow"
+      },
+      {
+        "base": "Special Sphere",
+        "add": "Wings to Discovery"
+      },
+      {
+        "base": "Special Sphere",
+        "add": "Gambler's Spirit"
+      },
+      {
+        "base": "Special Sphere",
+        "add": "Underdog's Secret"
+      },
+      {
+        "base": "Special Sphere",
+        "add": "Winning Formula"
+      },
+      {
+        "base": "Skill Sphere",
+        "add": "Master Sphere"
+      },
+      {
+        "base": "Skill Sphere",
+        "add": "Level 4 Key Sphere"
+      },
+      {
+        "base": "Skill Sphere",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "Skill Sphere",
+        "add": "Pendulum"
+      },
+      {
+        "base": "Skill Sphere",
+        "add": "Amulet"
+      },
+      {
+        "base": "Skill Sphere",
+        "add": "Door to Tomorrow"
+      },
+      {
+        "base": "Skill Sphere",
+        "add": "Wings to Discovery"
+      },
+      {
+        "base": "Skill Sphere",
+        "add": "Gambler's Spirit"
+      },
+      {
+        "base": "Skill Sphere",
+        "add": "Underdog's Secret"
+      },
+      {
+        "base": "Skill Sphere",
+        "add": "Winning Formula"
+      },
+      {
+        "base": "White Magic Sphere",
+        "add": "Master Sphere"
+      },
+      {
+        "base": "White Magic Sphere",
+        "add": "Level 4 Key Sphere"
+      },
+      {
+        "base": "White Magic Sphere",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "White Magic Sphere",
+        "add": "Pendulum"
+      },
+      {
+        "base": "White Magic Sphere",
+        "add": "Amulet"
+      },
+      {
+        "base": "White Magic Sphere",
+        "add": "Door to Tomorrow"
+      },
+      {
+        "base": "White Magic Sphere",
+        "add": "Wings to Discovery"
+      },
+      {
+        "base": "White Magic Sphere",
+        "add": "Gambler's Spirit"
+      },
+      {
+        "base": "White Magic Sphere",
+        "add": "Underdog's Secret"
+      },
+      {
+        "base": "White Magic Sphere",
+        "add": "Winning Formula"
+      },
+      {
+        "base": "Black Magic Sphere",
+        "add": "Master Sphere"
+      },
+      {
+        "base": "Black Magic Sphere",
+        "add": "Level 4 Key Sphere"
+      },
+      {
+        "base": "Black Magic Sphere",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "Black Magic Sphere",
+        "add": "Pendulum"
+      },
+      {
+        "base": "Black Magic Sphere",
+        "add": "Amulet"
+      },
+      {
+        "base": "Black Magic Sphere",
+        "add": "Door to Tomorrow"
+      },
+      {
+        "base": "Black Magic Sphere",
+        "add": "Wings to Discovery"
+      },
+      {
+        "base": "Black Magic Sphere",
+        "add": "Gambler's Spirit"
+      },
+      {
+        "base": "Black Magic Sphere",
+        "add": "Underdog's Secret"
+      },
+      {
+        "base": "Black Magic Sphere",
+        "add": "Winning Formula"
+      },
+      {
+        "base": "Master Sphere",
+        "add": "Master Sphere"
+      },
+      {
+        "base": "Master Sphere",
+        "add": "Level 4 Key Sphere"
+      },
+      {
+        "base": "Master Sphere",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "Master Sphere",
+        "add": "Pendulum"
+      },
+      {
+        "base": "Level 1 Key Sphere",
+        "add": "Level 4 Key Sphere"
+      },
+      {
+        "base": "Level 1 Key Sphere",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "Level 2 Key Sphere",
+        "add": "Level 4 Key Sphere"
+      },
+      {
+        "base": "Level 2 Key Sphere",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "Level 3 Key Sphere",
+        "add": "Level 4 Key Sphere"
+      },
+      {
+        "base": "Level 3 Key Sphere",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "Level 4 Key Sphere",
+        "add": "Level 4 Key Sphere"
+      },
+      {
+        "base": "Level 4 Key Sphere",
+        "add": "HP Sphere"
+      },
+      {
+        "base": "Level 4 Key Sphere",
+        "add": "MP Sphere"
+      },
+      {
+        "base": "Level 4 Key Sphere",
+        "add": "Strength Sphere"
+      },
+      {
+        "base": "Level 4 Key Sphere",
+        "add": "Defense Sphere"
+      },
+      {
+        "base": "Level 4 Key Sphere",
+        "add": "Magic Sphere"
+      },
+      {
+        "base": "Level 4 Key Sphere",
+        "add": "Magic Defense Sphere"
+      },
+      {
+        "base": "Level 4 Key Sphere",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "Level 4 Key Sphere",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "Level 4 Key Sphere",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "Level 4 Key Sphere",
+        "add": "Clear Sphere"
+      },
+      {
+        "base": "Level 4 Key Sphere",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Level 4 Key Sphere",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Level 4 Key Sphere",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Level 4 Key Sphere",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "Clear Sphere",
+        "add": "Pendulum"
+      },
+      {
+        "base": "Clear Sphere",
+        "add": "Amulet"
+      },
+      {
+        "base": "Clear Sphere",
+        "add": "Door to Tomorrow"
+      },
+      {
+        "base": "Clear Sphere",
+        "add": "Wings to Discovery"
+      },
+      {
+        "base": "Clear Sphere",
+        "add": "Gambler's Spirit"
+      },
+      {
+        "base": "Clear Sphere",
+        "add": "Underdog's Secret"
+      },
+      {
+        "base": "Clear Sphere",
+        "add": "Winning Formula"
+      },
+      {
+        "base": "Return Sphere",
+        "add": "Pendulum"
+      },
+      {
+        "base": "Return Sphere",
+        "add": "Amulet"
+      },
+      {
+        "base": "Return Sphere",
+        "add": "Door to Tomorrow"
+      },
+      {
+        "base": "Return Sphere",
+        "add": "Wings to Discovery"
+      },
+      {
+        "base": "Return Sphere",
+        "add": "Gambler's Spirit"
+      },
+      {
+        "base": "Return Sphere",
+        "add": "Underdog's Secret"
+      },
+      {
+        "base": "Return Sphere",
+        "add": "Winning Formula"
+      },
+      {
+        "base": "Friend Sphere",
+        "add": "Pendulum"
+      },
+      {
+        "base": "Friend Sphere",
+        "add": "Amulet"
+      },
+      {
+        "base": "Friend Sphere",
+        "add": "Door to Tomorrow"
+      },
+      {
+        "base": "Friend Sphere",
+        "add": "Wings to Discovery"
+      },
+      {
+        "base": "Friend Sphere",
+        "add": "Gambler's Spirit"
+      },
+      {
+        "base": "Friend Sphere",
+        "add": "Underdog's Secret"
+      },
+      {
+        "base": "Friend Sphere",
+        "add": "Winning Formula"
+      },
+      {
+        "base": "Teleport Sphere",
+        "add": "Pendulum"
+      },
+      {
+        "base": "Teleport Sphere",
+        "add": "Amulet"
+      },
+      {
+        "base": "Teleport Sphere",
+        "add": "Door to Tomorrow"
+      },
+      {
+        "base": "Teleport Sphere",
+        "add": "Wings to Discovery"
+      },
+      {
+        "base": "Teleport Sphere",
+        "add": "Gambler's Spirit"
+      },
+      {
+        "base": "Teleport Sphere",
+        "add": "Underdog's Secret"
+      },
+      {
+        "base": "Teleport Sphere",
+        "add": "Winning Formula"
+      },
+      {
+        "base": "Warp Sphere",
+        "add": "Pendulum"
+      },
+      {
+        "base": "Warp Sphere",
+        "add": "Amulet"
+      },
+      {
+        "base": "Warp Sphere",
+        "add": "Door to Tomorrow"
+      },
+      {
+        "base": "Warp Sphere",
+        "add": "Wings to Discovery"
+      },
+      {
+        "base": "Warp Sphere",
+        "add": "Gambler's Spirit"
+      },
+      {
+        "base": "Warp Sphere",
+        "add": "Underdog's Secret"
+      },
+      {
+        "base": "Warp Sphere",
+        "add": "Winning Formula"
+      }
+    ]
+  },
+  {
+    "name": "Chaos Grenade",
+    "description": "all enemies; large damage plus status abnormalities",
+    "type": "NON-ELEMENTAL",
+    "recipes": [
+      {
+        "base": "Grenade",
+        "add": "HP Sphere"
+      },
+      {
+        "base": "Grenade",
+        "add": "MP Sphere"
+      },
+      {
+        "base": "Grenade",
+        "add": "Strength Sphere"
+      },
+      {
+        "base": "Grenade",
+        "add": "Defense Sphere"
+      },
+      {
+        "base": "Grenade",
+        "add": "Magic Sphere"
+      },
+      {
+        "base": "Grenade",
+        "add": "Magic Defense Sphere"
+      },
+      {
+        "base": "Grenade",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "Grenade",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "Grenade",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "Grenade",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Grenade",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Grenade",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Grenade",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Master Sphere"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Level 3 Key Sphere"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Level 4 Key Sphere"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "HP Sphere"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "MP Sphere"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Strength Sphere"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Defense Sphere"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Magic Sphere"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Magic Defense Sphere"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Master Sphere"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Level 3 Key Sphere"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Level 4 Key Sphere"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "HP Sphere"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "MP Sphere"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Strength Sphere"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Defense Sphere"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Magic Sphere"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Magic Defense Sphere"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Master Sphere"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Level 3 Key Sphere"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Level 4 Key Sphere"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "HP Sphere"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "MP Sphere"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Strength Sphere"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Defense Sphere"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Magic Sphere"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Magic Defense Sphere"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Master Sphere"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Level 3 Key Sphere"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Level 4 Key Sphere"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "HP Sphere"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "MP Sphere"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Strength Sphere"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Defense Sphere"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Magic Sphere"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Magic Defense Sphere"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Master Sphere"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Level 3 Key Sphere"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Level 4 Key Sphere"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "HP Sphere"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "MP Sphere"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Strength Sphere"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Defense Sphere"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Magic Sphere"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Magic Defense Sphere"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "Farplane Shadow"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "Farplane Wind"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "Farplane Shadow"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "Farplane Wind"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Poison Fang"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Silver Hourglass"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Gold Hourglass"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Candle of Life"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Petrify Grenade"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Farplane Shadow"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Farplane Wind"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Chocobo Feather"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Chocobo Wing"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Lunar Curtain"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Light Curtain"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Star Curtain"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Healing Spring"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Mana Spring"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Stamina Spring"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Soul Spring"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Purifying Salt"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Master Sphere"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Level 3 Key Sphere"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Level 4 Key Sphere"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "HP Sphere"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "MP Sphere"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Strength Sphere"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Defense Sphere"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Magic Sphere"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Magic Defense Sphere"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Pendulum"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Amulet"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Door to Tomorrow"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Wings to Discovery"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Gambler's Spirit"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Underdog's Secret"
+      },
+      {
+        "base": "Poison Fang",
+        "add": "Winning Formula"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Master Sphere"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Level 3 Key Sphere"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Level 4 Key Sphere"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "HP Sphere"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "MP Sphere"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Strength Sphere"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Defense Sphere"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Magic Sphere"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Magic Defense Sphere"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Pendulum"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Amulet"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Door to Tomorrow"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Wings to Discovery"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Gambler's Spirit"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Underdog's Secret"
+      },
+      {
+        "base": "Silver Hourglass",
+        "add": "Winning Formula"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Master Sphere"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Level 3 Key Sphere"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Level 4 Key Sphere"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "HP Sphere"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "MP Sphere"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Strength Sphere"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Defense Sphere"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Magic Sphere"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Magic Defense Sphere"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Pendulum"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Amulet"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Door to Tomorrow"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Wings to Discovery"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Gambler's Spirit"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Underdog's Secret"
+      },
+      {
+        "base": "Gold Hourglass",
+        "add": "Winning Formula"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Master Sphere"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Level 3 Key Sphere"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Level 4 Key Sphere"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "HP Sphere"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "MP Sphere"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Strength Sphere"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Defense Sphere"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Magic Sphere"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Magic Defense Sphere"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Pendulum"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Amulet"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Door to Tomorrow"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Wings to Discovery"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Gambler's Spirit"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Underdog's Secret"
+      },
+      {
+        "base": "Candle of Life",
+        "add": "Winning Formula"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Master Sphere"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Level 3 Key Sphere"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Level 4 Key Sphere"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "HP Sphere"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "MP Sphere"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Strength Sphere"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Defense Sphere"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Magic Sphere"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Magic Defense Sphere"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Pendulum"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Amulet"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Door to Tomorrow"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Wings to Discovery"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Gambler's Spirit"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Underdog's Secret"
+      },
+      {
+        "base": "Petrify Grenade",
+        "add": "Winning Formula"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "Attribute Sphere"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "Special Sphere"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "Skill Sphere"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "White Magic Sphere"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "Black Magic Sphere"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "Master Sphere"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "Level 1 Key Sphere"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "Level 2 Key Sphere"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "Level 3 Key Sphere"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "Level 4 Key Sphere"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "HP Sphere"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "MP Sphere"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "Strength Sphere"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "Defense Sphere"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "Magic Sphere"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "Magic Defense Sphere"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "Clear Sphere"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "Pendulum"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "Amulet"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "Door to Tomorrow"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "Wings to Discovery"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "Gambler's Spirit"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "Underdog's Secret"
+      },
+      {
+        "base": "Farplane Shadow",
+        "add": "Winning Formula"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "Farplane Wind"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "Attribute Sphere"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "Special Sphere"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "Skill Sphere"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "White Magic Sphere"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "Black Magic Sphere"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "Master Sphere"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "Level 1 Key Sphere"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "Level 2 Key Sphere"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "Level 3 Key Sphere"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "Level 4 Key Sphere"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "HP Sphere"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "MP Sphere"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "Strength Sphere"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "Defense Sphere"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "Magic Sphere"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "Magic Defense Sphere"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "Clear Sphere"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "Pendulum"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "Amulet"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "Door to Tomorrow"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "Wings to Discovery"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "Gambler's Spirit"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "Underdog's Secret"
+      },
+      {
+        "base": "Farplane Wind",
+        "add": "Winning Formula"
+      },
+      {
+        "base": "Master Sphere",
+        "add": "Musk"
+      },
+      {
+        "base": "Master Sphere",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Master Sphere",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Level 3 Key Sphere",
+        "add": "Musk"
+      },
+      {
+        "base": "Level 3 Key Sphere",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Level 3 Key Sphere",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Level 4 Key Sphere",
+        "add": "Musk"
+      },
+      {
+        "base": "Level 4 Key Sphere",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Level 4 Key Sphere",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "HP Sphere",
+        "add": "Musk"
+      },
+      {
+        "base": "HP Sphere",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "HP Sphere",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "MP Sphere",
+        "add": "Musk"
+      },
+      {
+        "base": "MP Sphere",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Strength Sphere",
+        "add": "Musk"
+      },
+      {
+        "base": "Strength Sphere",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Strength Sphere",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Defense Sphere",
+        "add": "Musk"
+      },
+      {
+        "base": "Defense Sphere",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Defense Sphere",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Magic Sphere",
+        "add": "Musk"
+      },
+      {
+        "base": "Magic Sphere",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Magic Sphere",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Magic Defense Sphere",
+        "add": "Musk"
+      },
+      {
+        "base": "Magic Defense Sphere",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Magic Defense Sphere",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Agility Sphere",
+        "add": "Musk"
+      },
+      {
+        "base": "Agility Sphere",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Agility Sphere",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Evasion Sphere",
+        "add": "Musk"
+      },
+      {
+        "base": "Evasion Sphere",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Evasion Sphere",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Accuracy Sphere",
+        "add": "Musk"
+      },
+      {
+        "base": "Accuracy Sphere",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Accuracy Sphere",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Return Sphere",
+        "add": "Musk"
+      },
+      {
+        "base": "Return Sphere",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Return Sphere",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Friend Sphere",
+        "add": "Musk"
+      },
+      {
+        "base": "Friend Sphere",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Friend Sphere",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Teleport Sphere",
+        "add": "Musk"
+      },
+      {
+        "base": "Teleport Sphere",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Teleport Sphere",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Warp Sphere",
+        "add": "Musk"
+      },
+      {
+        "base": "Warp Sphere",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Warp Sphere",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Musk",
+        "add": "Pendulum"
+      },
+      {
+        "base": "Musk",
+        "add": "Amulet"
+      },
+      {
+        "base": "Musk",
+        "add": "Door to Tomorrow"
+      },
+      {
+        "base": "Musk",
+        "add": "Wings to Discovery"
+      },
+      {
+        "base": "Musk",
+        "add": "Gambler's Spirit"
+      },
+      {
+        "base": "Musk",
+        "add": "Underdog's Secret"
+      },
+      {
+        "base": "Musk",
+        "add": "Winning Formula"
+      },
+      {
+        "base": "Hypello Potion",
+        "add": "Pendulum"
+      },
+      {
+        "base": "Hypello Potion",
+        "add": "Amulet"
+      },
+      {
+        "base": "Hypello Potion",
+        "add": "Door to Tomorrow"
+      },
+      {
+        "base": "Hypello Potion",
+        "add": "Wings to Discovery"
+      },
+      {
+        "base": "Hypello Potion",
+        "add": "Gambler's Spirit"
+      },
+      {
+        "base": "Hypello Potion",
+        "add": "Underdog's Secret"
+      },
+      {
+        "base": "Hypello Potion",
+        "add": "Winning Formula"
+      },
+      {
+        "base": "Shining Thorn",
+        "add": "Pendulum"
+      },
+      {
+        "base": "Shining Thorn",
+        "add": "Amulet"
+      },
+      {
+        "base": "Shining Thorn",
+        "add": "Door to Tomorrow"
+      },
+      {
+        "base": "Shining Thorn",
+        "add": "Wings to Discovery"
+      },
+      {
+        "base": "Shining Thorn",
+        "add": "Gambler's Spirit"
+      },
+      {
+        "base": "Shining Thorn",
+        "add": "Underdog's Secret"
+      },
+      {
+        "base": "Shining Thorn",
+        "add": "Winning Formula"
+      },
+      {
+        "base": "Pendulum",
+        "add": "Pendulum"
+      },
+      {
+        "base": "Pendulum",
+        "add": "Amulet"
+      }
+    ]
+  },
+  {
+    "name": "Nega Burst",
+    "description": "all enemies; HP reduced to 1/4th",
+    "type": "NON-ELEMENTAL",
+    "recipes": [
+      {
+        "base": "Power Distiller",
+        "add": "Shadow Gem"
+      },
+      {
+        "base": "Mana Distiller",
+        "add": "Shadow Gem"
+      },
+      {
+        "base": "Agility Distiller",
+        "add": "Shadow Gem"
+      },
+      {
+        "base": "Ability Distiller",
+        "add": "Shadow Gem"
+      },
+      {
+        "base": "Al Bhed Potion",
+        "add": "Shadow Gem"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Shadow Gem"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Shadow Gem"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Shadow Gem"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Shadow Gem"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Shadow Gem"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Shadow Gem"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Shadow Gem"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Shadow Gem"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Shadow Gem"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Shadow Gem"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Shadow Gem"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Shadow Gem"
+      },
+      {
+        "base": "Grenade",
+        "add": "Shadow Gem"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Shadow Gem"
+      },
+      {
+        "base": "Sleeping Powder",
+        "add": "Shadow Gem"
+      },
+      {
+        "base": "Dream Powder",
+        "add": "Shadow Gem"
+      },
+      {
+        "base": "Silence Grenade",
+        "add": "Shadow Gem"
+      },
+      {
+        "base": "Smoke Bomb",
+        "add": "Shadow Gem"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Shadow Gem"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Poison Fang"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Silver Hourglass"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Gold Hourglass"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Candle of Life"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Petrify Grenade"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Farplane Shadow"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Farplane Wind"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Chocobo Feather"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Chocobo Wing"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Healing Spring"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Mana Spring"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Stamina Spring"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Soul Spring"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Purifying Salt"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Power Sphere"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Mana Sphere"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Speed Sphere"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Ability Sphere"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Attribute Sphere"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Special Sphere"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Skill Sphere"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "White Magic Sphere"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Black Magic Sphere"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Level 1 Key Sphere"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Level 2 Key Sphere"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Level 3 Key Sphere"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Level 4 Key Sphere"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "HP Sphere"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "MP Sphere"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Strength Sphere"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Defense Sphere"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Magic Sphere"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Magic Defense Sphere"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Clear Sphere"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Map"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Musk"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Shining Thorn"
+      }
+    ]
+  },
+  {
+    "name": "Black Hole",
+    "description": "all enemies; HP reduced to 1/16th",
+    "type": "NON-ELEMENTAL",
+    "recipes": [
+      {
+        "base": "Shadow Gem",
+        "add": "Master Sphere"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Pendulum"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Amulet"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Door to Tomorrow"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Wings to Discovery"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Gambler's Spirit"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Underdog's Secret"
+      },
+      {
+        "base": "Shadow Gem",
+        "add": "Winning Formula"
+      }
+    ]
+  },
+  {
+    "name": "Supernova",
+    "description": "all enemies; 19998 damage",
+    "type": "NON-ELEMENTAL",
+    "recipes": [
+      {
+        "base": "Fire Gem",
+        "add": "Dark Matter"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Dark Matter"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Dark Matter"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Dark Matter"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "Supreme Gem"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "Dark Matter"
+      },
+      {
+        "base": "Shining Gem",
+        "add": "Three Stars"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "Supreme Gem"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "Dark Matter"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "Mana Tablet"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "Mana Tonic"
+      },
+      {
+        "base": "Blessed Gem",
+        "add": "Three Stars"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Supreme Gem"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Dark Matter"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Mana Tablet"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Mana Tonic"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Three Stars"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Amulet"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Door to Tomorrow"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Wings to Discovery"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Gambler's Spirit"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Underdog's Secret"
+      },
+      {
+        "base": "Supreme Gem",
+        "add": "Winning Formula"
+      },
+      {
+        "base": "Dark Matter",
+        "add": "Dark Matter"
+      },
+      {
+        "base": "Dark Matter",
+        "add": "Fortune Sphere"
+      },
+      {
+        "base": "Dark Matter",
+        "add": "Attribute Sphere"
+      },
+      {
+        "base": "Dark Matter",
+        "add": "Special Sphere"
+      },
+      {
+        "base": "Dark Matter",
+        "add": "Skill Sphere"
+      },
+      {
+        "base": "Dark Matter",
+        "add": "White Magic Sphere"
+      },
+      {
+        "base": "Dark Matter",
+        "add": "Black Magic Sphere"
+      },
+      {
+        "base": "Dark Matter",
+        "add": "Master Sphere"
+      },
+      {
+        "base": "Dark Matter",
+        "add": "Level 1 Key Sphere"
+      },
+      {
+        "base": "Dark Matter",
+        "add": "Level 2 Key Sphere"
+      },
+      {
+        "base": "Dark Matter",
+        "add": "Level 3 Key Sphere"
+      },
+      {
+        "base": "Dark Matter",
+        "add": "Level 4 Key Sphere"
+      },
+      {
+        "base": "Dark Matter",
+        "add": "HP Sphere"
+      },
+      {
+        "base": "Dark Matter",
+        "add": "MP Sphere"
+      },
+      {
+        "base": "Dark Matter",
+        "add": "Strength Sphere"
+      },
+      {
+        "base": "Dark Matter",
+        "add": "Defense Sphere"
+      },
+      {
+        "base": "Dark Matter",
+        "add": "Magic Sphere"
+      },
+      {
+        "base": "Dark Matter",
+        "add": "Magic Defense Sphere"
+      },
+      {
+        "base": "Dark Matter",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "Dark Matter",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "Dark Matter",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "Dark Matter",
+        "add": "Luck Sphere"
+      },
+      {
+        "base": "Dark Matter",
+        "add": "Clear Sphere"
+      },
+      {
+        "base": "Dark Matter",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Dark Matter",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Dark Matter",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Dark Matter",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "Dark Matter",
+        "add": "Amulet"
+      },
+      {
+        "base": "Dark Matter",
+        "add": "Designer Wallet"
+      },
+      {
+        "base": "Dark Matter",
+        "add": "Door to Tomorrow"
+      },
+      {
+        "base": "Dark Matter",
+        "add": "Wings to Discovery"
+      },
+      {
+        "base": "Dark Matter",
+        "add": "Gambler's Spirit"
+      },
+      {
+        "base": "Dark Matter",
+        "add": "Underdog's Secret"
+      },
+      {
+        "base": "Dark Matter",
+        "add": "Winning Formula"
+      },
+      {
+        "base": "Three Stars",
+        "add": "Three Stars"
+      },
+      {
+        "base": "Master Sphere",
+        "add": "Amulet"
+      },
+      {
+        "base": "Master Sphere",
+        "add": "Door to Tomorrow"
+      },
+      {
+        "base": "Master Sphere",
+        "add": "Wings to Discovery"
+      },
+      {
+        "base": "Master Sphere",
+        "add": "Gambler's Spirit"
+      },
+      {
+        "base": "Master Sphere",
+        "add": "Underdog's Secret"
+      },
+      {
+        "base": "Master Sphere",
+        "add": "Winning Formula"
+      },
+      {
+        "base": "Wings to Discovery",
+        "add": "Gambler's Spirit"
+      },
+      {
+        "base": "Wings to Discovery",
+        "add": "Underdog's Secret"
+      },
+      {
+        "base": "Wings to Discovery",
+        "add": "Winning Formula"
+      },
+      {
+        "base": "Gambler's Spirit",
+        "add": "Underdog's Secret"
+      },
+      {
+        "base": "Gambler's Spirit",
+        "add": "Winning Formula"
+      },
+      {
+        "base": "Underdog's Secret",
+        "add": "Underdog's Secret"
+      },
+      {
+        "base": "Underdog's Secret",
+        "add": "Winning Formula"
+      },
+      {
+        "base": "Winning Formula",
+        "add": "Winning Formula"
+      }
+    ]
+  }
+]

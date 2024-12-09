@@ -1,0 +1,901 @@
+[
+  {
+    "name": "Thunderbolt",
+    "description": "all enemies; small damage in five bursts",
+    "type": "THUNDER",
+    "recipes": [
+      {
+        "base": "Antidote",
+        "add": "Electro Marble"
+      },
+      {
+        "base": "Antidote",
+        "add": "Lightning Marble"
+      },
+      {
+        "base": "Soft",
+        "add": "Electro Marble"
+      },
+      {
+        "base": "Soft",
+        "add": "Lightning Marble"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Electro Marble"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Lightning Marble"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Electro Marble"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Lightning Marble"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Electro Marble"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Lightning Marble"
+      },
+      {
+        "base": "Remedy",
+        "add": "Electro Marble"
+      },
+      {
+        "base": "Power Distiller",
+        "add": "Electro Marble"
+      },
+      {
+        "base": "Power Distiller",
+        "add": "Lightning Marble"
+      },
+      {
+        "base": "Mana Distiller",
+        "add": "Electro Marble"
+      },
+      {
+        "base": "Mana Distiller",
+        "add": "Lightning Marble"
+      },
+      {
+        "base": "Agility Distiller",
+        "add": "Electro Marble"
+      },
+      {
+        "base": "Agility Distiller",
+        "add": "Lightning Marble"
+      },
+      {
+        "base": "Ability Distiller",
+        "add": "Electro Marble"
+      },
+      {
+        "base": "Ability Distiller",
+        "add": "Lightning Marble"
+      },
+      {
+        "base": "Al Bhed Potion",
+        "add": "Electro Marble"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Grenade"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Frag Grenade"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Three Stars"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Power Sphere"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Mana Sphere"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Speed Sphere"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Ability Sphere"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Attribute Sphere"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Special Sphere"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Skill Sphere"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "White Magic Sphere"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Black Magic Sphere"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Level 1 Key Sphere"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Map"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Fish Scale"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Grenade"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Power Sphere"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Mana Sphere"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Speed Sphere"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Ability Sphere"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Attribute Sphere"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Map"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Fish Scale"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Dragon Scale"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Map"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Rename Card"
+      }
+    ]
+  },
+  {
+    "name": "Rolling Thunder",
+    "description": "all enemies; small damage in six bursts",
+    "type": "THUNDER",
+    "recipes": [
+      {
+        "base": "Antidote",
+        "add": "Lightning Gem"
+      },
+      {
+        "base": "Soft",
+        "add": "Lightning Gem"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Lightning Gem"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Lightning Gem"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Lightning Gem"
+      },
+      {
+        "base": "Remedy",
+        "add": "Lightning Marble"
+      },
+      {
+        "base": "Remedy",
+        "add": "Lightning Gem"
+      },
+      {
+        "base": "Power Distiller",
+        "add": "Lightning Gem"
+      },
+      {
+        "base": "Mana Distiller",
+        "add": "Lightning Gem"
+      },
+      {
+        "base": "Agility Distiller",
+        "add": "Lightning Gem"
+      },
+      {
+        "base": "Ability Distiller",
+        "add": "Lightning Gem"
+      },
+      {
+        "base": "Al Bhed Potion",
+        "add": "Lightning Marble"
+      },
+      {
+        "base": "Al Bhed Potion",
+        "add": "Lightning Gem"
+      },
+      {
+        "base": "Healing Water",
+        "add": "Electro Marble"
+      },
+      {
+        "base": "Healing Water",
+        "add": "Lightning Marble"
+      },
+      {
+        "base": "Healing Water",
+        "add": "Lightning Gem"
+      },
+      {
+        "base": "Tetra Elemental",
+        "add": "Electro Marble"
+      },
+      {
+        "base": "Tetra Elemental",
+        "add": "Lightning Marble"
+      },
+      {
+        "base": "Tetra Elemental",
+        "add": "Lightning Gem"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Electro Marble"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Lightning Marble"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Lightning Gem"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Level 2 Key Sphere"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Clear Sphere"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Lightning Marble"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Lightning Gem"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Frag Grenade"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Three Stars"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Special Sphere"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Skill Sphere"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "White Magic Sphere"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Black Magic Sphere"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Level 1 Key Sphere"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Clear Sphere"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Lightning Gem"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Grenade"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Frag Grenade"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Power Sphere"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Mana Sphere"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Speed Sphere"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Ability Sphere"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Attribute Sphere"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Clear Sphere"
+      }
+    ]
+  },
+  {
+    "name": "Lightning Bolt",
+    "description": "all enemies; small damage in nine bursts",
+    "type": "THUNDER",
+    "recipes": [
+      {
+        "base": "Electro Marble",
+        "add": "Master Sphere"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Level 3 Key Sphere"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Level 4 Key Sphere"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "HP Sphere"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "MP Sphere"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Strength Sphere"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Defense Sphere"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Magic Sphere"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Magic Defense Sphere"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Pendulum"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Amulet"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Door to Tomorrow"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Wings to Discovery"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Gambler's Spirit"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Underdog's Secret"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Winning Formula"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Master Sphere"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Level 2 Key Sphere"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Level 3 Key Sphere"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Level 4 Key Sphere"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "HP Sphere"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "MP Sphere"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Strength Sphere"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Defense Sphere"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Magic Sphere"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Magic Defense Sphere"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Special Sphere"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Skill Sphere"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "White Magic Sphere"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Black Magic Sphere"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Master Sphere"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Level 1 Key Sphere"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Level 2 Key Sphere"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Level 3 Key Sphere"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Level 4 Key Sphere"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "HP Sphere"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "MP Sphere"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Strength Sphere"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Defense Sphere"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Magic Sphere"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Magic Defense Sphere"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Warp Sphere"
+      }
+    ]
+  },
+  {
+    "name": "Electroshock",
+    "description": "all enemies; large damage in three bursts plus status abnormalities",
+    "type": "THUNDER",
+    "recipes": [
+      {
+        "base": "Electro Marble",
+        "add": "Sleeping Powder"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Dream Powder"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Silence Grenade"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Smoke Bomb"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Poison Fang"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Silver Hourglass"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Gold Hourglass"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Candle of Life"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Petrify Grenade"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Farplane Shadow"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Farplane Wind"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Chocobo Feather"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Chocobo Wing"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Healing Spring"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Mana Spring"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Stamina Spring"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Soul Spring"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Purifying Salt"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Musk"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Sleeping Powder"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Silence Grenade"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Smoke Bomb"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Poison Fang"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Silver Hourglass"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Gold Hourglass"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Candle of Life"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Petrify Grenade"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Chocobo Feather"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Chocobo Wing"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Healing Spring"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Mana Spring"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Stamina Spring"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Soul Spring"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Purifying Salt"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Musk"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Shining Thorn"
+      }
+    ]
+  },
+  {
+    "name": "Thunderblast",
+    "description": "all enemies; large damage in three bursts plus status abnormalities",
+    "type": "THUNDER",
+    "recipes": [
+      {
+        "base": "Lightning Marble",
+        "add": "Dream Powder"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Farplane Shadow"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Farplane Wind"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Sleeping Powder"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Dream Powder"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Silence Grenade"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Smoke Bomb"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Poison Fang"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Silver Hourglass"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Gold Hourglass"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Candle of Life"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Petrify Grenade"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Farplane Shadow"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Farplane Wind"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Chocobo Feather"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Chocobo Wing"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Healing Spring"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Mana Spring"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Stamina Spring"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Soul Spring"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Purifying Salt"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Musk"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Lightning Gem",
+        "add": "Shining Thorn"
+      }
+    ]
+  }
+]

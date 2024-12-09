@@ -1,0 +1,901 @@
+[
+  {
+    "name": "Snow Flurry",
+    "description": "all enemies; small damage in five bursts",
+    "type": "ICE",
+    "recipes": [
+      {
+        "base": "Antidote",
+        "add": "Antarctic Wind"
+      },
+      {
+        "base": "Antidote",
+        "add": "Arctic Wind"
+      },
+      {
+        "base": "Soft",
+        "add": "Antarctic Wind"
+      },
+      {
+        "base": "Soft",
+        "add": "Arctic Wind"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Antarctic Wind"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Arctic Wind"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Antarctic Wind"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Arctic Wind"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Antarctic Wind"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Arctic Wind"
+      },
+      {
+        "base": "Remedy",
+        "add": "Antarctic Wind"
+      },
+      {
+        "base": "Power Distiller",
+        "add": "Antarctic Wind"
+      },
+      {
+        "base": "Power Distiller",
+        "add": "Arctic Wind"
+      },
+      {
+        "base": "Mana Distiller",
+        "add": "Antarctic Wind"
+      },
+      {
+        "base": "Mana Distiller",
+        "add": "Arctic Wind"
+      },
+      {
+        "base": "Agility Distiller",
+        "add": "Antarctic Wind"
+      },
+      {
+        "base": "Agility Distiller",
+        "add": "Arctic Wind"
+      },
+      {
+        "base": "Ability Distiller",
+        "add": "Antarctic Wind"
+      },
+      {
+        "base": "Ability Distiller",
+        "add": "Arctic Wind"
+      },
+      {
+        "base": "Al Bhed Potion",
+        "add": "Antarctic Wind"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Arctic Wind"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Ice Gem"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Ice Gem"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Grenade"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Frag Grenade"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Three Stars"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Power Sphere"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Mana Sphere"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Speed Sphere"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Ability Sphere"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Attribute Sphere"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Special Sphere"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Skill Sphere"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "White Magic Sphere"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Black Magic Sphere"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Level 1 Key Sphere"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Map"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Grenade"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Power Sphere"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Mana Sphere"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Speed Sphere"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Ability Sphere"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Attribute Sphere"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Map"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Map"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Rename Card"
+      }
+    ]
+  },
+  {
+    "name": "Icefall",
+    "description": "all enemies; small damage in six bursts",
+    "type": "ICE",
+    "recipes": [
+      {
+        "base": "Antidote",
+        "add": "Ice Gem"
+      },
+      {
+        "base": "Soft",
+        "add": "Ice Gem"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Ice Gem"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Ice Gem"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Ice Gem"
+      },
+      {
+        "base": "Remedy",
+        "add": "Arctic Wind"
+      },
+      {
+        "base": "Remedy",
+        "add": "Ice Gem"
+      },
+      {
+        "base": "Power Distiller",
+        "add": "Ice Gem"
+      },
+      {
+        "base": "Mana Distiller",
+        "add": "Ice Gem"
+      },
+      {
+        "base": "Agility Distiller",
+        "add": "Ice Gem"
+      },
+      {
+        "base": "Ability Distiller",
+        "add": "Ice Gem"
+      },
+      {
+        "base": "Al Bhed Potion",
+        "add": "Arctic Wind"
+      },
+      {
+        "base": "Al Bhed Potion",
+        "add": "Ice Gem"
+      },
+      {
+        "base": "Healing Water",
+        "add": "Antarctic Wind"
+      },
+      {
+        "base": "Healing Water",
+        "add": "Arctic Wind"
+      },
+      {
+        "base": "Healing Water",
+        "add": "Ice Gem"
+      },
+      {
+        "base": "Tetra Elemental",
+        "add": "Antarctic Wind"
+      },
+      {
+        "base": "Tetra Elemental",
+        "add": "Arctic Wind"
+      },
+      {
+        "base": "Tetra Elemental",
+        "add": "Ice Gem"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Antarctic Wind"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Arctic Wind"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Ice Gem"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Level 2 Key Sphere"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Clear Sphere"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Arctic Wind"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Ice Gem"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Frag Grenade"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Three Stars"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Special Sphere"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Skill Sphere"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "White Magic Sphere"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Black Magic Sphere"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Level 1 Key Sphere"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Clear Sphere"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Ice Gem"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Grenade"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Frag Grenade"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Power Sphere"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Mana Sphere"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Speed Sphere"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Ability Sphere"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Attribute Sphere"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Clear Sphere"
+      }
+    ]
+  },
+  {
+    "name": "Winter Storm",
+    "description": "all enemies; small damage in nine bursts",
+    "type": "ICE",
+    "recipes": [
+      {
+        "base": "Antarctic Wind",
+        "add": "Master Sphere"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Level 3 Key Sphere"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Level 4 Key Sphere"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "HP Sphere"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "MP Sphere"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Strength Sphere"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Defense Sphere"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Magic Sphere"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Magic Defense Sphere"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Pendulum"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Amulet"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Door to Tomorrow"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Wings to Discovery"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Gambler's Spirit"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Underdog's Secret"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Winning Formula"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Master Sphere"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Level 2 Key Sphere"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Level 3 Key Sphere"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Level 4 Key Sphere"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "HP Sphere"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "MP Sphere"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Strength Sphere"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Defense Sphere"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Magic Sphere"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Magic Defense Sphere"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Special Sphere"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Skill Sphere"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "White Magic Sphere"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Black Magic Sphere"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Master Sphere"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Level 1 Key Sphere"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Level 2 Key Sphere"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Level 3 Key Sphere"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Level 4 Key Sphere"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "HP Sphere"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "MP Sphere"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Strength Sphere"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Defense Sphere"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Magic Sphere"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Magic Defense Sphere"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Warp Sphere"
+      }
+    ]
+  },
+  {
+    "name": "Black Ice",
+    "description": "all enemies; large damage in three bursts plus status abnormalities",
+    "type": "ICE",
+    "recipes": [
+      {
+        "base": "Antarctic Wind",
+        "add": "Sleeping Powder"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Dream Powder"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Silence Grenade"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Smoke Bomb"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Poison Fang"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Silver Hourglass"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Gold Hourglass"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Candle of Life"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Petrify Grenade"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Farplane Shadow"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Farplane Wind"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Chocobo Feather"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Chocobo Wing"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Healing Spring"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Mana Spring"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Stamina Spring"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Soul Spring"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Purifying Salt"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Musk"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Antarctic Wind",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Sleeping Powder"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Silence Grenade"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Smoke Bomb"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Poison Fang"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Silver Hourglass"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Gold Hourglass"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Candle of Life"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Petrify Grenade"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Chocobo Feather"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Chocobo Wing"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Healing Spring"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Mana Spring"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Stamina Spring"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Soul Spring"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Purifying Salt"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Musk"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Shining Thorn"
+      }
+    ]
+  },
+  {
+    "name": "Krysta",
+    "description": "all enemies; large damage in three bursts plus status abnormalities",
+    "type": "ICE",
+    "recipes": [
+      {
+        "base": "Arctic Wind",
+        "add": "Dream Powder"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Farplane Shadow"
+      },
+      {
+        "base": "Arctic Wind",
+        "add": "Farplane Wind"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Sleeping Powder"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Dream Powder"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Silence Grenade"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Smoke Bomb"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Poison Fang"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Silver Hourglass"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Gold Hourglass"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Candle of Life"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Petrify Grenade"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Farplane Shadow"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Farplane Wind"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Chocobo Feather"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Chocobo Wing"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Healing Spring"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Mana Spring"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Stamina Spring"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Soul Spring"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Purifying Salt"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Musk"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Ice Gem",
+        "add": "Shining Thorn"
+      }
+    ]
+  }
+]

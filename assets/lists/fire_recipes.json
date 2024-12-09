@@ -1,0 +1,898 @@
+[
+  {
+    "name": "Heat Blaster",
+    "description": "all enemies; small damage in five bursts",
+    "type": "FIRE",
+    "recipes": [
+      { "base": "Antidote", "add": "Bomb Fragment" },
+      {
+        "base": "Antidote",
+        "add": "Bomb Core"
+      },
+      {
+        "base": "Soft",
+        "add": "Bomb Fragment"
+      },
+      {
+        "base": "Soft",
+        "add": "Bomb Core"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Bomb Fragment"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Bomb Core"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Bomb Fragment"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Bomb Core"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Bomb Fragment"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Bomb Core"
+      },
+      {
+        "base": "Remedy",
+        "add": "Bomb Fragment"
+      },
+      {
+        "base": "Power Distiller",
+        "add": "Bomb Fragment"
+      },
+      {
+        "base": "Power Distiller",
+        "add": "Bomb Core"
+      },
+      {
+        "base": "Mana Distiller",
+        "add": "Bomb Fragment"
+      },
+      {
+        "base": "Mana Distiller",
+        "add": "Bomb Core"
+      },
+      {
+        "base": "Agility Distiller",
+        "add": "Bomb Fragment"
+      },
+      {
+        "base": "Agility Distiller",
+        "add": "Bomb Core"
+      },
+      {
+        "base": "Ability Distiller",
+        "add": "Bomb Fragment"
+      },
+      {
+        "base": "Ability Distiller",
+        "add": "Bomb Core"
+      },
+      {
+        "base": "Al Bhed Potion",
+        "add": "Bomb Fragment"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Grenade"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Frag Grenade"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Three Stars"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Power Sphere"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Mana Sphere"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Speed Sphere"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Ability Sphere"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Attribute Sphere"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Special Sphere"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Skill Sphere"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "White Magic Sphere"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Black Magic Sphere"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Level 1 Key Sphere"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Map"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Antarctic Wind"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Grenade"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Power Sphere"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Mana Sphere"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Speed Sphere"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Ability Sphere"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Attribute Sphere"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Map"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Antarctic Wind"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Arctic Wind"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Map"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Rename Card"
+      }
+    ]
+  },
+  {
+    "name": "Fire Storm",
+    "description": "all enemies; small damage in six bursts",
+    "type": "FIRE",
+    "recipes": [
+      {
+        "base": "Antidote",
+        "add": "Fire Gem"
+      },
+      {
+        "base": "Soft",
+        "add": "Fire Gem"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Fire Gem"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Fire Gem"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Fire Gem"
+      },
+      {
+        "base": "Remedy",
+        "add": "Bomb Core"
+      },
+      {
+        "base": "Remedy",
+        "add": "Fire Gem"
+      },
+      {
+        "base": "Power Distiller",
+        "add": "Fire Gem"
+      },
+      {
+        "base": "Mana Distiller",
+        "add": "Fire Gem"
+      },
+      {
+        "base": "Agility Distiller",
+        "add": "Fire Gem"
+      },
+      {
+        "base": "Ability Distiller",
+        "add": "Fire Gem"
+      },
+      {
+        "base": "Al Bhed Potion",
+        "add": "Bomb Core"
+      },
+      {
+        "base": "Al Bhed Potion",
+        "add": "Fire Gem"
+      },
+      {
+        "base": "Healing Water",
+        "add": "Bomb Fragment"
+      },
+      {
+        "base": "Healing Water",
+        "add": "Bomb Core"
+      },
+      {
+        "base": "Healing Water",
+        "add": "Fire Gem"
+      },
+      {
+        "base": "Tetra Elemental",
+        "add": "Bomb Fragment"
+      },
+      {
+        "base": "Tetra Elemental",
+        "add": "Bomb Core"
+      },
+      {
+        "base": "Tetra Elemental",
+        "add": "Fire Gem"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Bomb Fragment"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Bomb Core"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Fire Gem"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Level 2 Key Sphere"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Clear Sphere"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Bomb Core"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Fire Gem"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Frag Grenade"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Three Stars"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Special Sphere"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Skill Sphere"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "White Magic Sphere"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Black Magic Sphere"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Level 1 Key Sphere"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Clear Sphere"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Fire Gem"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Grenade"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Frag Grenade"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Power Sphere"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Mana Sphere"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Speed Sphere"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Ability Sphere"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Attribute Sphere"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Clear Sphere"
+      }
+    ]
+  },
+  {
+    "name": "Burning Soul",
+    "description": "all enemies; small damage in nine bursts",
+    "type": "FIRE",
+    "recipes": [
+      {
+        "base": "Bomb Fragment",
+        "add": "Master Sphere"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Level 3 Key Sphere"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Level 4 Key Sphere"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "HP Sphere"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "MP Sphere"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Strength Sphere"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Defense Sphere"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Magic Sphere"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Magic Defense Sphere"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Pendulum"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Amulet"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Door to Tomorrow"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Wings to Discovery"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Gambler's Spirit"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Underdog's Secret"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Winning Formula"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Master Sphere"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Level 2 Key Sphere"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Level 3 Key Sphere"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Level 4 Key Sphere"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "HP Sphere"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "MP Sphere"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Strength Sphere"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Defense Sphere"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Magic Sphere"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Magic Defense Sphere"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Special Sphere"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Skill Sphere"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "White Magic Sphere"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Black Magic Sphere"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Master Sphere"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Level 1 Key Sphere"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Level 2 Key Sphere"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Level 3 Key Sphere"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Level 4 Key Sphere"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "HP Sphere"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "MP Sphere"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Strength Sphere"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Defense Sphere"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Magic Sphere"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Magic Defense Sphere"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Warp Sphere"
+      }
+    ]
+  },
+  {
+    "name": "Brimstone",
+    "description": "all enemies; large damage in three bursts plus status abnormalities",
+    "type": "FIRE",
+    "recipes": [
+      {
+        "base": "Bomb Fragment",
+        "add": "Sleeping Powder"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Dream Powder"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Silence Grenade"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Smoke Bomb"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Poison Fang"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Silver Hourglass"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Gold Hourglass"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Candle of Life"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Petrify Grenade"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Farplane Shadow"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Farplane Wind"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Healing Spring"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Mana Spring"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Stamina Spring"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Soul Spring"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Purifying Salt"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Musk"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Sleeping Powder"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Silence Grenade"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Smoke Bomb"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Poison Fang"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Silver Hourglass"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Gold Hourglass"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Candle of Life"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Petrify Grenade"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Healing Spring"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Mana Spring"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Stamina Spring"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Soul Spring"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Purifying Salt"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Musk"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Shining Thorn"
+      }
+    ]
+  },
+  {
+    "name": "Abaddon Flame",
+    "description": "all enemies; large damage in three bursts plus status abnormalities",
+    "type": "FIRE",
+    "recipes": [
+      {
+        "base": "Bomb Fragment",
+        "add": "Chocobo Feather"
+      },
+      {
+        "base": "Bomb Fragment",
+        "add": "Chocobo Wing"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Dream Powder"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Farplane Shadow"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Farplane Wind"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Chocobo Feather"
+      },
+      {
+        "base": "Bomb Core",
+        "add": "Chocobo Wing"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Sleeping Powder"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Dream Powder"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Silence Grenade"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Smoke Bomb"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Poison Fang"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Silver Hourglass"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Gold Hourglass"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Candle of Life"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Petrify Grenade"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Farplane Shadow"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Farplane Wind"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Chocobo Feather"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Chocobo Wing"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Healing Spring"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Mana Spring"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Stamina Spring"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Soul Spring"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Purifying Salt"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Musk"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Fire Gem",
+        "add": "Shining Thorn"
+      }
+    ]
+  }
+]

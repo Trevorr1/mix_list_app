@@ -1,0 +1,913 @@
+[
+  {
+    "name": "Waterfall",
+    "description": "all enemies; small damage in five bursts",
+    "type": "WATER",
+    "recipes": [
+      {
+        "base": "Antidote",
+        "add": "Fish Scale"
+      },
+      {
+        "base": "Antidote",
+        "add": "Dragon Scale"
+      },
+      {
+        "base": "Soft",
+        "add": "Fish Scale"
+      },
+      {
+        "base": "Soft",
+        "add": "Dragon Scale"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Fish Scale"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Dragon Scale"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Fish Scale"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Dragon Scale"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Fish Scale"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Dragon Scale"
+      },
+      {
+        "base": "Remedy",
+        "add": "Fish Scale"
+      },
+      {
+        "base": "Power Distiller",
+        "add": "Fish Scale"
+      },
+      {
+        "base": "Power Distiller",
+        "add": "Dragon Scale"
+      },
+      {
+        "base": "Mana Distiller",
+        "add": "Fish Scale"
+      },
+      {
+        "base": "Mana Distiller",
+        "add": "Dragon Scale"
+      },
+      {
+        "base": "Agility Distiller",
+        "add": "Fish Scale"
+      },
+      {
+        "base": "Agility Distiller",
+        "add": "Dragon Scale"
+      },
+      {
+        "base": "Ability Distiller",
+        "add": "Fish Scale"
+      },
+      {
+        "base": "Ability Distiller",
+        "add": "Dragon Scale"
+      },
+      {
+        "base": "Al Bhed Potion",
+        "add": "Fish Scale"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Dragon Scale"
+      },
+      {
+        "base": "Electro Marble",
+        "add": "Water Gem"
+      },
+      {
+        "base": "Lightning Marble",
+        "add": "Water Gem"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Grenade"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Frag Grenade"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Three Stars"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Power Sphere"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Mana Sphere"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Speed Sphere"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Ability Sphere"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Attribute Sphere"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Special Sphere"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Skill Sphere"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "White Magic Sphere"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Black Magic Sphere"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Level 1 Key Sphere"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Map"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Grenade"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Power Sphere"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Mana Sphere"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Speed Sphere"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Ability Sphere"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Attribute Sphere"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Map"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Rename Card"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Map"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Rename Card"
+      }
+    ]
+  },
+  {
+    "name": "Flash Flood",
+    "description": "all enemies; small damage in six bursts",
+    "type": "WATER",
+    "recipes": [
+      {
+        "base": "Antidote",
+        "add": "Water Gem"
+      },
+      {
+        "base": "Soft",
+        "add": "Water Gem"
+      },
+      {
+        "base": "Eyedrop",
+        "add": "Water Gem"
+      },
+      {
+        "base": "Echo Screen",
+        "add": "Water Gem"
+      },
+      {
+        "base": "Holy Water",
+        "add": "Water Gem"
+      },
+      {
+        "base": "Remedy",
+        "add": "Dragon Scale"
+      },
+      {
+        "base": "Remedy",
+        "add": "Water Gem"
+      },
+      {
+        "base": "Power Distiller",
+        "add": "Water Gem"
+      },
+      {
+        "base": "Mana Distiller",
+        "add": "Water Gem"
+      },
+      {
+        "base": "Agility Distiller",
+        "add": "Water Gem"
+      },
+      {
+        "base": "Ability Distiller",
+        "add": "Water Gem"
+      },
+      {
+        "base": "Al Bhed Potion",
+        "add": "Dragon Scale"
+      },
+      {
+        "base": "Al Bhed Potion",
+        "add": "Water Gem"
+      },
+      {
+        "base": "Healing Water",
+        "add": "Fish Scale"
+      },
+      {
+        "base": "Healing Water",
+        "add": "Dragon Scale"
+      },
+      {
+        "base": "Healing Water",
+        "add": "Water Gem"
+      },
+      {
+        "base": "Tetra Elemental",
+        "add": "Fish Scale"
+      },
+      {
+        "base": "Tetra Elemental",
+        "add": "Dragon Scale"
+      },
+      {
+        "base": "Tetra Elemental",
+        "add": "Water Gem"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Fish Scale"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Dragon Scale"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Water Gem"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Level 2 Key Sphere"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Clear Sphere"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Dragon Scale"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Water Gem"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Frag Grenade"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Three Stars"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Special Sphere"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Skill Sphere"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "White Magic Sphere"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Black Magic Sphere"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Level 1 Key Sphere"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Clear Sphere"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Water Gem"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Grenade"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Frag Grenade"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Power Sphere"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Mana Sphere"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Speed Sphere"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Ability Sphere"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Attribute Sphere"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Clear Sphere"
+      },
+      {
+        "base": "Grenade",
+        "add": "Grenade"
+      },
+      {
+        "base": "Grenade",
+        "add": "Frag Grenade"
+      },
+      {
+        "base": "Frag Grenade",
+        "add": "Frag Grenade"
+      }
+    ]
+  },
+  {
+    "name": "Tidal Wave",
+    "description": "all enemies; small damage in nine bursts",
+    "type": "WATER",
+    "recipes": [
+      {
+        "base": "Fish Scale",
+        "add": "Master Sphere"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Level 3 Key Sphere"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Level 4 Key Sphere"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "HP Sphere"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "MP Sphere"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Strength Sphere"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Defense Sphere"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Magic Sphere"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Magic Defense Sphere"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Pendulum"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Amulet"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Door to Tomorrow"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Wings to Discovery"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Gambler's Spirit"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Underdog's Secret"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Winning Formula"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Master Sphere"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Level 2 Key Sphere"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Level 3 Key Sphere"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Level 4 Key Sphere"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "HP Sphere"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "MP Sphere"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Strength Sphere"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Defense Sphere"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Magic Sphere"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Magic Defense Sphere"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Warp Sphere"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Special Sphere"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Skill Sphere"
+      },
+      {
+        "base": "Water Gem",
+        "add": "White Magic Sphere"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Black Magic Sphere"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Master Sphere"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Level 1 Key Sphere"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Level 2 Key Sphere"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Level 3 Key Sphere"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Level 4 Key Sphere"
+      },
+      {
+        "base": "Water Gem",
+        "add": "HP Sphere"
+      },
+      {
+        "base": "Water Gem",
+        "add": "MP Sphere"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Strength Sphere"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Defense Sphere"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Magic Sphere"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Magic Defense Sphere"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Agility Sphere"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Evasion Sphere"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Accuracy Sphere"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Return Sphere"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Friend Sphere"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Teleport Sphere"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Warp Sphere"
+      }
+    ]
+  },
+  {
+    "name": "Aqua Toxin",
+    "description": "all enemies; large damage in three bursts plus status abnormalities",
+    "type": "WATER",
+    "recipes": [
+      {
+        "base": "Fish Scale",
+        "add": "Sleeping Powder"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Dream Powder"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Silence Grenade"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Smoke Bomb"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Poison Fang"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Silver Hourglass"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Gold Hourglass"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Candle of Life"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Petrify Grenade"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Farplane Shadow"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Farplane Wind"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Chocobo Feather"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Chocobo Wing"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Healing Spring"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Mana Spring"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Stamina Spring"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Soul Spring"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Purifying Salt"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Musk"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Fish Scale",
+        "add": "Shining Thorn"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Sleeping Powder"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Silence Grenade"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Smoke Bomb"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Poison Fang"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Silver Hourglass"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Gold Hourglass"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Candle of Life"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Petrify Grenade"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Chocobo Feather"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Chocobo Wing"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Healing Spring"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Mana Spring"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Stamina Spring"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Soul Spring"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Purifying Salt"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Musk"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Shining Thorn"
+      }
+    ]
+  },
+  {
+    "name": "Dark Rain",
+    "description": "all enemies; large damage in three bursts plus status abnormalities",
+    "type": "WATER",
+    "recipes": [
+      {
+        "base": "Dragon Scale",
+        "add": "Dream Powder"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Farplane Shadow"
+      },
+      {
+        "base": "Dragon Scale",
+        "add": "Farplane Wind"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Sleeping Powder"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Dream Powder"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Silence Grenade"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Smoke Bomb"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Poison Fang"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Silver Hourglass"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Gold Hourglass"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Candle of Life"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Petrify Grenade"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Farplane Shadow"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Farplane Wind"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Chocobo Feather"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Chocobo Wing"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Healing Spring"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Mana Spring"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Stamina Spring"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Soul Spring"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Purifying Salt"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Musk"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Hypello Potion"
+      },
+      {
+        "base": "Water Gem",
+        "add": "Shining Thorn"
+      }
+    ]
+  }
+]
