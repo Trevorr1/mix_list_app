@@ -22,6 +22,7 @@ dependencies:
   cupertino_icons: ^1.0.8
   intl: ^0.20.1
   http: ^1.2.2
+  json_annotation: ^4.9.0
 
 dev_dependencies:
   flutter_test:
@@ -29,6 +30,8 @@ dev_dependencies:
 
 
   flutter_lints: ^4.0.0
+  build_runner: ^2.4.13
+  json_serializable: ^6.9.0
   
 
 flutter:

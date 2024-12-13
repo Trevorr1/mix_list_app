@@ -13,7 +13,7 @@ void main() {
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    context.read<FileController>().readText();
+    context.read<FileController>().readJson();
     return MaterialApp(
       title: 'Rikku\'s Mix List',
       theme: ThemeData(
