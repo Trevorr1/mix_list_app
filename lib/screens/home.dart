@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:mix_list_app/controller/file_controller.dart';
-import 'package:mix_list_app/models/item.dart';
-import 'package:mix_list_app/widget/detail_view.dart';
+import 'package:mix_list_app/screens/items.dart';
+import 'package:mix_list_app/screens/mix_items.dart';
 
 class Home extends StatefulWidget {
   const Home({super.key, required this.fileController});
@@ -13,56 +13,54 @@ class Home extends StatefulWidget {
 }
 
 class _HomeState extends State<Home> {
-  List<Item> _items = [];
-
-  @override
-  void initState() {
-    super.initState();
-    widget.fileController.readJson().then((value) {
-      setState(() {
-        _items = value;
-      });
-    });
-  }
+  var selectedIndex = 0;
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        title: Text("Items"),
-      ),
-      body: ListView.builder(
-        itemCount: _items.length,
-        prototypeItem: Card(
-          child: ListTile(
-            leading: CircleAvatar(child: Text(_items.first.name[0])),
-            title: Text(_items.first.name.capitalized()),
-            subtitle: Text(_items.first.description.capitalized()),
-          ),
-        ),
-        itemBuilder: (context, index) {
-          return Card(
-            key: ValueKey(
-                _items[index].name), // Ensure each ListTile has a unique key
-            child: InkWell(
-              onTap: () {
-                Navigator.push(
-                  context,
-                  MaterialPageRoute(
-                    builder: (context) => DetailView(item: _items[index]),
+    Widget page;
+    switch (selectedIndex) {
+      case 0:
+        page = Items(fileController: widget.fileController);
+      case 1:
+        page = MixItems(fileController: widget.fileController);
+      default:
+        throw UnimplementedError('no widget for $selectedIndex');
+    }
+    return LayoutBuilder(builder: (context, constraints) {
+      return Scaffold(
+        body: Row(
+          children: [
+            SafeArea(
+              child: NavigationRail(
+                extended: constraints.maxWidth >= 600,
+                destinations: [
+                  NavigationRailDestination(
+                    icon: Icon(Icons.bolt),
+                    label: Text('Items'),
                   ),
-                );
-              },
-              child: ListTile(
-                leading: CircleAvatar(child: Text(_items[index].name[0])),
-                title: Text(_items[index].name.capitalized()),
-                subtitle: Text(_items[index].description.capitalized()),
+                  NavigationRailDestination(
+                    icon: Icon(Icons.science),
+                    label: Text('Mix Items'),
+                  ),
+                ],
+                selectedIndex: selectedIndex,
+                onDestinationSelected: (value) {
+                  setState(() {
+                    selectedIndex = value;
+                  });
+                },
               ),
             ),
-          );
-        },
-      ),
-    );
+            Expanded(
+              child: Container(
+                color: Theme.of(context).colorScheme.primaryContainer,
+                child: page,
+              ),
+            ),
+          ],
+        ),
+      );
+    });
   }
 }
 
