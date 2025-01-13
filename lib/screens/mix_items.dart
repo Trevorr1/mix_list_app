@@ -13,25 +13,23 @@ class MixItems extends StatefulWidget {
 }
 
 class _MixItemsState extends State<MixItems> {
-  List<MixItem> _mixItems = [];
-
-  @override
-  void initState() {
-    super.initState();
-    widget.fileController.readMixItemsJson().then((value) {
-      setState(() {
-        _mixItems = value;
-      });
-    });
-  }
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Mix Items"),
+        title: Text("Mixed Items"),
       ),
-      body: ItemList( items: _mixItems), // this causes a exception because the items are not loaded yet when the widget is built
+      body: FutureBuilder<List<MixItem>>(
+        future: widget.fileController
+            .readMixItemsJson(), // future of the list of mixed items
+        builder: (BuildContext context, AsyncSnapshot<List<MixItem>> snapshot) {
+          if (snapshot.hasData) {
+            return ItemList(items: snapshot.data!);
+          } else {
+            return const Center(child: CircularProgressIndicator());
+          }
+        },
+      ),
     );
   }
 }

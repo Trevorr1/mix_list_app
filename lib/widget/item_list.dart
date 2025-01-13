@@ -14,9 +14,10 @@ class ItemList extends StatelessWidget {
       itemCount: items.length,
       prototypeItem: Card(
         child: ListTile(
+          // TODO: make the height more adaptive if possible
           leading: CircleAvatar(child: Text(items.first.name[0])),
-          title: Text((items.first.name as String).capitalized()),
-          subtitle: Text((items.first.description as String).capitalized()),
+          title: Text((items[3].name as String).capitalized()),
+          subtitle: Text((items[3].description as String).capitalized()),
         ),
       ),
       itemBuilder: (context, index) {
