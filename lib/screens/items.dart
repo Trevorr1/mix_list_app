@@ -13,18 +13,6 @@ class Items extends StatefulWidget {
 }
 
 class _ItemsState extends State<Items> {
-  List<Item> _items = [];
-
-  @override
-  void initState() {
-    super.initState();
-    widget.fileController.readItemsJson().then((value) {
-      setState(() {
-        _items = value;
-      });
-    });
-  }
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
