@@ -1,5 +1,40 @@
+import 'dart:async';
+
 import 'package:flutter/material.dart';
 import 'package:mix_list_app/models/mix_item.dart';
+import 'package:wheel_picker/wheel_picker.dart';
+
+class RecipeComponentPicker extends StatelessWidget {
+  final List<String> components;
+
+  const RecipeComponentPicker({super.key, required this.components});
+
+  @override
+  Widget build(BuildContext context) {
+    final controller = WheelPickerController(itemCount: components.length);
+    const textStyle = TextStyle(fontSize: 32, height: 1.5);
+
+    return SizedBox(
+      height: 200,
+      child: WheelPicker(
+        builder: (context, index) => Text(components[index], style: textStyle),
+        controller: controller,
+        selectedIndexColor: Colors.blue,
+        onIndexChanged: (index, _) {
+          print("On index $index");
+        },
+        style: WheelPickerStyle(
+          itemExtent: textStyle.fontSize! * textStyle.height!, // Text height
+          squeeze: 1.25,
+          diameterRatio: .8,
+          surroundingOpacity: .25,
+          magnification: 1.2,
+        ),
+        looping: false, // Disable looping to prevent rollover
+      ),
+    );
+  }
+}
 
 class MixDetailView extends StatelessWidget {
   final MixItem mixItem;
@@ -28,6 +63,18 @@ class MixDetailView extends StatelessWidget {
             ),
             SizedBox(height: 8),
             Text(mixItem.description),
+            SizedBox(
+                height:
+                    8), // TODO: Make it so there are two pickers side by side/ one for bases and and updating one for the adds
+            RecipeComponentPicker(
+              // TODO: Use as SET of recipe components based on mixItem.recipes bases
+              components: [
+                'Component 1',
+                'Component 2',
+                'Component 3',
+                'Component 4'
+              ],
+            )
           ],
         ),
       ),
