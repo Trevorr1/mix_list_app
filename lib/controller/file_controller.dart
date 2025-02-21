@@ -18,8 +18,6 @@ class FileController {
         .map((itemData) => Item.fromJson(itemData as Map<String, dynamic>))
         .toList();
 
-    print("Items loaded with ${items.length} items.");
-
     return items;
   }
 
@@ -36,17 +34,12 @@ class FileController {
 
     List<MixItem> mixItems = [];
     for (String file in files) {
-      // final String response = await rootBundle.loadString(file);
-      // final data = await json.decode(response) as List;
-
       List<dynamic> parsedListJson = await parseJsonFile(file);
 
       mixItems.addAll(parsedListJson
           .map((mixItem) => MixItem.fromJson(mixItem as Map<String, dynamic>))
           .toList());
     }
-
-    print("Mix Items loaded with ${mixItems.length} items.");
 
     return mixItems;
   }

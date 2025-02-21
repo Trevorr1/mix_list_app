@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:mix_list_app/models/item.dart';
-import 'package:mix_list_app/widget/detail_view.dart';
-import 'package:mix_list_app/widget/mix_detail_view.dart';
+import 'package:mix_list_app/screens/detail_view.dart';
+import 'package:mix_list_app/screens/mix_detail_view.dart';
 
 class ItemList extends StatelessWidget {
   final List<dynamic> items;

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:mix_list_app/controller/file_controller.dart';
 import 'package:mix_list_app/models/item.dart';
-import 'package:mix_list_app/widget/item_list.dart';
+import 'package:mix_list_app/screens/item_list.dart';
 
 class Items extends StatefulWidget {
   final FileController fileController;
