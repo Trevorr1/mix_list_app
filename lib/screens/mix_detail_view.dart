@@ -61,7 +61,7 @@ class _MixDetailViewState extends State<MixDetailView> {
             SizedBox(height: 8),
             Text(widget.mixItem.description),
             SizedBox(height: 8),
-            DropdownButton<String>(
+            DropdownButtonFormField<String>(
               value: selectedBase,
               items: baseComponents
                   .map((base) => DropdownMenuItem(
@@ -75,6 +75,10 @@ class _MixDetailViewState extends State<MixDetailView> {
                   updateAddComponents();
                 });
               },
+              decoration: InputDecoration(
+                labelText: 'Select Base',
+                border: OutlineInputBorder(),
+              ),
             ),
             Expanded(
               child: ListView(
