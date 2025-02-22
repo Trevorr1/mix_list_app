@@ -4,7 +4,8 @@ import 'package:mix_list_app/screens/items.dart';
 import 'package:mix_list_app/screens/mix_items.dart';
 
 // TODO: MAKE IT SO THE APP ADDAPTS TO THE SCREEN SIZE
-// TODO: ADD A SEARCH BAR TO THE ITEMS AND MIX ITEMS PAGES
+// TODO: ADD ICONS AND COLOR CODES FOR ITEMS AND MIX ITEMS
+// TODO: CHANGE COLOR SCHEME TO MATCH RIKKU'S FOR FUN
 class Home extends StatefulWidget {
   const Home({super.key, required this.fileController});
 

@@ -16,7 +16,6 @@ class _ItemListState extends State<ItemList> {
   TextEditingController _searchController = TextEditingController();
   FocusNode fieldFocusNode = FocusNode();
   List<dynamic> _filteredItems = [];
-  List<String> _suggestions = [];
   String? _selectedType;
 
   @override
@@ -95,12 +94,14 @@ class _ItemListState extends State<ItemList> {
             itemCount: _filteredItems.length,
             prototypeItem: Card(
               child: ListTile(
-                // TODO: make the height more adaptive if possible
                 leading:
                     CircleAvatar(child: Text(_filteredItems.first.name[0])),
                 title: Text((_filteredItems[0].name as String).capitalized()),
                 subtitle: Text(
-                    (_filteredItems[0].description as String).capitalized()),
+                  (_filteredItems[0].description as String).capitalized(),
+                  overflow: TextOverflow.ellipsis,
+                ),
+                isThreeLine: true,
               ),
             ),
             itemBuilder: (context, index) {
@@ -121,7 +122,11 @@ class _ItemListState extends State<ItemList> {
                   child: ListTile(
                     leading: CircleAvatar(child: Text(item.name[0])),
                     title: Text((item.name as String).capitalized()),
-                    subtitle: Text((item.description as String).capitalized()),
+                    subtitle: Text(
+                      (item.description as String).capitalized(),
+                      overflow: TextOverflow.ellipsis,
+                    ),
+                    isThreeLine: true,
                   ),
                 ),
               );
