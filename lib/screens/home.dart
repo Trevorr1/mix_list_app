@@ -38,11 +38,13 @@ class _HomeState extends State<Home> {
                 extended: constraints.maxWidth >= 600,
                 destinations: [
                   NavigationRailDestination(
-                    icon: Icon(Icons.bolt),
+                    icon: Icon(Icons.bookmark_border),
+                    selectedIcon: Icon(Icons.bookmark),
                     label: Text('Items'),
                   ),
                   NavigationRailDestination(
-                    icon: Icon(Icons.science),
+                    icon: Icon(Icons.science_outlined),
+                    selectedIcon: Icon(Icons.science),
                     label: Text('Mix Items'),
                   ),
                 ],
@@ -54,6 +56,7 @@ class _HomeState extends State<Home> {
                 },
               ),
             ),
+            const VerticalDivider(thickness: 1, width: 1),
             Expanded(
               child: Container(
                 color: Theme.of(context).colorScheme.primaryContainer,
