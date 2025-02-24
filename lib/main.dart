@@ -15,7 +15,14 @@ class MyApp extends StatelessWidget {
       title: 'Rikku\'s Mix List',
       theme: ThemeData(
         useMaterial3: true,
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.lightBlue),
+        colorScheme: ColorScheme.fromSeed(seedColor: Color(0xFFFDD275)),
+        appBarTheme: AppBarTheme(
+          backgroundColor: Color(0xFFEE9231),
+        ),
+        bottomNavigationBarTheme: BottomNavigationBarThemeData(
+          selectedItemColor: Color(0xFF5B7C3B),
+          unselectedItemColor: Color(0xFF5B7C3B).withOpacity(0.5),
+        ),
       ),
       home: Home(fileController: FileController()),
     );

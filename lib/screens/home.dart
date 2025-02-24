@@ -3,9 +3,8 @@ import 'package:mix_list_app/controller/file_controller.dart';
 import 'package:mix_list_app/screens/items.dart';
 import 'package:mix_list_app/screens/mix_items.dart';
 
-// TODO: MAKE IT SO THE APP ADDAPTS TO THE SCREEN SIZE
 // TODO: ADD ICONS AND COLOR CODES FOR ITEMS AND MIX ITEMS
-// TODO: CHANGE COLOR SCHEME TO MATCH RIKKU'S FOR FUN
+// TODO: CHANGE COLOR SCHEME TO MATCH RIKKU'S FOR FUN - EXPAND TO USE CUSTOM THEME DATA, ETC.
 class Home extends StatefulWidget {
   const Home({super.key, required this.fileController});
 
@@ -20,6 +19,8 @@ class _HomeState extends State<Home> {
 
   @override
   Widget build(BuildContext context) {
+    var colorScheme = Theme.of(context).colorScheme;
+
     Widget page;
     switch (selectedIndex) {
       case 0:
@@ -29,44 +30,83 @@ class _HomeState extends State<Home> {
       default:
         throw UnimplementedError('no widget for $selectedIndex');
     }
-    return LayoutBuilder(builder: (context, constraints) {
-      return Scaffold(
-        body: Row(
-          children: [
-            SafeArea(
-              child: NavigationRail(
-                extended: constraints.maxWidth >= 600,
-                destinations: [
-                  NavigationRailDestination(
-                    icon: Icon(Icons.bookmark_border),
-                    selectedIcon: Icon(Icons.bookmark),
-                    label: Text('Items'),
+
+    // TODO: add an apporopriate sliding animation transition.
+    var mainArea = ColoredBox(
+      color: colorScheme.surfaceContainerHighest,
+      child: AnimatedSwitcher(
+        duration: Duration(milliseconds: 200),
+        child: page,
+      ),
+    );
+
+    return Scaffold(
+      body: LayoutBuilder(
+        builder: (context, constraints) {
+          if (constraints.maxWidth < 450) {
+            // Use a more mobile-friendly layout with BottomNavigationBar
+            // on narrow screens.
+            return Column(
+              children: [
+                Expanded(child: mainArea),
+                SafeArea(
+                  child: BottomNavigationBar(
+                    items: [
+                      BottomNavigationBarItem(
+                        icon: Icon(Icons.bookmark_border),
+                        activeIcon: Icon(Icons.bookmark),
+                        label: 'Items',
+                      ),
+                      BottomNavigationBarItem(
+                        icon: Icon(Icons.science_outlined),
+                        activeIcon: Icon(Icons.science),
+                        label: 'Mix Items',
+                      )
+                    ],
+                    currentIndex: selectedIndex,
+                    onTap: (value) {
+                      setState(() {
+                        selectedIndex = value;
+                      });
+                    },
                   ),
-                  NavigationRailDestination(
-                    icon: Icon(Icons.science_outlined),
-                    selectedIcon: Icon(Icons.science),
-                    label: Text('Mix Items'),
+                ),
+              ],
+            );
+          } else {
+            return Row(
+              children: [
+                SafeArea(
+                  child: NavigationRail(
+                    extended: constraints.maxWidth >= 600,
+                    destinations: [
+                      NavigationRailDestination(
+                        icon: Icon(Icons.bookmark_border),
+                        selectedIcon: Icon(Icons.bookmark),
+                        label: Text('Items'),
+                      ),
+                      NavigationRailDestination(
+                        icon: Icon(Icons.science_outlined),
+                        selectedIcon: Icon(Icons.science),
+                        label: Text('Mix Items'),
+                      ),
+                    ],
+                    selectedIndex: selectedIndex,
+                    onDestinationSelected: (value) {
+                      setState(() {
+                        selectedIndex = value;
+                      });
+                    },
                   ),
-                ],
-                selectedIndex: selectedIndex,
-                onDestinationSelected: (value) {
-                  setState(() {
-                    selectedIndex = value;
-                  });
-                },
-              ),
-            ),
-            const VerticalDivider(thickness: 1, width: 1),
-            Expanded(
-              child: Container(
-                color: Theme.of(context).colorScheme.primaryContainer,
-                child: page,
-              ),
-            ),
-          ],
-        ),
-      );
-    });
+                ),
+                // const VerticalDivider(thickness: 1, width: 1),
+                Expanded(child: mainArea),
+              ],
+            );
+          }
+        },
+      ),
+    );
   }
 }
 
