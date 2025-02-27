@@ -15,21 +15,24 @@ class Items extends StatefulWidget {
 class _ItemsState extends State<Items> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        title: Text("Items"),
-      ),
-      body: FutureBuilder<List<Item>>(
-        future: widget.fileController
-            .readItemsJson(), // future of the list of items
-        builder: (BuildContext context, AsyncSnapshot<List<Item>> snapshot) {
-          if (snapshot.hasData) {
-            return ItemList(items: snapshot.data!);
-          } else {
-            return const Center(child: CircularProgressIndicator());
-          }
-        },
-      ),
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        Expanded(
+          child: FutureBuilder<List<Item>>(
+            future: widget.fileController
+                .readItemsJson(), // future of the list of items
+            builder:
+                (BuildContext context, AsyncSnapshot<List<Item>> snapshot) {
+              if (snapshot.hasData) {
+                return ItemList(items: snapshot.data!);
+              } else {
+                return const Center(child: CircularProgressIndicator());
+              }
+            },
+          ),
+        ),
+      ],
     );
   }
 }

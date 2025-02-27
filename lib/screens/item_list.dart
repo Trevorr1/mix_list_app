@@ -16,7 +16,7 @@ class _ItemListState extends State<ItemList> {
   TextEditingController _searchController = TextEditingController();
   FocusNode fieldFocusNode = FocusNode();
   List<dynamic> _filteredItems = [];
-  String? _selectedType;
+  List<String> _selectedTypes = [];
 
   @override
   void initState() {
@@ -38,16 +38,26 @@ class _ItemListState extends State<ItemList> {
       _filteredItems = widget.items
           .where((item) =>
               item.name.toLowerCase().contains(query) &&
-              (_selectedType == null || item.type == _selectedType))
+              (_selectedTypes.isEmpty ||
+                  _selectedTypes.every((type) => item.type.contains(type))))
           .toList();
+    });
+  }
+
+  void _toggleType(String type) {
+    setState(() {
+      if (_selectedTypes.contains(type)) {
+        _selectedTypes.remove(type);
+      } else {
+        _selectedTypes.add(type);
+      }
+      _filterItems();
     });
   }
 
   @override
   Widget build(BuildContext context) {
-    // Extract the unique types of the items
     final types = widget.items.map((item) => item.type).toSet().toList();
-    types.insert(0, 'ALL');
 
     return Column(
       children: [
@@ -64,74 +74,73 @@ class _ItemListState extends State<ItemList> {
         ),
         Padding(
           padding: const EdgeInsets.all(8.0),
-          child: DropdownButtonFormField<String>(
-            decoration: InputDecoration(
-              labelText: 'Select Type',
-              border: OutlineInputBorder(),
+          child: SingleChildScrollView(
+            scrollDirection: Axis.horizontal,
+            child: Row(
+              children: types.map((type) {
+                final isSelected = _selectedTypes.contains(type);
+                return Padding(
+                  padding: const EdgeInsets.symmetric(horizontal: 4.0),
+                  child: OutlinedButton(
+                    onPressed: () => _toggleType(type),
+                    style: OutlinedButton.styleFrom(
+                      backgroundColor: isSelected ? Colors.blue : Colors.grey,
+                    ),
+                    child: Text(type),
+                  ),
+                );
+              }).toList(),
             ),
-            hint: Text('Select Type'),
-            value: _selectedType,
-            items: types
-                .map<DropdownMenuItem<String>>((type) => DropdownMenuItem(
-                      value: type,
-                      child: Text(type),
-                    ))
-                .toList(),
-            onChanged: (String? value) {
-              setState(() {
-                if (value == 'ALL') {
-                  _selectedType = null;
-                } else {
-                  _selectedType = value;
-                }
-                _filterItems();
-              });
-            },
           ),
         ),
         Expanded(
-          child: ListView.builder(
-            itemCount: _filteredItems.length,
-            prototypeItem: Card(
-              child: ListTile(
-                leading:
-                    CircleAvatar(child: Text(_filteredItems.first.name[0])),
-                title: Text((_filteredItems[0].name as String).capitalized()),
-                subtitle: Text(
-                  (_filteredItems[0].description as String).capitalized(),
-                  overflow: TextOverflow.ellipsis,
-                ),
-                isThreeLine: true,
-              ),
-            ),
-            itemBuilder: (context, index) {
-              final item = _filteredItems[index];
-              return Card(
-                key: ValueKey(item.name),
-                child: InkWell(
-                  onTap: () {
-                    Navigator.push(
-                      context,
-                      MaterialPageRoute(
-                        builder: (context) => item is Item
-                            ? DetailView(item: item)
-                            : MixDetailView(mixItem: item),
+          child: _filteredItems.isNotEmpty
+              ? ListView.builder(
+                  itemCount: _filteredItems.length,
+                  prototypeItem: Card(
+                    child: ListTile(
+                      leading: CircleAvatar(
+                          child: Text(_filteredItems.first.name[0])),
+                      title: Text(
+                          (_filteredItems[0].name as String).capitalized()),
+                      subtitle: Text(
+                        (_filteredItems[0].description as String).capitalized(),
+                        overflow: TextOverflow.ellipsis,
+                      ),
+                      isThreeLine: true,
+                    ),
+                  ),
+                  itemBuilder: (context, index) {
+                    final item = _filteredItems[index];
+                    return Card(
+                      key: ValueKey(item.name),
+                      child: InkWell(
+                        onTap: () {
+                          Navigator.push(
+                            context,
+                            MaterialPageRoute(
+                              builder: (context) => item is Item
+                                  ? DetailView(item: item)
+                                  : MixDetailView(mixItem: item),
+                            ),
+                          );
+                        },
+                        child: ListTile(
+                          leading: CircleAvatar(child: Text(item.name[0])),
+                          title: Text((item.name as String).capitalized()),
+                          subtitle: Text(
+                            (item.description as String).capitalized(),
+                            overflow: TextOverflow.ellipsis,
+                          ),
+                          isThreeLine: true,
+                        ),
                       ),
                     );
                   },
-                  child: ListTile(
-                    leading: CircleAvatar(child: Text(item.name[0])),
-                    title: Text((item.name as String).capitalized()),
-                    subtitle: Text(
-                      (item.description as String).capitalized(),
-                      overflow: TextOverflow.ellipsis,
-                    ),
-                    isThreeLine: true,
-                  ),
+                )
+              : Center(
+                  child: Text("No Items Match the Query!"),
                 ),
-              );
-            },
-          ),
         ),
       ],
     );

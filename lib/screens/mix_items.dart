@@ -15,21 +15,23 @@ class MixItems extends StatefulWidget {
 class _MixItemsState extends State<MixItems> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        title: Text("Mixed Items"),
-      ),
-      body: FutureBuilder<List<MixItem>>(
-        future: widget.fileController
-            .readMixItemsJson(), // future of the list of mixed items
-        builder: (BuildContext context, AsyncSnapshot<List<MixItem>> snapshot) {
-          if (snapshot.hasData) {
-            return ItemList(items: snapshot.data!);
-          } else {
-            return const Center(child: CircularProgressIndicator());
-          }
-        },
-      ),
+    return Column(
+      children: [
+        Expanded(
+          child: FutureBuilder<List<MixItem>>(
+            future: widget.fileController
+                .readMixItemsJson(), // future of the list of mixed items
+            builder:
+                (BuildContext context, AsyncSnapshot<List<MixItem>> snapshot) {
+              if (snapshot.hasData) {
+                return ItemList(items: snapshot.data!);
+              } else {
+                return const Center(child: CircularProgressIndicator());
+              }
+            },
+          ),
+        ),
+      ],
     );
   }
 }

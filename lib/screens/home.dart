@@ -41,6 +41,9 @@ class _HomeState extends State<Home> {
     );
 
     return Scaffold(
+      appBar: AppBar(
+        title: Text("RikkMix"),
+      ),
       body: LayoutBuilder(
         builder: (context, constraints) {
           if (constraints.maxWidth < 450) {
@@ -99,7 +102,6 @@ class _HomeState extends State<Home> {
                     },
                   ),
                 ),
-                // const VerticalDivider(thickness: 1, width: 1),
                 Expanded(child: mainArea),
               ],
             );
