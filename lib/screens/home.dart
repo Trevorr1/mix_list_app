@@ -3,8 +3,6 @@ import 'package:mix_list_app/controller/file_controller.dart';
 import 'package:mix_list_app/screens/items.dart';
 import 'package:mix_list_app/screens/mix_items.dart';
 
-// TODO: ADD ICONS AND COLOR CODES FOR ITEMS AND MIX ITEMS
-// TODO: CHANGE COLOR SCHEME TO MATCH RIKKU'S FOR FUN - EXPAND TO USE CUSTOM THEME DATA, ETC.
 class Home extends StatefulWidget {
   const Home({super.key, required this.fileController});
 
@@ -20,6 +18,7 @@ class _HomeState extends State<Home> {
   @override
   Widget build(BuildContext context) {
     var colorScheme = Theme.of(context).colorScheme;
+    var textTheme = Theme.of(context).textTheme;
 
     Widget page;
     switch (selectedIndex) {
@@ -31,7 +30,6 @@ class _HomeState extends State<Home> {
         throw UnimplementedError('no widget for $selectedIndex');
     }
 
-    // TODO: add an apporopriate sliding animation transition.
     var mainArea = ColoredBox(
       color: colorScheme.surfaceContainerHighest,
       child: AnimatedSwitcher(
@@ -42,8 +40,13 @@ class _HomeState extends State<Home> {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text("RikkMix"),
-      ),
+          title: Text(
+            "RikkMix",
+            style: textTheme.titleLarge!.copyWith(
+              color: colorScheme.onTertiary,
+            ),
+          ),
+          backgroundColor: colorScheme.tertiary),
       body: LayoutBuilder(
         builder: (context, constraints) {
           if (constraints.maxWidth < 450) {
