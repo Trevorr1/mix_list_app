@@ -4,7 +4,7 @@ import 'package:mix_list_app/controller/file_controller.dart';
 import 'package:mix_list_app/screens/home.dart';
 
 void main() {
-  debugPaintSizeEnabled = false;
+  // debugPaintSizeEnabled = false;
   runApp(
     MyApp(),
   );
