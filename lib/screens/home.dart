@@ -41,7 +41,7 @@ class _HomeState extends State<Home> {
     return Scaffold(
       appBar: AppBar(
           title: Text(
-            "RikkMix",
+            "Rikku's Mix List",
             style: textTheme.titleLarge!.copyWith(
               color: colorScheme.onTertiary,
             ),
